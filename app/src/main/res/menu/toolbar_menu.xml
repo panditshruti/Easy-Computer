@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+
+        <item
+            android:title="Profile"
+            android:id="@+id/profileFragment"
+            />
+
+        <item
+            android:title="Rate Us"
+            android:id="@+id/ratingApp"
+            />
+        <item
+            android:title="Help Center"
+            android:id="@+id/helpCenterFragment"
+            />
+        <item
+            android:title="Invite a Friend"
+            android:id="@+id/inviteAFriend"
+            android:onClick="shareAppLink"
+            />
+
+
+
+
+</menu>

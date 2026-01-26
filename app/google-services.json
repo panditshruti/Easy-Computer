@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316926251018",
+    "project_id": "easy-computer-2b74a",
+    "storage_bucket": "easy-computer-2b74a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316926251018:android:176ec35b6287c1e669cff3",
+        "android_client_info": {
+          "package_name": "com.shrutipandit.easycomputer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKqP3Uqd4FJZFnnMsIHuqw2S9PanAx6YA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.shrutipandit.easycomputer.uiFragment.HomeFragment"
+        android:label="Easy Computer"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_homeFragment_to_helpCenterFragment2"
+            app:destination="@id/helpCenterFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_profileFragment"
+            app:destination="@id/profileFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_adcaChFragment"
+            app:destination="@id/adcaChFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_dcaChFragment"
+            app:destination="@id/dcaChFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_dtpChFragment"
+            app:destination="@id/dtpChFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/helpCenterFragment"
+        android:name="com.shrutipandit.easycomputer.uiFragment.HelpCenterFragment"
+        android:label="Help Center"
+        tools:layout="@layout/fragment_help_center" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.shrutipandit.easycomputer.uiFragment.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/adcaChFragment"
+        android:name="com.shrutipandit.easycomputer.uiFragment.AdcaChFragment"
+        android:label="AdcaChanpter Name"
+        tools:layout="@layout/fragment_adca_ch" >
+        <action
+            android:id="@+id/action_adcaChFragment_to_adcaNotesFragment"
+            app:destination="@id/adcaNotesFragment" />
+
+    </fragment>
+    <fragment
+        android:id="@+id/dcaChFragment"
+        android:name="com.shrutipandit.easycomputer.uiFragment.DcaChFragment"
+        android:label="Dca Chanpter Name"
+        tools:layout="@layout/fragment_dca_ch" />
+    <fragment
+        android:id="@+id/dtpChFragment"
+        android:name="com.shrutipandit.easycomputer.uiFragment.DtpChFragment"
+        android:label="Dtp Chapter Name"
+        tools:layout="@layout/fragment_dtp_ch" />
+    <fragment
+        android:id="@+id/adcaNotesFragment"
+        android:name="com.shrutipandit.easycomputer.uiFragment.AdcaNotesFragment"
+        tools:layout="@layout/fragment_adca_notes">
+
+        <argument
+            android:name="chapterName"
+            app:argType="string" />
+    </fragment>
+
+</navigation>

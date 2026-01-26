@@ -1,0 +1,2666 @@
+{
+  "ch1": {
+    "-N7Em6Evh_khKqeCBcdCj": {
+      "answer": "Advanced development in computer application",
+      "imgurl": " ",
+      "question": "ADCA stand for?"
+    },
+    "-N7ElLs9CzLJfY102f-p": {
+      "answer": "C-common  \nO-operating\nM-machine\nP-partucularly\nU-used\nT-trade\nE-education\nR-research",
+      "imgurl": " ",
+      "question": "full form of computer?"
+    },
+    "-N7Em6Evh_khKqeCBcCj": {
+      "answer": "computer is a human made electronic device manipulates data or information.",
+      "imgurl": " ",
+      "question": "what is computer?"
+    },
+    "-N7EmQJVZB2YUs-d8Em_": {
+      "answer": "i Embedded computer\nii Visible computer ",
+      "imgurl": " ",
+      "question": "we can divide it a computer into two groups?"
+    },
+    "-N7Eq09TWs8dmX7sMr1s": {
+      "answer": "this computer work behind or with the machine. (यह कंप्यूटर किसी मशीन के पीछे या साथ काम करते हैं)",
+      "imgurl": " ",
+      "question": " what is embedded computer?"
+    },
+    "-N7EqVpHI4Kq8kFxYsoQ": {
+      "answer": "computer controlled cars ,leather machine ,washing Machine microwave,etc",
+      "imgurl": " ",
+      "question": "example:-"
+    },
+    "-N7ErJcP6IbLgs1DRcex": {
+      "answer": "which computer we have to run to use called visible computer. (जिस कंप्यूटर का संचालन करना पड़ता है उसे visible computer कहते हैं )",
+      "imgurl": " ",
+      "question": "what is visual computer?"
+    },
+    "-N7Erf3VL_25WA-D49cr": {
+      "answer": "i) micro computer ii) main frame computer iii) mini computer  iv) super computer ",
+      "imgurl": " ",
+      "question": "there are four type of physical computer:-"
+    },
+    "-N7EtG8GVXlD9TeyFjjn": {
+      "answer": "micro computer  को personal computer भी कहा जाता है इसकी सर्वजन कती सीमित होती है।",
+      "imgurl": " ",
+      "question": "what is microcomputer?"
+    },
+    "-N7EtaXYFiqtFx9esxfd": {
+      "answer": "mini computer छोटे तथा सामान्य प्रयोग के लिए होते हैं यह मध्यम आकार के संगठन द्वारा छोटा प्रशिक्षण तथा प्रयोग को परिणामों का विश्लेषण करने का काम।",
+      "imgurl": " ",
+      "question": "what is mini computer?"
+    },
+    "-N7Eur7vmjwO39Ef9RFd": {
+      "answer": "इस के साधन गति तेज होती है यह वाइड एरिया नेटवर्क में कार्य करते हैं यह नेटवर्क में उपग्रह के जरिए संचार का कार्य एक देश से दूसरे देश में होता है",
+      "imgurl": " ",
+      "question": "what is meant from computer?"
+    },
+    "-N7EvR8WHZ2LBY9d4eGD": {
+      "answer": "यह सबसे महंगे कंप्यूटर होते हैं इनका प्रयोग मौसम के भविष्यवाणी जैव चिकित्सा वैज्ञानिक बनना तथा एयरक्राफ्ट डिजाइनिंग के लिए किया जाता है।",
+      "imgurl": " ",
+      "question": "what is supercomputer?"
+    },
+    "-N7EwKJ9mcqrzodxozh-": {
+      "answer": "18 वी शताब्दी के मध्य कंबर ब्रिज यूनिवर्सिटी के मैथमेटिक्स के प्रोफेसर जिनका नाम चार्ल्स बैबेज था इन्होंने एक enalytical engine बनाया।उसके बाद इसे father of computer कहा जाता हैl",
+      "imgurl": " ",
+      "question": "history of computer:-"
+    },
+    "-N7Ewp67inrQC-v3ZbML": {
+      "answer": " electronic numerical integrated and calculator",
+      "imgurl": " ",
+      "question": "ENIAC:-"
+    },
+    "-N7Ex0Y4D89lumIQyQqw": {
+      "answer": "electronic delay storage automatic computer",
+      "imgurl": " ",
+      "question": "EDSAC:-"
+    },
+    "-N7Excpm4MyE3d9kqSEQ": {
+      "answer": "i mini computer in 1960.\nii personal computer in 1975.\niii super computer in 1991 .",
+      "imgurl": " ",
+      "question": "computer arrival in market:-"
+    },
+    "-N7F-Go4yC5DXfs3X-uI": {
+      "answer": "1st generations (1942-1959).\n2nd generation (1959-1964).\n3rd generation (2964-2971).\n4th generation (2971-1980).",
+      "imgurl": " ",
+      "question": "generation of computer:-"
+    },
+    "-N7F-zIkI53c_XIJzNxa": {
+      "answer": "i. CPU(central processing unit)\nii. monitor\niii. keyboard\niv. mouse ",
+      "imgurl": " ",
+      "question": "there are four basic component of computer:-"
+    },
+    "-N7F1RNlh00Wce4Ps6iv": {
+      "answer": "i. alphanumeric keys(AtoZ).\nii. punctuation keys (:,.;\").\niii.functionkeys(F1,F).\niv. magnifier keys(ctrl, alt..)\n",
+      "imgurl": " ",
+      "question": "there are seven key  part of keyboard:-"
+    },
+    "-N7F2FY0PyAboNRkD62L": {
+      "answer": "i. left click (primary key)\nii. right click (secondary key)\niii. scroler(wheel)",
+      "imgurl": " ",
+      "question": "there are three part of mouse:-"
+    },
+    "-N7hcgDq055yoBvxQ_T-": {
+      "answer": " computer case carbonate -where all of the components are stored such as cpu,ram hard disk mother bord.",
+      "imgurl": " ",
+      "question": "Note:-"
+    },
+    "-N7hd34qHi2U6FqajxaK": {
+      "answer": "लगातार बड़े अक्षरों कैपिटल लेटर से लिखने के लिए keybord का capslok का बटन on करते हैं।",
+      "imgurl": " ",
+      "question": "caps lock:-"
+    },
+    "-N7hds1-UbccxhNf5mrm": {
+      "answer": "keybord के कुछ key पर 2 अक्षर होते हैं अगर इनकी को सीधे देखते हैं के ऊपर लिखे अक्षर screen पर दिखेंगे",
+      "imgurl": " ",
+      "question": "Shift keys:-"
+    },
+    "-N7hhnVgb-RBarjhalNw": {
+      "answer": "document में 2 शब्दों के बीच अधिक स्थान देने के लिए टेप बटन का प्रयोग किया जाता है।",
+      "imgurl": " ",
+      "question": "Tab keys:-"
+    },
+    "-N7hhwCff6JKyr2C2ylY": {
+      "answer": "खाली जगह यानी space देने के लिए इस बटन का प्रयोग करते हैं",
+      "imgurl": " ",
+      "question": "space keys:-"
+    },
+    "-N7hiU5HJE0bVknGl97R": {
+      "answer": "cursor को line के शुरुआत में ले जाने के लिए उनकी home key का प्रयोग किया जाता है।",
+      "imgurl": " ",
+      "question": "Home keys:-"
+    },
+    "-N7hih_4zgF2V_wQkucz": {
+      "answer": "cursor को पंक्ति के अंत में ले जाने के लिए end key का प्रयोग किया जाता है।",
+      "imgurl": " ",
+      "question": "end keys:-"
+    },
+    "-N7hj3OuIww7-QOKs5lC": {
+      "answer": "document में text insert करने के लिए insret key का प्रयोग किया जाता है।",
+      "imgurl": " ",
+      "question": "Insert key:-"
+    },
+    "-N7hjgXRH1rCJtmCKIio": {
+      "answer": "cursor के बाए और का अक्षर में जाने के लिए backspace का प्रयोग करते हैं।",
+      "imgurl": " ",
+      "question": "Backspace key:-"
+    },
+    "-N7hjtrFRxyu_hvRVJRf": {
+      "answer": "cursor के दाएं और के अक्षर को मिटाने के लिए delete key  का प्रयोग करते हैं।",
+      "imgurl": " ",
+      "question": "Delete key:-"
+    },
+    "-N7hkBqpUdtCN-3Rf4X1": {
+      "answer": "Document में new paragraph लेने के लिए enter key का प्रयोग करते हैं।",
+      "imgurl": " ",
+      "question": "Enter key:-"
+    },
+    "-N7hkczleTTujdA1Nf24": {
+      "answer": "i Hardwere\nii software ",
+      "imgurl": " ",
+      "question": "There are two part of computer :-"
+    },
+    "-N7hlnNings5tKmOBOM8": {
+      "answer": "computer के सभी physical part को hardwere कहते हैं।",
+      "imgurl": " ",
+      "question": "What is hardwere?"
+    },
+    "-N7hmbGuXU1WgmBhKA6m": {
+      "answer": "Alu(arithmetic logic unit),cu(control unit), microprocessorcheap,motherboard,register memory\n",
+      "imgurl": " ",
+      "question": "Example:-"
+    },
+    "-N7hoNDJX8awoJgJhB5Y": {
+      "answer": "combination of 8 bit is called byte .",
+      "imgurl": " ",
+      "question": "what is byte?"
+    },
+    "-N8e53zQ9dgPtl8riUIP": {
+      "answer": "1bit= binary digit\n 4 bits= nibble\n8 bits=1 byte\n 2024 byte=1kb\n1024 kb=1 MB\n 1024 GB=1terabyte\n1024terabyte=1petabyte\n1024petabyte=1exabyte\n1024exabyte=1zettabyte\n1024zettabyte=1yottabyte\n1024yotabyte=1brontabyte\n1024brontabyte=1geophyte",
+      "imgurl": " ",
+      "question": "unit of computer memory measurement?"
+    },
+    "-N8e5L4aZmnUWGXj-oFo": {
+      "answer": "Geophyte is the highest memory.",
+      "imgurl": " ",
+      "question": "Note:+"
+    }
+  },
+  "ch10": {
+    "-N7n8gBSby2sB8yULyc1": {
+      "answer": "• यह एक internet Network का Short Form है यह एक मध्यम के द्वारा कुछ नियमों का पालन करते हुए I.E portal को फॉलो करता है, विश्वस्तरीय सूचनाओं का आदान प्रदान करता है। अतः इसे सूचना का राजपथ भी कहा जाता है।\n         internet का सर्वप्रथम प्रयोग १९८९ ई. में अमेरिका के रक्षा अनुसंसाधान विभाग ARPA ने किया जो आगे चलकर internet में बदल गया। इसका शुरुआती concept सन् १९६२ में J.C.R Lincklider (Joseph Carl Robbert Lincklider) ने किया परंतु Vint cerf और Bob Kahn ने इस विचारधारा को धरातल पर लाया Father of internet की उपलब्धि vint cerf को दी गई। \n      भारत में internet की अनुपचारिक शुरुआत १५  अगस्त १९९५ को हुआ जो Gateway of internet के नाम से जाना जाता है जिसे VSNL नामक कंपनी ने प्रारंभ किया सन् १९९९ में सर्वप्रथम Privet company \"styam infotech नामक limited company ने इंटरनेट सेवा उपलब्ध कराया।\n         भारत में Internet सेवा की शुरूआत करने वाली BSNL (Bharat Sanchar Nigam limited) है।",
+      "imgurl": " ",
+      "question": "  INTERNET (अंतरजाल)"
+    },
+    "-N7zZkP5WST1VyUDN7db": {
+      "answer": "wold wide Web सन् १९८४-९० में weitzerland के वैज्ञानिक Tim Burner Lee ने इसका प्रयोग किया जो विश्व के computer को आपस मे जोड़ने के लिए तथा उसमे समानता लाने के लिए एक database का रूप दिया। इसकी सहायता से सूचनाओं का आदान - प्रदान काफी ज्यादा सरल हो गया।\n           यह एक database होता है जहाँ सभी सूचनाओं को एक निश्चित protocal के तहत संग्रीहित किया जाता है WWW के प्रत्येक page को webpage कहते है तथा पहले पेज को home Page कहते है यह पेज startic तथा Dynamic दोनो हो सकता है।",
+      "imgurl": " ",
+      "question": "* WWW:-"
+    },
+    "-N7zavcUVAydz17_4YCy": {
+      "answer": "Computer को internate से जोड़ने के लिए जिस Softwear पर काम करते है, उसे Web Browser कहते है यह एक प्रकार का Application Software होता है। WWW से सूचना प्राप्त कर user का उपलब्ध कराता है इसे web search engine कहते है। जैसे - google, Crome,Mozila,fire, fox, internet Explorer,Opera, VC Browser. इत्यादि।",
+      "imgurl": " ",
+      "question": "* Web Browsers:-"
+    },
+    "-N7zeSjqKfGy1HG5yCaL": {
+      "answer": "इसका अविष्कार सन् १९७१ ई० में Ray Tolinason ने किया। प्रारंभिक अवस्था मे यह service payable था परंतु आगे चलकर NRI (National Residential Indian) Shabeer Bhatya ने Hotmail नमक Company के साथ मिलकर free Email सेवा उपलब्ध कराया Email से बड़ी से बड़ी को Elecrtonic Process द्वारा अत्यंत तीव्र गति से कम समय मे आदान - प्रदान किया जाता है।",
+      "imgurl": " ",
+      "question": "* Email (Electronic Mail):-"
+    },
+    "-N7zflnYNkEAU9AO8ucE": {
+      "answer": "Google एक search Engine है जो internat पर किसी भी वस्तु व्यक्ति या स्थान के बारे मे पता करने के लिए use Address (www. Google.com) है। google अभी तक का सबसे प्रसिद्ध Search engine है, जो सामान्यतः प्रयोग किया जाता है इसके और भी कई Product है। जैसे:- Gmail. YouTube. Map. Drive. translation, Contact etc.",
+      "imgurl": " ",
+      "question": "* Google:-"
+    },
+    "-N7zhtx5v8qt4rv8lE8g": {
+      "answer": "यह Google का ही एक अंग है जो Mailling के किए use किया जाता यहां एक user ID बना पड़ता है जो Google के सभी Appliction मे इस्तेमाल होता है Gmail का User Document को किसी दूसरे Email I'd पर भेजने के लिए करते है।",
+      "imgurl": " ",
+      "question": "* Gmail:- "
+    },
+    "-N7zjC6qqAuE06s6moMw": {
+      "answer": "Facebook एक Social network है जहां हम अपने Friends और Relatives के साथ जुड़ते है जिससे हम लोग उनके संपर्क में रहे है जहा भी एक user ID बना पड़ता है, यह user ID Mobile no. या email address दोनो में किसी एक को बना सकते है। Facebook को Launch करने वाले का नाम Markzucerburg है और उसका Web Address (www. Facebook. com) है।",
+      "imgurl": " ",
+      "question": "* Facrbook:-"
+    },
+    "-N7zjtoRyoTH9QkmUTOo": {
+      "answer": "यह website हमे mobile पर text Massage भेजने मे मदद करता है इसपर अपने Mobile no. se user ID बना होता है इसका web Address (www.way 2 SMS.com) है।",
+      "imgurl": " ",
+      "question": "*Way 2 SMS:-"
+    },
+    "-N7zk_Jw7LNw7Wqb0QaM": {
+      "answer": "यह website किसी person place things के बारे मे जानने के लिए use किया जाता है, यह अलग - अलग भाषाओं मे जानकारी देता है इसका Web Address (www. Wikipedia.com) है।",
+      "imgurl": " ",
+      "question": "* Wikipedia:-"
+    },
+    "-N7zlrlGOlrfaPcz6hzJ": {
+      "answer": "इसका मतलब Indian Railways catering and Tourism Corporation होता है यह indian Railway की Website है जहा इस website में Refresh/ Back नहीं होता है, ऐसा करने पर Log out हो जाता है। यहां Payment Debit/ Credit card. Net banking से किया जा सकता है।",
+      "imgurl": " ",
+      "question": "* IRCTC:-"
+    },
+    "-N7zmX7JiYxBQijhF0Ea": {
+      "answer": "यह एक सुरक्षा प्रिक्रिया है जिसमे हमारे mobile no. पर एक One Time Password Generate होता है जिसे हम एक ही बार use कर सकते है यह user ID बनाने मे या अन्य कामों मे use किया जाता है।",
+      "imgurl": " ",
+      "question": "* OTP:-"
+    },
+    "-N7zo3KiRWoU4-FCnmA1": {
+      "answer": "इसका मतलब New India Digital Mission होता है इसका web Address (www.NIDM. India. Org) होता है। यह एक Educational website है computer Course का Authorization देती है, यहां Entrollment number Inter करके आप अपना Profile देख सकते है।",
+      "imgurl": " ",
+      "question": "* NIDM:-"
+    },
+    "-N7zobQ42CRxAMrqY2yq": {
+      "answer": "यह भी Email भेजने के लिए use होने वाला website है,Google की तरह ही इसके भी कई Product है।",
+      "imgurl": " ",
+      "question": "* YAHOO:-"
+    },
+    "-N7zpHmtFhe_-YyOXozZ": {
+      "answer": "Ms Office के product को use करने के लिए microsoft पर Account बनाया जाता है यहां दो Domain name होते है, Outlook और Hotemaile आप किसी एक से अपना user ID बना सकते हैं।",
+      "imgurl": " ",
+      "question": "* Microsoft:-"
+    }
+  },
+  "ch11": {
+    "-NAjRTptZGbEM6gzlVkH": {
+      "answer": "",
+      "imgurl": " ",
+      "question": "Just comming soon "
+    }
+  },
+  "ch12": {
+    "-NPLLjciZUTY_bTbsMIr": {
+      "answer": "लेखांकन वह प्रक्रिया है जिसमें सभी प्रकार के वित्तीय स्वभाव के साथ सौदों एवं घटनाओं को क्रमबद्ध रूप में लिखने उसका वर्गीकरण करने एवं सारांश तैयार करने का काम किया जाता जिसमें उनका नाम विश्लेषण एवं निर्वाचन किया जा सके।",
+      "imgurl": " ",
+      "question": "Accounting (लेखांकन):"
+    },
+    "-NPLM1zE6t8OxOjryI8Y": {
+      "answer": "वह पर क्या जो लेनदेन (transaction) एवं घटनाएं (Event) को लिखने का आधार एवं नियम प्रदान करता है accounting कहलाता है",
+      "imgurl": " ",
+      "question": "दूसरे शब्दों में:"
+    },
+    "-NPLMFvLHCuOkVDcV9SV": {
+      "answer": "जितना भी लेनदेन होता है उस लेनदेन को उसके प्रकृति के आधार पर अलग-अलग विभागों में बांटना खाता कहलाता है",
+      "imgurl": " ",
+      "question": "Account खता:"
+    },
+    "-NPLMbWjJwS15ZShx1LZ": {
+      "answer": "there are three type of account:\ni Personal account\nii Real account\niii Nominal amount ",
+      "imgurl": " ",
+      "question": "classification of account:"
+    },
+    "-NPLMzecujgY2ZYEAGcS": {
+      "answer": "किसी भी  व्यक्ति, संख्या कंपनी बैंक इत्यादि से संबंधित खाता को व्यक्तिगत खाता कहते है।",
+      "imgurl": " ",
+      "question": "personal account व्यक्तिगत खाता:"
+    },
+    "-NPLNIh1sGwKRv8-Wole": {
+      "answer": "i Natural Personal account\nii Artificial personal account\niii Representative Personal account ",
+      "imgurl": " ",
+      "question": "There are three type of Personal account:"
+    },
+    "-NPLNUwl_L3GU82wmhBk": {
+      "answer": "वह खाता जो प्राकृतिक व्यक्ति से संबंधित होता है उसे natural Personal account कहते हैं।",
+      "imgurl": " ",
+      "question": "Natural personal account:"
+    },
+    "-NPLNoME3KZz-e7a8vZb": {
+      "answer": "वह खाता जो कृत्रिम व्यक्ति से संबंधित होता उसे Artificial personal account कहते हैं।",
+      "imgurl": " ",
+      "question": "Artificial personal account:"
+    },
+    "-NPLO8GppiX6P2s2JLTu": {
+      "answer": "वह खाता जो natural account और Artifical के बदले में आता है।",
+      "imgurl": " ",
+      "question": "representative personal account"
+    },
+    "-NPLOTbYe01eGHYyM_99": {
+      "answer": "यदि किसी व्यक्ति के नाम के साथ account लिखना हो तो वहां ('s) लगाकर account लिखेंगे।",
+      "imgurl": " ",
+      "question": "Note-"
+    },
+    "-NPLOgaT8Qre_57BXICq": {
+      "answer": "Ram's account",
+      "imgurl": " ",
+      "question": "Eg-"
+    },
+    "-NPLP0-J-cgcLO-MZBa0": {
+      "answer": "वस्तु एवं संपत्ति से संबंधित खाता को Real account कहते हैं संपत्ति हम उससे बोलते हैं जिससे भविष्य में बेचा जा सके।",
+      "imgurl": " ",
+      "question": "Real account वास्तविक खाता :"
+    },
+    "-NPLPJkyfEK8_wci_fRI": {
+      "answer": "वह खाता जो मूर्त संपत्ति से संबंधित होता उसे Tangible Real account कहते हैं।",
+      "imgurl": " ",
+      "question": "Tangible Real account मूर्त वास्तविक खाता:"
+    },
+    "-NPLPcFIeuBkqwWi8TvG": {
+      "answer": "वह खाता जो अमूर्त संपत्ति से संबंधित होता है उसे intangible Real account कहते हैं।",
+      "imgurl": " ",
+      "question": " Intangible Real account अमूर्त वास्तविक खत्म:"
+    },
+    "-NPLQ4z1gIoo2zCRnvmK": {
+      "answer": "आय-व्याय एवं लाभ- हानि से संबंधित खाते को nominal account कहते हैं।",
+      "imgurl": " ",
+      "question": "Nominal account नाम मात्र या वास्तविक खाता:"
+    },
+    "-NPLQVHdUaMHL6qLfrEd": {
+      "answer": "",
+      "imgurl": " ",
+      "question": "#Basic Accounting terms  आधारभूत लेखांकन शब्द#"
+    },
+    "-NPLQbDC_Yugpetx6N5W": {
+      "answer": "कोई भी कार्य जो लाभ कमाने की इच्छा से किया जाए उसे व्यापार कहते हैं।",
+      "imgurl": " ",
+      "question": "Business व्यापार:"
+    },
+    "-NPLQnpSW_Qk1wF5Z5MN": {
+      "answer": "वह धनराशि माल्या संपत्ति का वह भाग जिससे व्यापार व्यापारी प्रारंभ करने के लिए अपने व्यापार में लगाता है उसे पूंजी कहते हैं।",
+      "imgurl": " ",
+      "question": "capital पूंजी:"
+    },
+    "-NPLR3XyBcCweuZl2v73": {
+      "answer": "जब व्यापार का स्वामी अपने निजी उपयोग के लिए व्यापार से कोई धनराशि आमाल निकालता है उसे drowing कहते हैं।",
+      "imgurl": " ",
+      "question": "Drowing आहरण:"
+    },
+    "-NPLRIkigvKwA68aPzN1": {
+      "answer": "वे सभी वस्तुएं जो व्यापारी आम संचालन करने में स्थाई या अस्थाई रूप से स्वस्थ प्रदान करती हैं उन्हें संपत्ति कहते है।",
+      "imgurl": " ",
+      "question": "Assets संपत्ति:"
+    },
+    "-NPLRfsyc187yW6bkEl0": {
+      "answer": "i Tangible assets\nii intangible assets ",
+      "imgurl": " ",
+      "question": "there are two type of assets:"
+    },
+    "-NPLS9Vkzt7V6YNzuetw": {
+      "answer": "i Fixed assets ( स्थाई संपति)\nii current assets ( अस्थाई संपति)",
+      "imgurl": " ",
+      "question": "there are two type of tangible assets:"
+    },
+    "-NPLSHLb9chPiARdFxlb": {
+      "answer": "ऐसे संपत्ति आज उनका व्यापार में लंबे समय तक प्रयोग किया जाता है उसे स्थाई संपत्ति कहते हैं।",
+      "imgurl": " ",
+      "question": "Fixed assets:"
+    },
+    "-NPLSfnt3Z73l3MhY3iy": {
+      "answer": "ऐसी संपत्ति आंचल में समय-समय पर कमियां वृद्धि होती रहती है उसे अस्थाई संपत्ति कहते हैं।",
+      "imgurl": " ",
+      "question": "Current assets अस्थाई संपत्ति:"
+    },
+    "-NPLSuMPxTbnCAaoFCM-": {
+      "answer": "वह प्राप्ति जिससे भविष्य में लौट आना पड़ता है दायित्व कहलाता है।",
+      "imgurl": " ",
+      "question": "liabilities दायित्व:"
+    },
+    "-NPLUpXsN5gufTihQ0-W": {
+      "answer": "i Fixed liabilities\nii current liabilities ",
+      "imgurl": " ",
+      "question": "there are two type of liabilities:"
+    },
+    "-NPLVADZyi7zi27K9jfs": {
+      "answer": "तुझे वह दायित्व जिन का भुगतान वर्ष से अधिक समय बाद तक किया जा सकता है उसे fixed liabilities कहते हैं।",
+      "imgurl": " ",
+      "question": "Fixed liabilities:"
+    },
+    "-NPQUx3KDxy4Ts6oUK5H": {
+      "answer": "वह दायित्व जिन का भुगतान 1 वर्ष पहले ही कर देना होता है उसे अस्थाई दायित्व कहते हैं।",
+      "imgurl": " ",
+      "question": "Current liabilities  अस्थाई दायित्व : "
+    },
+    "-NPQVCHlMObU9_sXZQY5": {
+      "answer": "जब किसी वस्तु का उत्पादन क्रय विक्रय करने के उद्देश्य में किया जाता है तो उसे माल कहा जाता है।",
+      "imgurl": " ",
+      "question": "Goods(माल):"
+    }
+  },
+  "ch13": {
+    "-NuvB8UhcbFxV_nZ51Ss": {
+      "answer": "Page Maker एक Computer Software Program है। जिसमें कई प्रक्रियाओं में 4 Page Layout di Pab Desien विया जा सकता है। Page Maker में Text Advertisements बनाया जाता है. सामन्यतः इसमे का प्रयोग नहीं किया जाता है।\npage Maker की सहायता से कागजी प्रचार पत्र, शादी के कार्ड, बिल बुक, कैश भाउचर, इत्यादी जाते है. अतः सभी प्रकार के प्रचार-प्रसार को Page Maker की सहायता से Design किया जा सकता है। Maker का File Extension \".pmd\" होता है।",
+      "imgurl": " ",
+      "question": "what is pageMaker:-"
+    },
+    "-NuvBKsteChdjzVmFKx9": {
+      "answer": " ",
+      "imgurl": " ",
+      "question": "*Introduction of Tools: -\n1. Pointer Tool :-"
+    },
+    "-NuvBVx09ajH-PkPnxhQ": {
+      "answer": "इस Tool का प्रयोग किसी भी प्रकार के Object को Select करने के लिए तथा स्थानातंरित कराने के लिए होता है।",
+      "imgurl": " ",
+      "question": " "
+    },
+    "-NuvBaxTB6Lio51lboGI": {
+      "answer": "इस Tool का प्रयोग किसी भी प्रकार के Object को Select करने के लिए तथा स्थानातंरित कराने के लिए होता है।",
+      "imgurl": " ",
+      "question": " "
+    },
+    "-NuvC0zxbnPL9fqMk7Lv": {
+      "answer": " किसी भी Object को घुमाने के लिए इसका प्रयोग करते है। Rotate करने के लि पहले वह Layer या Object Select होना चाहिए।",
+      "imgurl": " ",
+      "question": "Rotating Tool :-"
+    },
+    "-NuvX1ADrUmxD86zQC1Q": {
+      "answer": " इस. Tool से आयताकार आकृति बनाने का काम किया जाता है",
+      "imgurl": " ",
+      "question": "Box Tool:-"
+    },
+    "-NuvXAuLbjGD1l3gRSos": {
+      "answer": " वृताकार एवं अण्डाकार आकृति बनाने के लिए इसका प्रयोग किया जाता है।",
+      "imgurl": " ",
+      "question": "Oval Tool :-"
+    },
+    "-NuvXhiSj3IfRfofO276": {
+      "answer": " किसी भी प्रकार के Polygons या Star जैसी आकृति बनाने के लिए इसका प्रयोग होगा। ",
+      "imgurl": " ",
+      "question": "Polygon Tool :-"
+    },
+    "-NuvXqIaHQl_xi5qyemY": {
+      "answer": " Page को पूरे Screen पर Move कसने के लिए इसका प्रयोग होता है।",
+      "imgurl": " ",
+      "question": "Hand Tool:-"
+    },
+    "-NuvXxFKRtWNyI5RUj7x": {
+      "answer": " लिखने के लिए तथा लिखावट को Formate/Edit करने के लिए इसका प्रयोग करते।",
+      "imgurl": " ",
+      "question": "Text Tool:-"
+    },
+    "-NuvY871HBoHuj4S-NWD": {
+      "answer": "Graphics l Scanned Photo को काट कर छोटा करने के लिए इसका प्रयोग होता है।",
+      "imgurl": " ",
+      "question": "Crop Tool:-"
+    },
+    "-NuwTi0it2iiXfnRhoXa": {
+      "answer": " ",
+      "imgurl": " ",
+      "question": " "
+    },
+    "-NuwTupKlo9zDPhTUZ48": {
+      "answer": " इसकी सहायता से Vertical और Horizontal Lines को समानान्तर चलते\nका काम करते हैं।",
+      "imgurl": " ",
+      "question": "Perpendicular Line Tool:-"
+    },
+    "-NuwU04C4W0K_8LIUovM": {
+      "answer": " यह एक Rectangular Frame होता है जिसमें हम कोई भी Text या Picture inset\nकर सकते है।",
+      "imgurl": " ",
+      "question": "Box Frame Tool :-"
+    },
+    "-NuwUASUbzZueL5ru_1T": {
+      "answer": " यह एक वृताकार या अण्डाकार Frame होता है जिसमें हम कोई भी Text या Picture insert कर सकते है।",
+      "imgurl": " ",
+      "question": "Oval Frame Tool:-"
+    },
+    "-NuwUMVTlO2Vi8X3LVwv": {
+      "answer": " यह एक Multisided Frame होता है जिसमें हम कोई भी Text या Picture\nInsert कर सकते हैं।",
+      "imgurl": " ",
+      "question": "Polygon Frame Tool:-"
+    },
+    "-NuwUVt_rRlQTbSssckk": {
+      "answer": " इससे हम अपने Page को Zoom करके देखने का काम करते है।",
+      "imgurl": " ",
+      "question": "Zoom Tool:-"
+    },
+    "-NuwUnCWObIgJreL8q_f": {
+      "answer": "Recent Publication एक बहुत आवश्यक विकल्प है जिसमें आठ Files जो तुरु बनाये गए है पहले से मौजूद होते हैं",
+      "imgurl": " ",
+      "question": "➤ File (Alt+G)\nRecent Publication: -"
+    },
+    "-NuwV07ALqQiJBa-4o_x": {
+      "answer": " इस Option की सहायता से User अपने Page पर Last Saved Position पर पहुँच सकता है!",
+      "imgurl": " ",
+      "question": "Revert : -"
+    },
+    "-NuwVECQjxRDsfM45fYq": {
+      "answer": "किसी भी Object या Image जो Page Maker में Supported है उसे लाने के लिए इस Option\nका प्रयोग करते हैं।",
+      "imgurl": " ",
+      "question": "Place :-"
+    },
+    "-NuwVN889g14PAbU0Pre": {
+      "answer": " किसी भी Text या Object को किसी दूसरे Program में भेजने के लिए इस Option का प्रयोग\nहोता है।\n",
+      "imgurl": " ",
+      "question": "Export :-"
+    },
+    "-NuwVaIcASnz2i5xGTUb": {
+      "answer": " Page Size, Orientation इत्यादि को Set किया जाता है।",
+      "imgurl": " ",
+      "question": "Document Setup or Setup:-"
+    },
+    "-NuwVitAcYal26CJ1z6J": {
+      "answer": " इस Option से Current Page को Print किया जाता है।",
+      "imgurl": " ",
+      "question": "Print:-"
+    },
+    "-NuwVqB6EkAZVs5iw0KK": {
+      "answer": " इस Option से Page का Measurement Change कर सकते हैं।",
+      "imgurl": " ",
+      "question": "Preference :-"
+    },
+    "-NuwVzftPouo_0y5SwjT": {
+      "answer": " Copy Il Cut किये हुए Object को अपनी उक्त्रनुसार, एक साथ, किसी निश्चित दुर्व पर कई बार Paste कर सकते हैं।",
+      "imgurl": " ",
+      "question": "*Edit-(Alt+E) \nPaste Multiple:-"
+    },
+    "-NuwW6vaHHp5U9plSq1S": {
+      "answer": " इस Option से User Text को Special तरीके से Paste किया जा सकता है।",
+      "imgurl": " ",
+      "question": "Paste Special:-"
+    },
+    "-NuwWGMg-mLfz4VTzzbz": {
+      "answer": " इस Option से Microsoft Clip Art तथा बिसी दूसरे Program से Object को Insert\nकराया जा सकता है।",
+      "imgurl": " ",
+      "question": "Insert Object :-"
+    },
+    "-NuwWPLmE5hC-kepKJwG": {
+      "answer": " उस Option से Text को Edit या Find या Replace किया जा सकता है।",
+      "imgurl": " ",
+      "question": "Edit Story :-"
+    },
+    "-NuwWZ1j0gOLwLEZA0uK": {
+      "answer": " इस Option से इच्छानुसार अपने Page पर जाने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "*Layout-(Alt+L)\nGo to Page:-"
+    },
+    "-NuwWdeocTVI_xGTaAmK": {
+      "answer": " इस Option से Program में क्या Page Insert करने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Insert Page:-"
+    },
+    "-NuwXAFv9i3XyxLMXtcS": {
+      "answer": " Page को Delete करने के लिए इस Option का Use करते है। ",
+      "imgurl": " ",
+      "question": "Remove Page:-"
+    },
+    "-NuwXX6Hx1gf7NH_Apgx": {
+      "answer": " सभी Pages को एक साथ देखने के लिए इस Option का Use करते है।",
+      "imgurl": " ",
+      "question": "Sort Page:-"
+    },
+    "-NuwXd0DGuyHgH12Zeih": {
+      "answer": " पीछे वाले Page जाने के लिए इस Option का Use होता है।",
+      "imgurl": " ",
+      "question": "Go Back :-"
+    },
+    "-NuwXk3pQV7PBT-7qI0k": {
+      "answer": "आगे वाले Page में जाने के लिए इस Option का Use होता है।",
+      "imgurl": " ",
+      "question": "Go Forwart :-"
+    },
+    "-Nv-Yf4AZR0t62oqJRyh": {
+      "answer": " Page पर Guides लाने के लिए इस Option का Use करते है।",
+      "imgurl": " ",
+      "question": "Column Guides: -"
+    },
+    "-Nv-YwppG04F9qBipO4t": {
+      "answer": " इस Option से Insert किये गए Master Guide को Show या Hide किया जाता है।",
+      "imgurl": " ",
+      "question": "Copy Master Guide : -"
+    },
+    "-Nv-ZyoO1S4PROOSti81": {
+      "answer": "  इस Option से Text को इस्बनुसार बदला जाता है।",
+      "imgurl": " ",
+      "question": "*Type(alt+T):\n   Font:-\n"
+    },
+    "-Nv-kkZ2zArqqkblhB4k": {
+      "answer": " इस Option से Selected Text का Size यदलले का काम करते हैं।",
+      "imgurl": " ",
+      "question": "Size : -"
+    },
+    "-Nv-l-m9IHAiYd0I_4Bv": {
+      "answer": " Selected Paragraph के Text को बढ़ाले या घटाले का काम इस Option से किया जाता है।",
+      "imgurl": " ",
+      "question": "Leading:-"
+    },
+    "-Nv-l7YauNMTJWVVHRcH": {
+      "answer": " इस Opton से Text का Style जैसे Bold, Italic और Underline में Change किया जाता है।",
+      "imgurl": " ",
+      "question": "Type Style: -"
+    },
+    "-Nv-lHvj99CZlG1ZklEK": {
+      "answer": " Character में Text से सम्बंधित सभी विकल्पों को एक साथ Use कर सकते है!",
+      "imgurl": " ",
+      "question": "Character:-"
+    },
+    "-Nv-lihec0IolduFnh5G": {
+      "answer": " इस Option से Paragraph सम्बंधित सभी विकल्प एक साथ Use कर सकते है।",
+      "imgurl": " ",
+      "question": "Paragraph : -"
+    },
+    "-Nv-ltG1uhnTLKDpK0sK": {
+      "answer": " Tab को अलग-अलग जगहों पर स्थित करने के लिए Use किया जाता है!",
+      "imgurl": " ",
+      "question": "Indents/Tabs: -"
+    },
+    "-Nv-mXAt0VOhIBguNilh": {
+      "answer": " Selected Paragraphy में Hyphenation को Automat करने के लिए इसक Use किया जाता है।",
+      "imgurl": " ",
+      "question": "Hyphenation: -"
+    },
+    "-Nv-mtwBYmtUiqJnhykv": {
+      "answer": " Adobe Page Maker 7.0 में पाँच प्रकार के Alignment होते है:- Right, Left, Centre, Justify and Force Justify जिससे Text को Align किया जा सकता है।",
+      "imgurl": " ",
+      "question": "Alingnment: -"
+    },
+    "-Nv-nZjD7sq11kqufAwd": {
+      "answer": " इस Option से Text या Object में अलग-अलग प्रतिशत के हिसाब से Color Fill कर सकते हैं।",
+      "imgurl": " ",
+      "question": "*Element-(Alt + E)\n Fill:-"
+    },
+    "-Nv-njgkrcT342o5hN-8": {
+      "answer": " इस Option से Line या Border का Style Change कर सकते है।",
+      "imgurl": " ",
+      "question": "Stroke:-"
+    },
+    "-Nv-ntBvT0xtYoCh5L75": {
+      "answer": " इस Option से Fill & Stroke का Diloge Box खुलता है जिसमें दोनों का एक साथ कर सकते हैं।",
+      "imgurl": " ",
+      "question": "Fill & Stroke :-"
+    },
+    "-Nv-oCGBC2vuZp-DQoZE": {
+      "answer": " इस Option से किसी Text या Object को Arrange करते है जैसे Bring To Front या Send to Back.",
+      "imgurl": " ",
+      "question": "Arrange:-"
+    },
+    "-Nv-oOkdnCO70jxEcoTH": {
+      "answer": " इस Option से Graphics या Object को Paragraph के साथ Arrange करते है।",
+      "imgurl": " ",
+      "question": "Taxt Wrap : -"
+    },
+    "-Nv-oZNsx0Z3R3LtIq3H": {
+      "answer": " किसी Text या Object को Group / Ungroup करने का काम इस Option से\nकिया जाता है।",
+      "imgurl": " ",
+      "question": "Group/Ungroup:-"
+    },
+    "-Nv-ojMoYqYBTcegNwuM": {
+      "answer": " इस Option से किसी Object के Position को Lock किया जाता है ताकि\nकोई उस Object को Move ना कर सके।",
+      "imgurl": " ",
+      "question": "Lock/Unlock Position:-"
+    },
+    "-Nv-os-dU_RtZl2-Z9LV": {
+      "answer": " इस Option से बनाए गए Polygon का भुजाएँ तथा कोणों को बढ़ाया या घटाया जा सकता है।",
+      "imgurl": " ",
+      "question": "Polygon Setting : -"
+    },
+    "-Nv-p0UK_ThP8TIRRH7-": {
+      "answer": " इस Option से बनाये गए Rectangle के कोनों को Round Shape में लाया जा सकता है।",
+      "imgurl": " ",
+      "question": "Rounded Corners:-"
+    },
+    "-Nv-pZ7LhpyFMwbuzRXP": {
+      "answer": " यह Option किसी Object जैसे Rectangle, Ellipse इत्यादि को Coin Object में Adjust करने के लिए इसका Use होता है।",
+      "imgurl": " ",
+      "question": "Mask :-"
+    },
+    "-Nv-pvdJ0Z-3-cPVDVfk": {
+      "answer": " Adobe Page Maker 7.0 में R.G.B, C.M.Y.K तथा H.B.S के आधार पर अनेक नये\nColor बनाये जा सकते है।",
+      "imgurl": " ",
+      "question": "*Utilities-(Alt + U)\nDefine Colors: -"
+    },
+    "-Nv-q7-AxrZrfrYD7qrV": {
+      "answer": " यदि Master Page में कोई Object बनाया गया है, उसे Show या Hide इस Option से किया जाता है।",
+      "imgurl": " ",
+      "question": "*View-(Alt+V) :\nDisply Master Items:-"
+    },
+    "-Nv-qM7DFnGnK9w76PWf": {
+      "answer": "जो Text या Object Print नहीं होने वाले है उसे इस Opton से Show या Hide किया जाता है।",
+      "imgurl": " ",
+      "question": "Display Non-printing Items :- "
+    },
+    "-Nv-qXdBh1ewykC5u5ys": {
+      "answer": " भिन्न-भिन्न प्रतिशतों पर अपने Page को Zoom करने के लिए इस Option का Use होता है!",
+      "imgurl": " ",
+      "question": "Zoom in/Zoom Out:-"
+    },
+    "-Nv-qnOG118EhKciw4Rs": {
+      "answer": " इस Option से Page को Actual Size यानि कि 100% पर देखने का काम करते हैं।",
+      "imgurl": " ",
+      "question": "Actual Size : -"
+    },
+    "-Nv-quloO7lWQ3Fj29K-": {
+      "answer": " इस Option से Page को Window में Fit करके यानि कि 25% पर देखने का काम करते हैं।",
+      "imgurl": " ",
+      "question": "Fit in Window:-"
+    },
+    "-Nv-rWk7_4oBDXwGQIKG": {
+      "answer": " पूरे Pasteboard पर कोई Text या Object को देखने के लिए इस Option Use होता है। जिससे पूरा Pasteboard एक साथ दिखाई देता है।",
+      "imgurl": " ",
+      "question": "Entire Pasteboard :-"
+    },
+    "-Nv-u71pTq362tOkyhtQ": {
+      "answer": " इस Option से Rular को Show/Hide किया जाता है।",
+      "imgurl": " ",
+      "question": "Hide Rulers :-"
+    },
+    "-Nv-uDh6-sFzwFTUazwD": {
+      "answer": " इस Option से Page में Inserted Guides को Show/Hide करने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Hide Guides:-"
+    },
+    "-Nv-uPGaoS9lgZkVOzzd": {
+      "answer": " इस Option से Guides को इच्छानुसार Set तथा Lock करने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Lock Guides :-"
+    },
+    "-Nv-uhPzNjGUbPtjsZjS": {
+      "answer": " इस Option से Page पर सभी Guieds को हटाया जाता है।",
+      "imgurl": " ",
+      "question": "Clear Ruler Guides:-"
+    },
+    "-Nv-v2HdX_8zo1gheOGh": {
+      "answer": "इस Option से Guides को किसी Text या Object के आगे-पीस ले जाने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Bring Guide to Front: -"
+    },
+    "-Nv-vJAIiBOmAkmLnQrO": {
+      "answer": " Page में Vertical और Horizontal Scroll Bars को देखने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Hide Scroll Bars:-"
+    },
+    "-Nv-v_ziLRWmm_GbNUT-": {
+      "answer": " इस Option से एक से अधिक खुले Files को Arrange किया जाता है। ताकि काम करने में सुविधा हो।",
+      "imgurl": " ",
+      "question": "*Windows-(Alt + W):\n Arrange Icon :-"
+    },
+    "-Nv-vjdzjFwQmcF4rdW5": {
+      "answer": "इस Option से अपने File को Tile या Cascade Style में Arrange करके देखते है।",
+      "imgurl": " ",
+      "question": "Tile/Cascade: -"
+    },
+    "-Nv-vuMF44n7pkf_iHrT": {
+      "answer": " इस Option से अपने Current File को Show/Hide करने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Hide/Show Tools:-"
+    },
+    "-Nv-w4wUqNWWJ1-Bojh_": {
+      "answer": "ये सभी Option उपरोक्त Windows को Show/Hide कराने का काम करते हैं।",
+      "imgurl": " ",
+      "question": "Hide Color\n\n➤ Show Style\n\n➤ Layers\n\n➤ Hyperlink\n\nMaster Page"
+    }
+  },
+  "ch14": {
+    "-Nv-wsszr5px3gVk_uNg": {
+      "answer": "\nPhotoshop Program Adobe Company का Software Program है। हालांकि इसे दो आईओं (Thomas Knol and John Knoll) ने सन् 1987 में Create किया फिर बाद में (1988) Adobe Company द्वारा इसे खरीद लिया गया और इसे विस्तृत रूप दिया गया। Adobe ने इसके Latest Versions में कई नये Featurs उपलब्ध कराये जिससे काम का अनुभव काफी सुलभ होता गया। यह एक पूर्णतः Graphics पर आधारित Program है, जिसकी सहायता से Graphics को Design किया जाता है। Graphics बनाने या Design को Correction, Editing, Formatting इत्यादि के लिए Photoshop कई सुविधाएँ देता है। इसका प्रयोग Studio, Press तथा PhotoGraphy इत्यादि में मुख्य रूप से होता है। इस Program की सहायता से हम Banners, ID Cards, Business Cards, Online प्रवार इत्यादी के Designs बना सकते है। इसकी सहायता से और कई स्वनात्मक कार्य किये जा सकते हैं। इसका File Extension .psd होता है। * Photoshop में उपयोग होने वाले Tools निम्न प्रकार है -",
+      "imgurl": " ",
+      "question": "what is Adobe Photoshop:-"
+    },
+    "-Nv-xAnkrPL3VqnzRbwn": {
+      "answer": "(M) Marquee tool-\n\n(1) Laiso tool\n\n(Crop tool\n\nHealing Brush-\n\n5) Cone Stamp\n\n(D) Eraser\n\nRI Blur bol\n\n(A' Path compoment selection\n\n(F) Pes tool for drowing paths\n\n(1) Nates\n\n(H) Hand Tool\n\nForeground color\nMove Tool (V)\n\nMagic Wand (W)\n\n-Knife (K\n\n-Percll/paintbrush()\n\n-History Brush (Y)\n\nGradient tool/ Paintbucket (3)\n\n-dodge and burn tool (O\n\nT-Type Tool (1)\n\n-Line tool/Rectangle (U)\n\n-Eyedropper [1]\n\n-Zoom (2)\n\nSwitch colors DO\n\nBackground color\n\nQuickmask mode (0)\n\nFullscreen mode (F\n\nJump to ImageReacy",
+      "imgurl": " ",
+      "question": " "
+    },
+    "-Nv-xmqwWQlNLFpCeRl2": {
+      "answer": "अपने Graphics में Rectangular Style में Select करने के लिए इस Option का Use करते है।",
+      "imgurl": " ",
+      "question": "Rectangular Marquee Tool:-"
+    },
+    "-Nv1AnMyfsR8LoilPt3x": {
+      "answer": " अपने Graphics Elliptical Style में Select करने के लिए इस Option का Use करते है।",
+      "imgurl": " ",
+      "question": "Elliptical Marquee Tool :-"
+    },
+    "-Nv1AykbLjyHk0N65yBs": {
+      "answer": " Single Row Select करने के लिए इस Tool का Use करते है।",
+      "imgurl": " ",
+      "question": "Single Row Marquee Tool:-"
+    },
+    "-Nv1B8lqphWhwmm3RRLU": {
+      "answer": " Single Column को Select करने के लिए इस Tool की Use करते हैं।",
+      "imgurl": " ",
+      "question": "Single Column Marquee Tool:-"
+    },
+    "-Nv1BGg8YfqHW6TtV45e": {
+      "answer": " इस Tool से Graphics को स्वतंत्रतापूर्वक Select करते है।",
+      "imgurl": " ",
+      "question": "Lasso Tool:-"
+    },
+    "-Nv1BkxMo4YnnDDM7ton": {
+      "answer": " Graphics को Pixels द्वारा अर्थात Particular भाग को Autometic Select\nकरने का काम इस Tool से किया जाता है।",
+      "imgurl": " ",
+      "question": "Magnetic Lasso Tool: -"
+    },
+    "-Nv1BzsHl-XjvwZrZ_tW": {
+      "answer": " Graphics के किसी भाग को बटने के लिए इस Tool का Use होता है।",
+      "imgurl": " ",
+      "question": "Crop Tool:-"
+    },
+    "-Nv1C5qzellIt5tWMdrI": {
+      "answer": " इस Tool से किसी Picture को, Selected या Active Layer को Move किया जाता है।",
+      "imgurl": " ",
+      "question": "Move Tool :-"
+    },
+    "-Nv1CDLAqP76PtyTdyFX": {
+      "answer": " इस Tool से Graphics के किसी एक Color के Pixels/Cells को Select करने के लिए इस Option का Use कसो है।",
+      "imgurl": " ",
+      "question": "Magic Wand Tool:-"
+    },
+    "-Nv1CJBdLqU_tubrd3M_": {
+      "answer": " इस Tool से किसी बड़े Graphics को Split अर्थात दो या दो से अधिक भगों में बाँटने का काम करते हैं।",
+      "imgurl": " ",
+      "question": "Slice Tool :-"
+    },
+    "-Nv1COL2wOvmvMW48iAN": {
+      "answer": " इस Tool से Slice किये हुए Object को Select या Move कराया जाता है।",
+      "imgurl": " ",
+      "question": "Slice Select Tool :-"
+    },
+    "-Nv1YKxcmRqUO1-ctUUZ": {
+      "answer": " इस Tool से किसी भी Picture का Clone यानि हुबहू बनाने का काम करते हैं।",
+      "imgurl": " ",
+      "question": "Healing Brush Tool :-"
+    },
+    "-Nv1YYuKh_3oR2K7HhGN": {
+      "answer": " इस Tool से Picture को दाग-धब्बे को हटाने अर्थत Patch Effect देने का काम करते ",
+      "imgurl": " ",
+      "question": "Patch Tool :-"
+    },
+    "-Nv1Yv_3Ut9uwQGrOECl": {
+      "answer": " किसी Graphics को Actual Effects के साथ Clone चलाने अथवा Dublicate का काम इस Tool से वित्र्या जाता है।",
+      "imgurl": " ",
+      "question": "Clone Stamp Tool: -"
+    },
+    "-Nv1Z16bYM9nq73ujNi5": {
+      "answer": "किसी Graphics को Pattern Effects के साथ Stamp करने का काम इस Too से किया जाता है।",
+      "imgurl": " ",
+      "question": "Pattern Stamp Tool: -"
+    },
+    "-Nv1Z9URsZyypP2PsqQZ": {
+      "answer": " इस Tool से लगाए गए Effects को मिटाने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Eraser Tool :-"
+    },
+    "-Nv1ZInAznAiaTm7Nruh": {
+      "answer": " इस Tool से मौजूद Background को मिटाने का काम किया जाता है।गिटने के बाद Layer में बदल जाता है।",
+      "imgurl": " ",
+      "question": "Background Eraser Tool:-"
+    },
+    "-Nv1ZOqIUihxmjQLqrac": {
+      "answer": " Magic Wand Tool की तरह यह Tool भी किसी स्वास Color को ग्रेंस करने के का आता है।",
+      "imgurl": " ",
+      "question": "Magic Eraser Tool :-"
+    },
+    "-Nv1ZUfE3qb09ObheYLV": {
+      "answer": " इस Tool से अपने Object को Cloudy यानि धुंधला बनाया जाता है।",
+      "imgurl": " ",
+      "question": "Blur Tool :-"
+    },
+    "-Nv1ZfwpFi6ciONtBpIU": {
+      "answer": " इस Tool से Picture या Object को Sharp किया जाता है। जिससे उसके Pickel बुकिले दिखाई देते हैं।",
+      "imgurl": " ",
+      "question": "Sharpen Tool :-"
+    },
+    "-Nv1ZoiTUjHcdByOLzFv": {
+      "answer": " इस Tool से Graphics के Colours को एक Effect दिया जाता है जिससे Picxels हर में उड़ते प्रतीत होते हैं।",
+      "imgurl": " ",
+      "question": "Smudge Tool:-"
+    },
+    "-Nv1_2yEr5NhS4ohBdpF": {
+      "answer": " इस Tool से Graphics के Colours को एक Effect दिया जाता है जिससे Picxels हर में उड़ते प्रतीत होते हैं।",
+      "imgurl": " ",
+      "question": "Smudge Tool:-"
+    },
+    "-Nv1_CT7zb7VFk4cUFVp": {
+      "answer": " इस Tool से कई प्रकार के Brush Use किये जाते हैं।",
+      "imgurl": " ",
+      "question": "Brush Tool:-"
+    },
+    "-Nv1_Hyd9abD30KG331x": {
+      "answer": " इस Tool से Pencil Use किया जाता है।..",
+      "imgurl": " ",
+      "question": "Pencil Tool:-"
+    },
+    "-Nv1_O6ljOxfaDCxxbnB": {
+      "answer": " इस Tool से Art Effects को हटाया जाता है।",
+      "imgurl": " ",
+      "question": "History Brush Tool :-"
+    },
+    "-Nv1_U6RePnpyZ_tH6wF": {
+      "answer": " इस Tool से एक Picture या Graphics को दूसरे Pictures और Graphis Mix किया जाता है।",
+      "imgurl": " ",
+      "question": "Art History Brush Tool:-"
+    },
+    "-Nv1_fiS7EU33jFNa3Zc": {
+      "answer": " इस Tool से Background को अनेक Styles से Color Fill अथवा Effect दिया सकता है।",
+      "imgurl": " ",
+      "question": "Gradient Tool:-"
+    },
+    "-Nv1_q3u0iYOTcP1Augc": {
+      "answer": " इस Tool से Graphic में अपने इच्छानुसार Color भरने का काम किया है।",
+      "imgurl": " ",
+      "question": "Paint Bucket Tool:-"
+    },
+    "-Nv1_vWuRzzjtafAQC-t": {
+      "answer": "इस Option से Graphics में जले हुए Effect दे सकते है तथा Contrast का Percenta भी बढ़ा सकते हैं।",
+      "imgurl": " ",
+      "question": "Burn Tool : - "
+    },
+    "-Nv1a-VWOfgzL86UoPf8": {
+      "answer": " इस Tool से Color का Percentage घटाया जा सकता है।",
+      "imgurl": " ",
+      "question": "Dodge Tool :-"
+    },
+    "-Nv1a6GFbO0IBNGYtM_N": {
+      "answer": " इस Tool से अपने Color Graphics को Black & White में बदला जा सकता है।",
+      "imgurl": " ",
+      "question": "Sponge Tool :-"
+    },
+    "-Nv1aFaQ1C6-ZVTzsVvo": {
+      "answer": " इस Tool से लगे Mask या Path को Select या Move कराया जाता है।",
+      "imgurl": " ",
+      "question": "Path Selection Tool :-"
+    },
+    "-Nv1aU-_NlwhxdPs574k": {
+      "answer": " इस Tool से Path Selection Selection Select किया जाता है।",
+      "imgurl": " ",
+      "question": "Direct Selection Tool:-"
+    },
+    "-Nv1akdq2nusPsur7K6i": {
+      "answer": " इस Option से Graphics पर Editing Facility के साथ Mask बनाया जाता है। \na.) Free From Pen Tool \nb.)Add Anchor Point Tool",
+      "imgurl": " ",
+      "question": "Pen Tool:-"
+    },
+    "-Nv1b1oGVnaz4lMefo0g": {
+      "answer": " इस Tool से परी रेखा समान Text लिखा जाता है।",
+      "imgurl": " ",
+      "question": "Horizontal Type Tool :-"
+    },
+    "-Nv1b7r_cDqgTolsDbJb": {
+      "answer": " इस Tool से खड़ी रेखा समान Text लिखा जाता है।",
+      "imgurl": " ",
+      "question": "Vertical Type Tool:-"
+    },
+    "-Nv1bHxHfrrbyiqvKLWs": {
+      "answer": " इस Tool से Graphics को Horizontal Text style में एक की तरह Use किया जाता है।",
+      "imgurl": " ",
+      "question": "Horizontal Type Mask Tool:-"
+    },
+    "-Nv1bPI9mhVLwd_pv0-5": {
+      "answer": " इस Tool से Graphics, को Vertical Text style में एक Mask की Use किया जाता है।",
+      "imgurl": " ",
+      "question": "Vertical Type Mask Tool:-"
+    },
+    "-Nv1bYtn6_nM7QNXGruM": {
+      "answer": " इस Tool से निम्न प्रकार के Shape बनाये जाते है। \n\nक. Rectangle Tool\nघ. Polygon Tool\nख. Rounded Rectangle Tool\nग. Ellipse Tool",
+      "imgurl": " ",
+      "question": "Shape Tool :-"
+    },
+    "-Nv1bu_wn1u5If949MwW": {
+      "answer": " इस Option से Graphics पर Note Box Insert किया जा सकता है ताकि अ 19 Graphics के बारे में कुछ लिखा जा सके।",
+      "imgurl": " ",
+      "question": "Notes Tool:-"
+    },
+    "-Nv1cCjU-xuFTeupvqym": {
+      "answer": " इस Option से Graphics के बारे में Voice Record किया जा सकता है।",
+      "imgurl": " ",
+      "question": "Audio Adulations Tool :-"
+    },
+    "-Nv1cKVY30dgzr8-oYpQ": {
+      "answer": " इस Tool से Graphics को Move कराया जा सकता है जिससे काम करने में आसानी हो!",
+      "imgurl": " ",
+      "question": "Hand Tool:-"
+    },
+    "-Nv1cQydnhlvhnzQzTtC": {
+      "answer": " इस Tool से किसी Particular Colors को चुना जाता है।",
+      "imgurl": " ",
+      "question": "Eye Dropper Tool :-"
+    },
+    "-Nv1cZ3k56fQtRh5EF-Z": {
+      "answer": " इस Tool से Color के Mode को तथा Amount को देखा जाता है!",
+      "imgurl": " ",
+      "question": "Color Sampler Tool:-"
+    },
+    "-Nv1ce9X7Phe1DRsV0gs": {
+      "answer": "इस Tool से Graphics के Select किये हुए भाग की लम्बाई एवं चौडाई को देखा सकता है।",
+      "imgurl": " ",
+      "question": "Measure Tool :- "
+    },
+    "-Nv1ck0yqUHBOzylnb9k": {
+      "answer": " इस Tool से Graphics को बड़ा या छोटया कर के देखते है।",
+      "imgurl": " ",
+      "question": "Zoom Tool or Magnifier Tool:-"
+    },
+    "-Nv1f6oC6aPjdO28ccXI": {
+      "answer": "इस Tool से Forground Color को भरा जाता है।",
+      "imgurl": " ",
+      "question": "*Colour Setting Tool:-\nSet Foreground Colour: "
+    },
+    "-Nv1fGMhMXKgzpPTnwpy": {
+      "answer": " इस Tool से Background Color भरा जाता है।",
+      "imgurl": " ",
+      "question": "Set Background Color:-"
+    },
+    "-Nv1fOyejG4HEBBy6_tf": {
+      "answer": " इस Tool से Foreground Color को Background अथवा Background को Foreground किया जाता है।",
+      "imgurl": " ",
+      "question": "Switch Foreground & Background Color:-"
+    },
+    "-Nv1fVPFxyFjnUxTG8dx": {
+      "answer": " इस Tool से Default Color को लाया जाता है जो कि Balck & White होता है।",
+      "imgurl": " ",
+      "question": "Default Foreground Back ground Color:-"
+    },
+    "-Nv1faPjzdkYJcuh7qPl": {
+      "answer": "इस Tool से अपनी इच्छानुसार विभिन्न Color में Mask को लगाया जा सकता है।",
+      "imgurl": " ",
+      "question": "Edit in Quick Mask Mode: -"
+    },
+    "-Nv1fhcKlNLd3m6pfTib": {
+      "answer": " इस Option से Photoshop का Mode Normal से Standerd करने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Standerd Screen Mode:-"
+    },
+    "-Nv1ftUZhV_I6C5RJiO1": {
+      "answer": " इस Option से अधिक Space के लिए Title Bar को Hide किया जाता है।",
+      "imgurl": " ",
+      "question": "Full Screen Mode:-"
+    },
+    "-Nv1g1H0mDJTNOs0X2_-": {
+      "answer": " इस Option से Title Bar और Menu Bar के साथ Full Screen Mode को देखने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Full Screen Mode with Menu Bar:-"
+    },
+    "-Nv1g6OrjHkh0k5HPUBI": {
+      "answer": " इस Option से Photoshop में काम करते दौरान ही Adobe Image Ready Program को खोला जा सकता है।",
+      "imgurl": " ",
+      "question": "Jump to Image Ready:-"
+    },
+    "-Nv1gFsFUzsBEhmvP4cD": {
+      "answer": " इस Option से किसी भी File को Preview के साथ खोलने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "*File Menu-(Alt + F) :\nBrowse:-"
+    },
+    "-Nv1gLmVaJHKpOm3CeVB": {
+      "answer": " इस Option से किसी भी अधिक Pixels वाले Graphics को छोटा किया जा सकता है ताकि उसे Web या Internet पर भेजा जा सके।",
+      "imgurl": " ",
+      "question": "Save for Web:-"
+    },
+    "-Nv1gTSHqTNGn9-MjwLG": {
+      "answer": " इस Option से एक ही Folder के सीभी Graphics को एक साथ लाकर Column तथा Row के हिसाब से Set किया जा सकता है।",
+      "imgurl": " ",
+      "question": "*Automate:\nContact Sheet:"
+    },
+    "-Nv1gZfwT_nXCOvwvTdj": {
+      "answer": " इस Option से Graphics के Pixcels को अपनी इच्छानुसार बढ़ाया या घटाया जा सकता है।",
+      "imgurl": " ",
+      "question": "Fit Image:-"
+    },
+    "-Nv1gdkKF6bUK6MMRbf_": {
+      "answer": " इस Option से अपने File का Mode, File Name, Canvas Size इत्यादी की जानकारी देखने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "File Info:-"
+    },
+    "-Nv1giCyETj3-GWR7hCw": {
+      "answer": " इस Option से Page का Size, Orientaion, Margin इत्यादी का Setup किया जाता है।",
+      "imgurl": " ",
+      "question": "Page Setup :-"
+    },
+    "-Nv1goET-axmYdMaNXpt": {
+      "answer": " इस Option से Active File को Previw के साथ Print करने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Print with Preview:-"
+    },
+    "-Nv1gyXQ6T8JliWSrpww": {
+      "answer": " इस Option से Graphics के किसी भाग को इच्छानुसार Color Facility द्वारा Delete करने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "*Edit Menu-(Alt+E)\n Fade :-"
+    },
+    "-Nv1h3Xv2PBGRom-iH0f": {
+      "answer": " इस Option से Layers को एक साथ Marge करने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Copy Marge :-"
+    },
+    "-Nv1hLcGf9JWeOPLYR0y": {
+      "answer": " उसे Option से किसी भी Selected जगह में Pictures या Graphics Set किया जाता है।",
+      "imgurl": " ",
+      "question": "Paste Into:-"
+    },
+    "-Nv1hRsWBT49FTD1rAKr": {
+      "answer": " इस Option से अपने इच्छानुसार Colour को उसकी Opacity के अनुसार Graphics में Fill करने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Fill:-"
+    },
+    "-Nv1hWzikowUabOHZnbI": {
+      "answer": " इस Option से Graphics में इच्छानुसार Color का Border लगाने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Stroke:-"
+    },
+    "-Nv1heSqgYcqBxtwc9Iw": {
+      "answer": " इस Option से Graphics पर एक Transform Box Draw होता है जिससे उस Graphics को Rotate, Distort, Perspective तथा Size को बढ़ाया या घटाया जाता है।",
+      "imgurl": " ",
+      "question": "Free Transform:-"
+    },
+    "-Nv1hsPdmMGlJxwDrtgX": {
+      "answer": "Photoshop में कई Color Mode होते है जिससे Graphics में Color का Effect बदला जा सकता हैं, जिसमें R.G.B Mode या CMYK, इत्यादी की सहायाता Graphics में Color Effect लगाया जाता है।",
+      "imgurl": " ",
+      "question": "Image Menu - (Alt+1):-"
+    },
+    "-Nv1i0ggB9yFPxq1AbU-": {
+      "answer": " इस Option से Graphic में Formatting जो Auto Brightness, Level, Corves,Channel, Mixer, Brightness, तथा Contrast की सहायता से किया जाता है।",
+      "imgurl": " ",
+      "question": "Adjustment:-"
+    },
+    "-Nv1i8ZZiKSWiNETSMxm": {
+      "answer": " इस Option से Current File का Duplicate बनाया जाता है।",
+      "imgurl": " ",
+      "question": "Duplicate:-"
+    },
+    "-Nv1iW3UAYjsYhvmKQFG": {
+      "answer": "इस Option से Active Layer की स्थिती के बारे में जैसे Layer का नाग Opacity तथा Calculation उसमें Blending Option कौन सा है इत्यादी।",
+      "imgurl": " ",
+      "question": "Calculation:-"
+    },
+    "-Nv1ia5j2pg0cqlNKvEq": {
+      "answer": " इस Option से Graphics के Pxels को इवानुसार कम या बढ़ाया जा सकता है।",
+      "imgurl": " ",
+      "question": "Image Size:-"
+    },
+    "-Nv1ih31ajZSnsUgYm5Z": {
+      "answer": " इस Option से Canvas Size को बढ़ाया या घटाया जा सकता है।",
+      "imgurl": " ",
+      "question": "Canvas Size:-"
+    },
+    "-Nv1inaCKJ38JBXXk36c": {
+      "answer": "इस Option से Canvas को Rotate किया जाता है।",
+      "imgurl": " ",
+      "question": "Rotate Canvas Size: -"
+    },
+    "-Nv1j-7ElK6B57zg_rTo": {
+      "answer": " इस Option से Current काम के Effect को Histogram Dialog Box में देखते है।",
+      "imgurl": " ",
+      "question": "Histogram:-"
+    },
+    "-Nv1j7VAEUgCpWK4uSbc": {
+      "answer": " इस Option से New Layer लेने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "*Layer - (Alt+L):\nNew Layer:-"
+    },
+    "-Nv4fUM9hI_0QozWVA3Q": {
+      "answer": " Option से Active Layer का Duplicate Layer जाताहै!",
+      "imgurl": " ",
+      "question": "Duplicate Layer: -"
+    },
+    "-Nv4fw9YvJ6YfG6mGDMc": {
+      "answer": "इस Option से Active Layer को Delete किया जाता है।",
+      "imgurl": " ",
+      "question": "Delete :- "
+    },
+    "-Nv4gw9MbOtt2RhsFgz4": {
+      "answer": " इस Options Graphics में Layer Style लगाकर उसे Design करते है Album भी बनाया जा सकता है।",
+      "imgurl": " ",
+      "question": "Layer style:-"
+    },
+    "-Nv4hrHKG5tb2uytLp5G": {
+      "answer": " इस Option से New Layer में पहले से ही Solid Color, Pattern, Gradient लगा कर Active Layer पर लाने का काम करते है।",
+      "imgurl": " ",
+      "question": "New Fill Layer:-"
+    },
+    "-Nv4i0Twv_U1Fey1teV9": {
+      "answer": " Photoshop में उस Option से Active Layer के साथ ही Adjustmen Layer लगाने की सुविधा मिलती है!",
+      "imgurl": " ",
+      "question": "New Adjustment Layer :-"
+    },
+    "-Nv4i52YQU9DrokV3p6U": {
+      "answer": " इस Option से अपने Layers को Arrange करते है जैसे Send Backward, Bring to Front इत्यादी ।",
+      "imgurl": " ",
+      "question": "Arrange : -"
+    },
+    "-Nv4iLwDpx9bTQezZ0PJ": {
+      "answer": "  इस Option से Active Layer को एक साथ Select करने का काम करते हैं।",
+      "imgurl": " ",
+      "question": "*Select-Alt+l:\nAll:-"
+    },
+    "-Nv4iYodZA4lGU5EsYCi": {
+      "answer": " इस Option से Active Layer के Selection को Deselect किया जाता है।",
+      "imgurl": " ",
+      "question": "Deselect :-"
+    },
+    "-Nv4iqBuP1OxBw3qILI0": {
+      "answer": "इस Option से Deselect किये गये Range को फिर से Select किया जाता है !",
+      "imgurl": " ",
+      "question": "Reselect:-"
+    },
+    "-Nv4j0qUO6L2Zj9Tk6Ng": {
+      "answer": "इस Option से Select किये गये Range को छोड़कर बाकी सभी Area को Select दि जाता है यानि Selection को Inverse विया जाता है।",
+      "imgurl": " ",
+      "question": "Inverse:-"
+    },
+    "-Nv4j8t5pLGIgeNna6AL": {
+      "answer": " इस Option से दो या उससे अधिक Graphics को मिलाने का काम किया जाता है",
+      "imgurl": " ",
+      "question": "Feather:-"
+    },
+    "-Nv4jJ6bfYv94oyI2DNw": {
+      "answer": " इससे Boarder की तरह Selection बनाया जाता है।",
+      "imgurl": " ",
+      "question": "*Modify:-\nBoarder :-"
+    },
+    "-Nv4jQsga9EM7R2gatr4": {
+      "answer": " इससे Select किये Range को बढ़ाने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Expend :-"
+    },
+    "-Nv4jXWshpelRXgRegJ-": {
+      "answer": " इस Option से Selection को घटाने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Contract: -"
+    },
+    "-Nv4tuaxRahEX3A6hP3v": {
+      "answer": " इस Option से Selection के Corners को Roundया Smooth किया जाता है।",
+      "imgurl": " ",
+      "question": "Smooth : -"
+    },
+    "-Nv4u6514wC9F0n5PHI0": {
+      "answer": " इस Option से Similar Color को एक साथ Select किया जाता है।",
+      "imgurl": " ",
+      "question": "Grow Similar : -"
+    },
+    "-Nv4uDktok7BD2fZOPg_": {
+      "answer": " इस Option से Transform Selection को Highlight किया जाता है कि स्वतंत्रतापूर्वक Graphics को Rotate के साथ-साथ और भी काम किया जा सके।",
+      "imgurl": " ",
+      "question": "Transform Selection:-"
+    },
+    "-Nv4uKIC-_clzA-gbP1Q": {
+      "answer": " इस Option Selected Area को Save किया जाता है।",
+      "imgurl": " ",
+      "question": "Save Selection :-"
+    },
+    "-Nv4uRQpb2G1W4F0nbQU": {
+      "answer": " इस Option से Save किये गए Selection को लाने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Load Selection : -"
+    },
+    "-Nv4u_P4k9_NkteiNVDk": {
+      "answer": " इस Option से हम अपने Graphics में Effects लगाते है जैसे Artistic, Blur, Brush Strokes, Distort, Noise, Pixilated, Render, Sharpen, Sketc, Stylize, Texture, etc.",
+      "imgurl": " ",
+      "question": "Filter-(Alt+T):-"
+    },
+    "-Nv4ufQ49jgWNpTTdErW": {
+      "answer": " इस Option से Picture के Color को Reduce किया जाता है।",
+      "imgurl": " ",
+      "question": "Extract: -"
+    },
+    "-Nv4ulDaM8EtFidn-mKt": {
+      "answer": " इस Option से Picture को Smoothy या Liqued जैसा किया जाता है।",
+      "imgurl": " ",
+      "question": "Liquefy:-"
+    },
+    "-Nv4ush2LEQNoTpQGR6d": {
+      "answer": " इस Option से किसी Selected Area में Pattern भरने का काम किया जाता है। इसी प्रकार और भी Options को Graphics पर Use किया जाता है।\n(Use All Filter Effects in Practical)",
+      "imgurl": " ",
+      "question": "Pattern Maker :-"
+    },
+    "-Nv4v2fkEUSEEbMUBTGj": {
+      "answer": " इस Option से Graphics में किसी Particular Color Percentage को देखा जाता है",
+      "imgurl": " ",
+      "question": "View-(Alt+V)\n Proof Setup :-"
+    },
+    "-Nv4vBzidBjSq3_Exifb": {
+      "answer": " इस Option से Graphics में Proof Setup को Apply करने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Proof Colors : -"
+    },
+    "-Nv4vIEn8Y9mG4n_AKb6": {
+      "answer": " Graphis पर Extra Option को Show या Hide करने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Extras: -"
+    },
+    "-Nv4vNr6JURFCDchuyUO": {
+      "answer": " इस Option से Grid, Guides, Slice इत्यादी को Show या Hide किया जाता है।",
+      "imgurl": " ",
+      "question": "Show : -"
+    },
+    "-Nv4vTZ_o8yDuOdpM_GK": {
+      "answer": " इस Option से Ruler Show या Hide होता है।",
+      "imgurl": " ",
+      "question": "Rulers:-"
+    },
+    "-Nv4vZLFaIf5TQ_MMpeF": {
+      "answer": " इस Option से Inserted Guides को Show या Hide किया जाता है।",
+      "imgurl": " ",
+      "question": "Lock Guides :-"
+    },
+    "-Nv4veZk1xoMZ-niQfgf": {
+      "answer": " इस Option से Slices को Lock किया जाता है।",
+      "imgurl": " ",
+      "question": "Lock Slices : -"
+    }
+  },
+  "ch15": {
+    "-NAn_VWy7B2iRwRQj361": {
+      "answer": "Corel draw एक vector graphics editor program है यह मुख्यतः लोगो  picture graphics addvertisament design तथा websit design किया जाता है।",
+      "imgurl": " ",
+      "question": "Corel draw introduction:-"
+    },
+    "-NAna-5Cl64zARC6xJwH": {
+      "answer": "menu bar  की सहायता से हम अपने drowing को और भी बेहतर बनाते हैं।",
+      "imgurl": " ",
+      "question": "menu bar:-"
+    },
+    "-NAnac3alTMjzbg3GDrT": {
+      "answer": "sandard tool bar बार की सहायता से new page,cut , copy,pest इत्यादि ऑप्शन को आसानी से यूज किया जा सकता है। यह कोरल draw ka advance  features है।",
+      "imgurl": " ",
+      "question": "sandard tool bar:-"
+    },
+    "-NAnao4rgPQxn4BkNHbM": {
+      "answer": "Toolbox की सहायता से मरने drowing को बनाने का काम करते हैं।",
+      "imgurl": " ",
+      "question": "Toolbox:-"
+    },
+    "-NAnazkq1aO1CdHl0X8T": {
+      "answer": "",
+      "imgurl": " ",
+      "question": "Elaboration of Tools:-"
+    },
+    "-NAnbUQFni433EDPvpTx": {
+      "answer": "इस tools से object ko select तथा move करने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "pick tool:-"
+    },
+    "-NAnbl2bImN3K5WcO1OF": {
+      "answer": "एस tools से line या object को curv किया जाता है।",
+      "imgurl": " ",
+      "question": "curve tool:-"
+    },
+    "-NAnc86Z-6XSpmCT8c_u": {
+      "answer": "इस tool से line या object  को point के आधार पर काटने अर्थात स्थापना का काम करते हैं।",
+      "imgurl": " ",
+      "question": "knife tool:-"
+    },
+    "-NAncPQ-4nt5L_bJO5wo": {
+      "answer": "इस tool  से line या object को स्वतंत्रता पूर्वक मिटाने का काम करता है",
+      "imgurl": " ",
+      "question": "Eraser tool:-"
+    },
+    "-NAncq-x5MjP-Pt4qb7m": {
+      "answer": "इस brush tool से line में दो अधिक point देकर उसे curv design दिया जाता है।",
+      "imgurl": " ",
+      "question": "smudge tool:-"
+    },
+    "-NAndU1VIgUy8bBnAQx4": {
+      "answer": "इस  brush tool  से line में कुछ insertion point द्वारा zig zag design create किया जाता है।",
+      "imgurl": " ",
+      "question": "Roughen brush:-"
+    },
+    "-NAndzITePOXNSiCXuYO": {
+      "answer": "इस tool से किसी object  को उसके किसी भी point से पकड़कर rotate किया जा सकता है।",
+      "imgurl": " ",
+      "question": "Free Transform tool:-"
+    },
+    "-NBHaStyYZHBy3gcc2gN": {
+      "answer": "इस tool से हम अपने page को सुविधा अनुसार zoom in या zoom out कर  सकते हैं।",
+      "imgurl": " ",
+      "question": "Zoom tool"
+    },
+    "-NBHawGd9CBxUThpwDlO": {
+      "answer": "इस tool से हम पूरे कैनवास  पर page को पकड़कर up, down,left, right,तथा सुबिधा अनुसार move करा सकते हैं।",
+      "imgurl": " ",
+      "question": "Hand tool"
+    },
+    "-NBHb5lMMN8tdwG_1ifR": {
+      "answer": "इस tool से स्वतंत्रता पूर्वक lines drow की जाती है।",
+      "imgurl": " ",
+      "question": "free hand tool"
+    },
+    "-NBHbWU5zMssjtOQt_6V": {
+      "answer": "यह एक काफी effective tool है जिसका use point के आधार पर curve line या straight line drow करने में होता है।",
+      "imgurl": " ",
+      "question": "Bezier tool"
+    },
+    "-NBHc0fphLSwu6bSGvTQ": {
+      "answer": "इस tool की सहायता से program में मोजूद artistric design का use अपने drowing में करते हैं।",
+      "imgurl": " ",
+      "question": "Artistic Media tool"
+    },
+    "-NBHcKcfDfC-OGzrb6dH": {
+      "answer": "इस tool से हम point के आधार पर line drow करते हैं।",
+      "imgurl": " ",
+      "question": "pen tool"
+    },
+    "-NBHcX4PqTh-h6ziQeVC": {
+      "answer": "इस tool से भी Line draw की जाति है।",
+      "imgurl": " ",
+      "question": "polygon tool"
+    },
+    "-NBHcjdAB_3wZn-T7r4z": {
+      "answer": "इस tool से केवल curve line drow की जाती है।",
+      "imgurl": " ",
+      "question": "There point curve tool"
+    },
+    "-NBHdFrcPg9PFc6Ro00E": {
+      "answer": "इस tool से parallel line को drow किया जाता है जो आपस में connect होती है।",
+      "imgurl": " ",
+      "question": "Interactive Connector tool"
+    },
+    "-NBHdUeI_ngwYQEXB7rO": {
+      "answer": " इस tool  से dimension के आधार पर lines drow की जाती है।",
+      "imgurl": " ",
+      "question": "Dimension tool"
+    },
+    "-NBHdgPWpSi3BtvDJabB": {
+      "answer": "इस tool से ractangle बनाने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Rectangle tool"
+    },
+    "-NBHdu0CToJ24ka4aZQr": {
+      "answer": "इस tool से तीन बिंदु वाला rectangle बनाया जाता है",
+      "imgurl": " ",
+      "question": "Three Point Rectangle tool"
+    },
+    "-NBHe4gABX_LQ8rL8sGE": {
+      "answer": "इस tool से वृत्ताकार या अंडाकार आकृति बनाने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Ellips tool"
+    },
+    "-NBHeRqKJRf77WU9r68N": {
+      "answer": "इस tool से rectangle shape से बने graph जैसी आकृति बनाई जाती है।",
+      "imgurl": " ",
+      "question": "Graph paper tool"
+    },
+    "-NBHe_XMugJ7zTmBtGSd": {
+      "answer": "इस tool से spiral बनाया जाता है।",
+      "imgurl": " ",
+      "question": "Spiral tool"
+    },
+    "-NBHemm6cmpiRthRBgpq": {
+      "answer": "इस tool  से हम unic shape बनाते है। ",
+      "imgurl": " ",
+      "question": "Basic Shape "
+    },
+    "-NBHf8Z_NM9a-ajf_w09": {
+      "answer": "इस tool से विभिन्न प्रकार के flowchart shape drow  किए जाते हैं।",
+      "imgurl": " ",
+      "question": "Flowchart shape"
+    },
+    "-NBHfO1CCAm2Yml7ILCH": {
+      "answer": "इस tool से text लिखने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Text tool"
+    },
+    "-NBHfd-EElHV69bLixAs": {
+      "answer": "यह colour उठाने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Eyedroper tool "
+    },
+    "-NBHftFNFhzl5LKE38U0": {
+      "answer": "इस tool से किसी भी object  के pixel में colours भरने का काम करते हैं।",
+      "imgurl": " ",
+      "question": "Paintbucket tool"
+    },
+    "-NBMc869Qg6lsXJOjqv2": {
+      "answer": "इस tool से किसी shape के outline को formate करने के लिए एक dialog box appears होता है।",
+      "imgurl": " ",
+      "question": "Outline pen dialog"
+    },
+    "-NBviRpWcGYBbi89TH0W": {
+      "answer": "इस tool से किसी object  में colour dialog box की सहायता से  इच्छा अनुसार colour का चुनाव करके fill करने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Fill Colour Dialog(sift+F11)"
+    },
+    "-NBvisd5m1yZwtrXoCQw": {
+      "answer": "इस tool से  fountain Fill Dialog box   की सहायता से gridient किसी object में दो या दो से अधिक colours भरने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "Fountain Fill Dialog"
+    },
+    "-NBvkLvGj6V9xVGKw1Rm": {
+      "answer": "इस tool से paitern fill dialog Box के सहायता से किस object में patern design fill करने का काम किया जाता है।",
+      "imgurl": " ",
+      "question": "pattern fill dialog"
+    },
+    "-NBvky26wBW7N2NJMsHn": {
+      "answer": "इस tool से texture fill dialog box की सहायता से किसी object मे patern design fill कर सकते है।",
+      "imgurl": " ",
+      "question": "Texture fill dialog"
+    },
+    "-NVciDuAXN_zza0Vs9PO": {
+      "answer": "इस tool से postscript fill dialog box की सहायता से किसी और object में postscript fill कर सकते हैं।",
+      "imgurl": " ",
+      "question": "Postscript fill dialog -"
+    },
+    "-NVcitVWRAOy60CjXJFm": {
+      "answer": "इस fill किए गए object को no fill किया जाता है जिसे सभी effect, colour हट जाते हैं।",
+      "imgurl": " ",
+      "question": "No fill -"
+    }
+  },
+  "ch16": {
+    "-NPImdRZVUGFllFzBH5q": {
+      "answer": "ctrl + a = select all",
+      "imgurl": " ",
+      "question": "Shortcut keys"
+    },
+    "-NPInw_Gzw0vEewxFqlA": {
+      "answer": "ctrl + b = bold",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIo20ltJ_6kTtqtUr9": {
+      "answer": "ctrl + c = copy ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIoPhwjmZ5DCNqFyja": {
+      "answer": "ctrl + d = size style/font",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIovGOkVO-SE0l_o0W": {
+      "answer": "ctrl + centre = centre align ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIpCmT3AmC8TZFhdol": {
+      "answer": "Ctrl + F = find ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIpMdl03W7IFJyQP-M": {
+      "answer": "ctrl + g = go to",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIppjSDp29SozPbtYp": {
+      "answer": "ctrl + h = replace ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIpx5r_r6wMIjEogJK": {
+      "answer": "ctrl + i = italic ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIq5l_YDEdihx__MnQ": {
+      "answer": "ctrl + j = justify align/gap",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIqEbJHsVn-ySE8VWr": {
+      "answer": "ctrl + k = insert hyperlink",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIqQEM8EIXj2__dDV1": {
+      "answer": "ctrl + L = left align ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIqYDvQnZchvbEaQGd": {
+      "answer": "ctrl + m = move right ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIquJOTDK9jR9ooBdd": {
+      "answer": "ctrl + n = new blank page ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIrU9lpKgP2RUlTMSo": {
+      "answer": "ctrl + o = open ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIsCSruG_AwnolouCI": {
+      "answer": "ctrl + p = print ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIsLBMrhgea2X81Fdl": {
+      "answer": "ctrl + q = reduce gap",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIsixiq51u40uxVaxu": {
+      "answer": "ctrl + r =right align ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIsn_uI-4EjNU54wOz": {
+      "answer": "ctrl + s = save ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIssVhSd79eM5uNWHT": {
+      "answer": "ctrl + s = save ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIt0nq7tgZDGjyCWXk": {
+      "answer": "ctrl + t = hanging indent",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPItjPpFnD4p7Lj-fKq": {
+      "answer": "ctrl + u = underline ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPItwXIoSsQ0hwi3gC7": {
+      "answer": "ctrl + v = paste ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIu7GNFASG2_iRgTrF": {
+      "answer": "ctrl + w = exit ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIuB795zq_bSQ9DsWy": {
+      "answer": "ctrl + x = cut",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIuIITrbEjug3WzwEz": {
+      "answer": "ctrl + y = redo",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIuOsO7eIiYN4yLgxC": {
+      "answer": "ctrl + z = undo",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIvGMS9p9B3FBFduFk": {
+      "answer": "",
+      "imgurl": " ",
+      "question": "ctrl + function key"
+    },
+    "-NPIvfmFn4rWOnjbsOjY": {
+      "answer": "ctrl + F1 = minimize / maximize the ribbon ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIvvqo5FBtM98KqyLi": {
+      "answer": "ctrl + F2 = print preview command ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIw4CaHrlnMdyriOZI": {
+      "answer": "ctrl + F3 = cut to the spike ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIwETYuIg5oh6hhqZU": {
+      "answer": "ctrl + F4 = close the window ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIwM84NWungMmKpPFn": {
+      "answer": "ctrl + F5 = empty",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIwU3hECgMgHxHFeC9": {
+      "answer": "ctrl + F6 = go to the next window ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIwgPKjKvT-p_U1RrE": {
+      "answer": "ctrl + F7 = empty ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIwkO6ITfqGeFoQBHZ": {
+      "answer": "ctrl + F8 = empty ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIwoUw3Fpj_2YqTZqO": {
+      "answer": "ctrl + F9 = insert an empty field ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIxUkVpkkyhORr1mQI": {
+      "answer": "ctrl + F10 = maximize the document window ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIxbUgYHvd-hbCXs3r": {
+      "answer": "ctrl + F11 = lock a field ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPIxgggWPv35STRoiEQ": {
+      "answer": "ctrl + F12 = open command ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPJ-A5OcpBkZZq52dww": {
+      "answer": " ",
+      "imgurl": " ",
+      "question": "Some shortcut keys combo function"
+    },
+    "-NPJ-TWOeSrI0saZdEZY": {
+      "answer": "Alt + Tab = forward scroll through open applications",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPJ-flCZC55v6VNKUoT": {
+      "answer": "alt + shift + tab = reverse scroll through open applications",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPJ11WYrpvqcksypIAf": {
+      "answer": "F1 = display help for the current application",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPJ16LZHjEjqvmepvP3": {
+      "answer": "F2 = rename highlighted object",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPJ1Hoj_2X4-GdzX4nM": {
+      "answer": "F4 = position cursor at the address bar in windows explorer",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPJ1MujA9dELczs_AKF": {
+      "answer": "F5 = refresh contents in internet explorer",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPJ1bPY02WeOgEnjn-a": {
+      "answer": "F8 (during boot) = display windows start and diagnostic menu",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPJ1fly3TsubNPH67P8": {
+      "answer": "F10 = display menu bar options",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPJ1se3a7oit5KOmEiu": {
+      "answer": "alt + F4 = close current application",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPJ2-wQI0EaX2B7deGG": {
+      "answer": "ctrl + F4 = close open window in current application",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPJ2bp0e0FuIaScISgJ": {
+      "answer": "shift + del = permanently delete items, even from  recycle bin",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPJ39XaGW75QvCOhQdc": {
+      "answer": "Esc = exit / cancel",
+      "imgurl": " ",
+      "question": "special keys "
+    },
+    "-NPJ3ld7x5fiQfeHNcyg": {
+      "answer": "backspace = delete one character to the left",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPJ3rOcuW_ibDyheqSY": {
+      "answer": "Delete = delete one character to the right",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPJ4-TOtkQFhZtRxpq2": {
+      "answer": "Home = go to beginning of line ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPJ43juBOsxRqylouV5": {
+      "answer": "End = go to end of line",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPJ4Axc-yzuwCqc7rec": {
+      "answer": "Enter = insert new paragraph ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPJ4fzfoXMRhfIlqdQU": {
+      "answer": "Arrow up = up one line ",
+      "imgurl": " ",
+      "question": ""
+    },
+    "-NPJ4lsDxSmNtMbeOPug": {
+      "answer": "Arrow Down = down one line",
+      "imgurl": " ",
+      "question": ""
+    }
+  },
+  "ch17": {
+    "-NuDiDv-DzGs44nDoBVF": {
+      "answer": "ATM-Automated Teller Machine\n\nPIN-Personal Identification Number\n\nFIR-First Information Report\n\nWi-Fi-Wireless Fidelity\n\nCD-Compact Disk\n\nDVD-Digital Versatile Disk\n\nGPRS-General Packet Radio Service\n\nHTTP-Hyper Text Transfer Protocol\n\nRADAR-Radio Detection And Ranging\n\nDPI-Dots Per Inch\n\nGHz-GigaHertz\n\nHDD-Hard Disk Drive\n\nVIRUS-Vital Information Resources Under S\n\nHP-Hewlett-Packard Development Com\n\nIC-Integrated Circuit\n\nISO-International Standards Organization\n\nJBL-JBL, Jame B. Lansing., Speakers\n\nKbps,KBps-Kilobits Per Second,KiloBytes persecond\n\nLG-Life's Good\n\nETC-et cetera\n\nFM-Frequency Modulation\n\nSIM-Subscriber Identity Module\n\nIMEI-International Mobile Equipment Iden\n\nWww-World Wide Web\n\nIP-Internet Protocol\n\nHTML-Hyper Text Markup Language\n\nGST-Goods and Service Tax\n\nDP-Display Picture",
+      "imgurl": " ",
+      "question": "Ful Form:-"
+    }
+  },
+  "ch18": {
+    "-NuDkGcfim2vepNFIsvx": {
+      "answer": "\n'-Acute, Open Quote, or A Push\n\n!- Exclamation Mark or Bang\n\n@-Ampersat, Arobase, At the Rate\n\n#-Hash\n\n&-Number Sign or Sharp \n\n$-Generic Currency or Dollar Sign \n\n%-Percent\n\n() Parenthesis\n\n( Open parenthesis\n\n) Close parenthesis\n\n_-Underscore\n\n- -Hyphen, Minus or Dash\n\n+ Plus\n\n= Equals\n\n*Multiply\n\n{} Braces, Squiggly or Curly Brackets\n\n{ Open Brace, squiggly or curly bracket\n\n} Close Brace, squiggly or curly bracket\n\n[] Brackets\n\n[ Open bracket",
+      "imgurl": " ",
+      "question": "Symbolls:-"
+    },
+    "-NuDlRlcQWLinPLEANSX": {
+      "answer": "]-Close bracket\n\n: Colon\n\n; Semi-colon\n\n??- Double quotation, inverted comma\n\n'-Apostrophe or single quotation\n\n/-Pipe, Vertical Bar, OrBroken Bar\n\n< -Left Angled Bracket or Less than\n\n> -Right Angled Bracket or Greater than\n\n,-Comma\n\n.-Full Stop, Dot, Point\n\n? -Question mark\n\n/- Forward slash, Divide Symbol,Backslash or Reverse Solidus\n\n£ -Pound\n\n€ -Euro\n\nC- Cent sign\n\n ¥- Chinese Yuan\n\n₹ -Rupees",
+      "imgurl": " ",
+      "question": " "
+    },
+    "-Nv-nL-4tQDHn058j0z-": {
+      "answer": " Page Maker 7.2 में कई प्रकार के Style मौजूद होते हैं, जिससे एक साथ पूरे Paragraph का Style Change होता है।",
+      "imgurl": " ",
+      "question": "Style: -"
+    }
+  },
+  "ch2": {
+    "-N9aZih59KTeVIQdMYyR": {
+      "answer": "सबसे अधिक प्रसिद्ध operating system windows है और बहुत ही लोकप्रिय है windows को graphical user interface भी कहते हैं।",
+      "imgurl": " ",
+      "question": "what is windows?"
+    },
+    "-N9a_nj53caZpjIL8tm3": {
+      "answer": " सितंबर 1981 में windows को project को डिसीजन बनाया गया जो कि एक electronic device था जिसका नाम enterface manejar था नवंबर 20 1985 में इसकी घोषणा हुई microsoft ने नवंबर  1985 में microsoft windows operating system को बाजार में उतारा।",
+      "imgurl": " ",
+      "question": "History of window:-"
+    },
+    "-N9aa4jKHMvrNq7pxDFF": {
+      "answer": "Microsoft corporation ने windows operating system में समय-समय पर सुधार किया है जो नियम है",
+      "imgurl": " ",
+      "question": "Note:-"
+    },
+    "-N9aaOLKxWRsLHRvp7QN": {
+      "answer": "Microsoft windows इस साल announce हुआ।",
+      "imgurl": " ",
+      "question": "1983:-"
+    },
+    "-N9abL_n7-73IeAC7MC4": {
+      "answer": "Microsoft windows 1.0 इस साल release हुआ windows 1.0 program को ms.dos extention के नाम से जाना गया ।",
+      "imgurl": " ",
+      "question": "1985:-"
+    },
+    "-N9abpCJE7L0Gjdi4ELI": {
+      "answer": "microsoft windows 2.0 इसी साल रिलीज हुआ इसमें keyboard , shortcuts option Available  है।",
+      "imgurl": " ",
+      "question": "1987:-"
+    },
+    "-NAEdertTgp0_qxxvgTM": {
+      "answer": "microsoft windows 3.0 इस साल रिलीज हुआ इसमें मल्टीटास्किंग ज्ञानी एक साथ कई काम करने की सुविधा थी।",
+      "imgurl": " ",
+      "question": "1990:-"
+    },
+    "-NAEdx4x4Aeg7VwLRnF0": {
+      "answer": "Microsoft windows 3.1 इस साल रिलीज हुआ इसमें कोई नया पिक्चर नहीं है।",
+      "imgurl": " ",
+      "question": "1992:-"
+    },
+    "-NAEeCjvAfcXUtouQ91e": {
+      "answer": "microsoft windows 95 इस साल अगस्त 1995 में रिलीज हुआ इसमें फाइल का नाम से 55 अक्षर तक लिखा जा सकत। है।",
+      "imgurl": " ",
+      "question": "1995:-"
+    },
+    "-NAEeTtGylfxc2om-EAQ": {
+      "answer": "microsoft windows 98 इस साल रिलीज हुआ इसका फर्स्ट वर्जन जून 1998 में और सेकंड वर्जन 1999 में रिलीज हुआ।",
+      "imgurl": " ",
+      "question": "1998:-"
+    },
+    "-NAEexeT9Evv7fUyBvn8": {
+      "answer": "microsoft windows 2000 इस साल फरवरी में रिलीज हुआ इसमें एक नया feature था जिससे system restore कहते हैं।",
+      "imgurl": " ",
+      "question": "2000:-"
+    },
+    "-NAjT2kTWtV4VP-qW2Z0": {
+      "answer": "microsoft windows xp इस साल october में release हुआ उसमें media center,dvd, tv जैसे कुछ नए feature थे।",
+      "imgurl": " ",
+      "question": "2001:-"
+    },
+    "-NAjTYxpY3eHS-mcpZUb": {
+      "answer": "Microsoft windows 7 \nइस साल realease हुआ। windows 7में multiple सुविधा उपलब्ध थी।",
+      "imgurl": " ",
+      "question": "2007:-"
+    }
+  },
+  "ch3": {
+    "-N7WKS0oOnGHpb7GCJ0N": {
+      "answer": "Notepad एक basic और simple text editor software program है जो simple text file  बनाने में प्रयोग होता है।",
+      "imgurl": " ",
+      "question": " What is notepad?"
+    },
+    "-N7WPKJHx0HjRZABW8Wo": {
+      "answer": "Notepad program accessories group से संबंधित है और इसका file extention .txt होता है। Notepad microsoft के प्रतेक् version में शुरूआत से हि उप्ल्ब्द् है।",
+      "imgurl": " ",
+      "question": "Note:-"
+    },
+    "-N7WQbuDu0TVkXKLJuvS": {
+      "answer": "Start>all program>accessories>Notepad>enter/click",
+      "imgurl": " ",
+      "question": "how to open Notepad?"
+    },
+    "-N7WVZV8sxbk1cBKCq7W": {
+      "answer": "Notepad के ओपन होने पर windows में सबसे ऊपर के भाग में जो पट्टी होती है जिस पर file और  program का नाम लिखा रहता है उससे title bar  कहते हैंl",
+      "imgurl": " ",
+      "question": "what is title bar?"
+    },
+    "-N7WWmQ_kfzlIbWZFrgv": {
+      "answer": "title bar पर minimise maximize restore तथा close button होता है l",
+      "imgurl": " ",
+      "question": "note:-"
+    },
+    "-N7WY5tI-Vf7lClprHsh": {
+      "answer": "इसके मदद से पेज या document के size को पूरे skrin के बराबर करने का कार्य करते हैं",
+      "imgurl": " ",
+      "question": "what is maximise button?"
+    },
+    "-N7WZDg5OZgXqyIu8emx": {
+      "answer": "file को taskbar मैं छुपाने के लिए manimise button  का प्रयोग करते हैंl",
+      "imgurl": " ",
+      "question": "what is minimise button?"
+    },
+    "-N7W_8C3jk-JPw5mCcIp": {
+      "answer": "इसकी मदद से document को बंद करने का कार्य करते हैं l",
+      "imgurl": " ",
+      "question": "what is close button?"
+    },
+    "-N7W_oG8po56uFSAA96T": {
+      "answer": "title bar के नीचे जो पट्टी होती है उससे मेनू बार कहते हैl",
+      "imgurl": " ",
+      "question": "what is menu bar?"
+    },
+    "-N7WbXGs_VTpC39PPlUB": {
+      "answer": "new (Ctrl+n)-स्क्रीन मदद से हमने फाइल बना सकते हैं",
+      "imgurl": " ",
+      "question": " file menu (Alt+f):-"
+    },
+    "-N7WcxFDg0RhNO7YgLub": {
+      "answer": "इसकी मदद से अपने आप को सुरक्षित कर सकते हैं l",
+      "imgurl": " ",
+      "question": "save Ctrl+ s:-"
+    },
+    "-N7_2b32TOs1eLWqp52n": {
+      "answer": "इसकी मदद से हम पहले से सुरक्षित file को खोल सकते हैंl",
+      "imgurl": " ",
+      "question": "Open (ctrl+o):-"
+    },
+    "-N7_8w2pDbsfPDDkYoqs": {
+      "answer": "file को अलग अलग नाम से एक ही स्थान या एक ही नाम से अलग-अलग स्थान पर सुरक्षित करने के लिए इससे प्रयोग करते हैं",
+      "imgurl": " ",
+      "question": "save as(F12)"
+    },
+    "-N7_9CB3qy9MiPlt0q1p": {
+      "answer": "इसकी मदद से हम अपने active page को आकार को अपनी इच्छा अनुसार व्यवस्थित कर सकते हैंl",
+      "imgurl": " ",
+      "question": "page setup :-"
+    },
+    "-N7b1IEcpvnsSaIEfGsj": {
+      "answer": "इसकी मदद से हम page को print करते हैंl",
+      "imgurl": " ",
+      "question": "print (ctrl +p):-"
+    },
+    "-N7b1lSXJ3WNvtuwIG8x": {
+      "answer": "इसकी मदद से notepad को बंद करने या बाहर निकलने का कार्य करते हैं।",
+      "imgurl": " ",
+      "question": "exist +atl+f4):-"
+    },
+    "-N7b2PyP3nj1XawUUIJ1": {
+      "answer": "इसकी मदद से अंतिम किए हुए कार्य को वापस ला सकते हैं।",
+      "imgurl": " ",
+      "question": "edit menu (alt +E):-\nundo (ctrl+z):-"
+    },
+    "-N7b2to6gwGQIY5vcTjC": {
+      "answer": "स्किन मतलब से selected text को cut करने का काम करते हैं।",
+      "imgurl": " ",
+      "question": "cut (ctrl+x):-"
+    },
+    "-N7b4m7PFXLPmigFPFNi": {
+      "answer": "इसकी मदद से selected text को copy करने का काम करते हैं।",
+      "imgurl": " ",
+      "question": "copy (ctrl+c):-"
+    },
+    "-N7bEEsF_reRueVxTaRM": {
+      "answer": "इसकी मदद से cut  या copy किए हुए ट text को cursor की जगह पर पेस्ट करते हैं",
+      "imgurl": " ",
+      "question": "paste (Ctrl+v):-"
+    },
+    "-N7bEgwMIGmO9n71e32M": {
+      "answer": "इसकी मदद से selected text को delete  या मिटाने का कार्य करते हैं।",
+      "imgurl": " ",
+      "question": "delete:-"
+    },
+    "-N7bF8nUSddHBAVPXmFX": {
+      "answer": "इसकी मदद से किसी शब्द को पूरे तरह से खोजने का कार्य करते हैं।",
+      "imgurl": " ",
+      "question": "find (ctrl+f):-"
+    },
+    "-N7bFLsChns3Z_UYO68Z": {
+      "answer": "इसकी मदद से अंतिम खोजें हुए शब्द को आगे भी खोज सकते हैं।",
+      "imgurl": " ",
+      "question": "find next (f3):-"
+    },
+    "-N7bFoCbXsCEx8HvhyaK": {
+      "answer": "इसकी मदद से पेज  में सभी text को एक साथ select करते हैं।",
+      "imgurl": " ",
+      "question": "selected all(ctrl+a):-"
+    },
+    "-N7bGKlF97QHUkddY8Sp": {
+      "answer": "इसकी मदद से date और time को page में लाने का कार्य करते हैं।",
+      "imgurl": " ",
+      "question": "time and date (F5):-"
+    },
+    "-N7bIRi7N36pe9pUrHm6": {
+      "answer": "इसकी मदद से type किए हुए word को स् को screen में fit करने का काम करते हैं",
+      "imgurl": " ",
+      "question": "formate menu:-\nword wrap:-"
+    },
+    "-N7bIx7fHJp-9t8EyKkA": {
+      "answer": "इसकी मदद से text के style तथा size को बदल सकते हैं।",
+      "imgurl": " ",
+      "question": "Font:-"
+    },
+    "-N7bJXiu6KpI20x2-Xfg": {
+      "answer": "इस menu की मदद से statou bar को show या hide कर सकते हैं।",
+      "imgurl": " ",
+      "question": "View nenu(alt+v):-"
+    },
+    "-N7bJy46fh3S0tNVMwCR": {
+      "answer": "इस menu से notepad संबंधित मदद online ले सकते हैं।",
+      "imgurl": " ",
+      "question": "Help menu(alt+h):-"
+    }
+  },
+  "ch4": {
+    "-N7_zL8tkAzvPeefo3qc": {
+      "answer": "Wordpad ऐसा program है। जिसकी मदद से हम Text Document को Create करते है. तथा उसे अपनी सुविधानुसार Edit भी कर सकते है, Wordpad program Acceccories Group से सम्बंधित है, इसका File Extension .rtf होता है।",
+      "imgurl": " ",
+      "question": "What is wordpad?"
+    },
+    "-N7cmFtA6z3DBSdCZrKS": {
+      "answer": "इस tool का प्रयोग font के नाम को select करने के लिए होता है, इसे click करने से एक list box Appear होता है, जिसमें से अपनी इच्छानुसार font को select करते है।",
+      "imgurl": " ",
+      "question": "• Font Group\n* Font Family :- "
+    },
+    "-N7cmqDX1qVXm29rJURN": {
+      "answer": "Font या text size को change करने के लिए इस tool का प्रयोग किया जाता है।",
+      "imgurl": " ",
+      "question": "• Font Size :- "
+    },
+    "-N7cnbkYy627E6sa9v8x": {
+      "answer": "Font को 2points तक बढ़ने के लिए Grow Font का प्रयोग करते है, इसे एक बार click करने से Font 2points तक बढ़ता है।",
+      "imgurl": " ",
+      "question": "• Grow Font:-"
+    },
+    "-N7coAsqD1umJege9sU0": {
+      "answer": "Font के Size को 2points तक घटाने के लिए Shrink Font का इस्तेमाल किया जाता है।",
+      "imgurl": " ",
+      "question": "Shrink Font:-"
+    },
+    "-N7cpFgVsus3l5m1xTg_": {
+      "answer": "इस Tool का प्रयोग Font को Bold करने के लिए किया जाता है, Text को Select करके Tool को एक बार click करने से Text Bold हो जाता है, तथा दूसरी बार click करने से Bold हट जाता है।",
+      "imgurl": " ",
+      "question": "•Bold (ctrl + B):- "
+    },
+    "-N7cpvuTjeQKDyRnkDk-": {
+      "answer": "इस tool का प्रयोग font को itlalic करने के लिए किया जाता है।",
+      "imgurl": " ",
+      "question": "•Itlalic (ctrl + l):-"
+    },
+    "-N7cqHlbycIVLQlTNgDh": {
+      "answer": "इस tool का प्रयोग Font के नीचे Underline करने के लिए किया जाता है।",
+      "imgurl": " ",
+      "question": "Underline (ctrl+U):-"
+    },
+    "-N7cr4bGkZK1Oc6Y7EZZ": {
+      "answer": "इस tool का प्रयोग लिखे गए Text के उपर एक line को लाने के लिए किया जाता है, जिससे लिखा गया Text काटा हुआ प्रतीत होता है।",
+      "imgurl": " ",
+      "question": "•Strick Through:-"
+    },
+    "-N7creHj81_s0rAIeKGi": {
+      "answer": "इस tool का प्रयोग कुछ Select किए गए Text को Regular Text के उपर और छोटे रूप में लिखने के लिए किया जाता है।",
+      "imgurl": " ",
+      "question": "• Superscript:-"
+    },
+    "-N7csMlv6JtKAgQpjV-1": {
+      "answer": "इस tool की मदद से हम text को इस प्रकार का बना सकते है की text देखने से लगे की मार्कर के द्वारा Highlight किया गया है।",
+      "imgurl": " ",
+      "question": "• Text Highlight Colour:- "
+    },
+    "-N7cshvnDNZSNxDFOi4c": {
+      "answer": "इस tool की मदद से हम text के colour को change करने का कार्य करते है।",
+      "imgurl": " ",
+      "question": "• Text Colour:-"
+    },
+    "-N7cus8Gx62zuviIxf9l": {
+      "answer": "Type किए गए text को अथवा Mouse को Curser को अपनी सुविधानुसार हम left Center, right या Justify के Position में ला सकते है, इसके लिए चारो Option Paragraph Group में मौजूद है जो निम्न प्रकार के है।",
+      "imgurl": " ",
+      "question": "• Paragraph Group:-"
+    },
+    "-N7cvqanemriuFv611G5": {
+      "answer": "",
+      "imgurl": " ",
+      "question": "° Left aline (ctrl + L)\n°Center aline (ctrl + E)\n°Right aline (ctrl + R)\n°Justify aline (ctrl + J)"
+    },
+    "-N7czg0HbhN4YPfYia2G": {
+      "answer": "Paragraph  में दो line के बीच के space को बढ़ाने या घटाने के लिए line Spacing Tool का प्रयोग किया जाता है, इसी प्रकार से दो paragaraph के बीच के Space को अपनी सुविधानुसार change किया जा सकता है।",
+      "imgurl": " ",
+      "question": "• Line Spacing:-"
+    },
+    "-N7d4QyS7Yk-Wk55mbjQ": {
+      "answer": "indent की मदद से हम page में space छोड़ने का कार्य आसानी से कर सकते है,\n            Wordpad तीन प्रकार के indent की सुविधा प्रदान करता है।",
+      "imgurl": " ",
+      "question": "• Indent:-"
+    },
+    "-N7d7loTSPlbCuHq0T3v": {
+      "answer": "इसकी मदद से हम पूरे paragraph के Text की एक particular space छोड़कर लिख सकते हैं।",
+      "imgurl": " ",
+      "question": "• Normal Indent:-"
+    },
+    "-N7d8FS-Ob_hytfuiQ9V": {
+      "answer": "इसकी मदद से हम केवल paragraph के पहली line में space छोड़ने का कार्य करते हैं।",
+      "imgurl": " ",
+      "question": "• First Line Indent:-"
+    },
+    "-N7dApvHhr-Z1Y1Ox4-W": {
+      "answer": "इसकी मदद से पहली line को छोड़कर बाकी line में space छोड़ने का कार्य करते हैं।",
+      "imgurl": " ",
+      "question": "• Hanging Indent:-"
+    },
+    "-N7dCbXzCkGhS6Y7pEbc": {
+      "answer": "paragraph में indent का प्रयोग हम Rular की मदद से भी कर सकते है। Symbol में उपर का भाग First Line Indent का कार्य करता है जबकी नीचे का भाग Hanging Indent का कार्य करता है।",
+      "imgurl": " ",
+      "question": "• Indent का प्रयोग Rular की मदद से:-"
+    },
+    "-N7dDUdrDcGhpZvUBhDR": {
+      "answer": "इस Tool की मदद से Paragraph में 1,2,3 Numbring अथवा A,B,C के Format में Paragraph में List Insert किया जाता है।",
+      "imgurl": " ",
+      "question": "* Start a list:-"
+    },
+    "-N7dEvrj5tJ2ikWrLISm": {
+      "answer": " Insert Group में picture, paint Drowing, Date and time तथा insert Object का option Available है। इसमें से हम सारे Tools का प्रयोग Wordpad में इन्हे insert करने के लिए करते है।",
+      "imgurl": " ",
+      "question": "* Insert Group "
+    },
+    "-N7dFGioJ7KGstMuBbR5": {
+      "answer": "            Find, Replace, Select all - Complrted ",
+      "imgurl": " ",
+      "question": "  Editing Group "
+    },
+    "-N7dFp7nxyzJJ4rz5gOc": {
+      "answer": "Zoom के Option का प्रयोग Text या inage को बड़ा या छोटा करके देखने के लिए किया जाता है।",
+      "imgurl": " ",
+      "question": "* VIEW  TAB\n   • Zoom:-"
+    },
+    "-N7dGVZK9hPQtGwoFNKL": {
+      "answer": "इस Group का प्रयोग Rular तथा Status Baar को Wordpad में दिखाने या उसे छुपाने के लिए किया जाता है।",
+      "imgurl": " ",
+      "question": "• Show or Hide:-"
+    },
+    "-N7dHVlv3Lke1wtGaR8-": {
+      "answer": "इस Group का प्रयोग Wordpad को हटाने उसे windows या Rular में लगाने के लिए किया जाता है, Measurement  units का प्रयोग Measurement के लिए किया जाता है।",
+      "imgurl": " ",
+      "question": "• Setting:-"
+    }
+  },
+  "ch5": {
+    "-N7i9utDKjRhhKMIVDpn": {
+      "answer": "Paint एक Simple Drawing program है जो Microsoft windows के प्रत्येक version में रहता है, इसे bitmap image के नाम से भी जानते है इसमें color और black & white दोनो mode में काम कर सकते है, इसका file extension .bmp/.png/.jpeg होता है।",
+      "imgurl": " ",
+      "question": "• Introduction:-"
+    },
+    "-N7iAXJs-DWbLib84bF1": {
+      "answer": "Cut, Copy, Paste - Completed ",
+      "imgurl": " ",
+      "question": "Home Tab\n\n• Clipboard Group:-"
+    },
+    "-N7iBVUmgxdP_XGy8Mf-": {
+      "answer": "image को आयताकार में Select करने के Rectengular Selection का प्रयोग किया जाता है।",
+      "imgurl": " ",
+      "question": "Image Group (Select tool)\n\n* Rectangular          selection:-"
+    },
+    "-N7iCDBXr4qigB2M3fJR": {
+      "answer": "image को अपनी सुविधानुसार अड़ी तिरछी भागो के Select करने के लिए free from Selection का प्रयोग किया जाता है।",
+      "imgurl": " ",
+      "question": "* Free Form Selection:-"
+    },
+    "-N7iCVuY9DSAvcXbqj1E": {
+      "answer": "पूरे image को select करने के लिए select all का प्रयोग किया जाता है।",
+      "imgurl": " ",
+      "question": "* Select all:-"
+    },
+    "-N7iD1SoZ6OcAb07S4-q": {
+      "answer": "Selection को Reverse करने के लिए Invert Selection का प्रयोग किया जाता है। यानी Select किए हुए Object को छोड़कर सब।",
+      "imgurl": " ",
+      "question": "* Invert Selection:-"
+    },
+    "-N7iDNHbE7oFnfoPRJEN": {
+      "answer": "Selected area image को मिटाने के लिए Delete use किया जाता है।",
+      "imgurl": " ",
+      "question": "* Delete:-"
+    },
+    "-N7iDqokrtQrYZlGK6Oa": {
+      "answer": "इस Option से picture को छोटा किया जा सकता है अर्थात उसे छोटा करके केवल उतना बड़ा page बनाया जा सकता है।",
+      "imgurl": " ",
+      "question": "* Crop:-"
+    },
+    "-N7iEVNyMMefvUQB3FfL": {
+      "answer": "Image का आकर बदलने के लिए Resize use करते है इस Option से picture को percentage अथवा pixel के आधार पर छोटा या बड़ा किया जाता है।",
+      "imgurl": " ",
+      "question": "* Resize:-"
+    },
+    "-N7iF9Gc1srPPpm_il64": {
+      "answer": "Image को 90° अथवा 180° right या left अथवा vetical या Horizontal घूमने के लिए Rotate Option use किया जाता है।",
+      "imgurl": " ",
+      "question": "* Rotate:-"
+    },
+    "-N7iJSldZaRrMpthr2rl": {
+      "answer": "इस Opition से page में pencil Use किया जाता है।",
+      "imgurl": " ",
+      "question": "* Tools Group\n  Pencil:-"
+    },
+    "-N7iJo64OqYR8sEgdudh": {
+      "answer": "इस Option से Shape/Object में Colour भरते है।",
+      "imgurl": " ",
+      "question": "* Fill With Colour:-"
+    },
+    "-N7iK-P4Ioh_OzZzJ80Y": {
+      "answer": "इस Option से picture पर Text लिखते है।",
+      "imgurl": " ",
+      "question": "* Text:-"
+    },
+    "-N7iKNTbSArcrP5vTHZI": {
+      "answer": "eraser का इस्तेमाल picture के unwanted part को मिटाने के लिए किया जाता है।",
+      "imgurl": " ",
+      "question": "* Eraser:-"
+    },
+    "-N7iKtTWeTtCgnTQYrhu": {
+      "answer": "इस Option से Picture में मौजूद किसी भी Colour को pick करने उसे किसी Object में Fill किया जाता है।",
+      "imgurl": " ",
+      "question": "* Colour Picker:-"
+    },
+    "-N7iLB6v1QNjHaltfHGO": {
+      "answer": "इस Option se Page को बड़ा या छोटा करके देखा जाता है।",
+      "imgurl": " ",
+      "question": "* Magnifier:- "
+    },
+    "-N7iLWMwMfoQypBpbwUG": {
+      "answer": "इस Option से page में Brush use किया जाता है, इसमें 9 तरह के brush होता है।",
+      "imgurl": " ",
+      "question": "* Brush:-"
+    },
+    "-N7iM1Yb24dgWa8O0EIj": {
+      "answer": "विभिन्न प्रकार के बने बनाए shapes इस Box में उपलब्ध है जिसका प्रयोग हम अपने Drawing में कर सकते है।",
+      "imgurl": " ",
+      "question": "* Shapes Group:-"
+    },
+    "-N7iNnqRqxCDeBkT3_Bo": {
+      "answer": "इस Option से Shape के Outline को Brush के आधार पर Fromat किया जाता है।",
+      "imgurl": " ",
+      "question": "* Outline:-"
+    },
+    "-N7iO4lcdZ4tV0WGoOH0": {
+      "answer": "इस Option से Shape के fill area को brush के आधार पर Formate किया जाता है।",
+      "imgurl": " ",
+      "question": "* Fill:-"
+    },
+    "-N7iOKIb8RiMeHLkQ2s8": {
+      "answer": "इस Option से Shape Eraser अथवा brush के size को बड़ा या छोटा किया जाता है।",
+      "imgurl": " ",
+      "question": "* Size:-"
+    },
+    "-N7iPE2gTV9Nh3vKdNbs": {
+      "answer": "यह Pencil Fill with Colour और brush का colour होता है।",
+      "imgurl": " ",
+      "question": "Colour Group\n* Colour:- "
+    },
+    "-N7iPc9o8UexLeLgZcea": {
+      "answer": "यह Eraser और backgrund Colour होता है।",
+      "imgurl": " ",
+      "question": "* Colour 2:-"
+    },
+    "-N7iQDQ7jSeFdXRBlpwB": {
+      "answer": "यहाँ हमें पहले से बने बनाए colour मिटाते है जिसकी संख्या 20 होती है।",
+      "imgurl": " ",
+      "question": "* Colour Box:-"
+    },
+    "-N7iQfd_v6vVUxS6k_a-": {
+      "answer": "इस Option से नए colours बना सकते है, जिसके लिए 10 खाली box दीये रहते है।",
+      "imgurl": " ",
+      "question": "* Edite Colour:-"
+    },
+    "-N7iRF4SypIQik3ybBWs": {
+      "answer": "इसका प्रयोग नजदीकी बढ़ने के लिए किया जाता है। यह 800% तक होता है।",
+      "imgurl": " ",
+      "question": "WIEW TAB\n•Zoom Group\n* zoom in:-"
+    },
+    "-N7iRbJ-cMJ42VQEaheH": {
+      "answer": "इसका प्रयोग दूरी बढाने के लिए किया जाता है। यह 12.5% तक होता है।",
+      "imgurl": " ",
+      "question": "* Zoom out:-"
+    },
+    "-N7iRqzwFf51P9Vap5EY": {
+      "answer": "इसकी मदद से हम page का Orignal Size ला सकते है।",
+      "imgurl": " ",
+      "question": "100%:-"
+    },
+    "-N7iSP_6FeAQcGiod7CG": {
+      "answer": "Rular Gridline Status Baar को दिखाने या छुपाने के लिए इस group का use करते है।",
+      "imgurl": " ",
+      "question": "* Show or Hide Group:-"
+    },
+    "-N7iSljKLqX9VIQiSlAP": {
+      "answer": "इस Option से file को full screen करके देखते है।",
+      "imgurl": " ",
+      "question": "Display Group\n* Full screen:-"
+    },
+    "-N7iT79FCmeWf5QjH5tD": {
+      "answer": "इस option से page zoom के समय अलग से page का Orignal Size देखा जाता है।",
+      "imgurl": " ",
+      "question": "* Thumbnail:-"
+    }
+  },
+  "ch6": {
+    "-N7av2lj1NzrgbmII5ik": {
+      "answer": "यह Microsoft Corporation के द्वारा बनाया गया Application Software का एक Complete पैकेज है। जिसमे कई सारे उपयोगी Application Software आते हैं। ",
+      "imgurl": " ",
+      "question": "What is Ms-Office?"
+    },
+    "-N7avqkbQcf33g6BnGTv": {
+      "answer": "There are Seven Application Software in Ms-office \n\nMs-office में सात एप्लीकेशन सॉफ्टवेयर हैं",
+      "imgurl": " ",
+      "question": "How Many Application Software in Ms- office? "
+    },
+    "-N7axSfef0vaWnzn6yM5": {
+      "answer": "1:- MS-Word\n2:- MS-EXCEL\n3:- POWER POINT\n4:- ACCESS\n5:- PUBLISHER\n6:- OUTLOOK\n7:- ONE NOTE",
+      "imgurl": " ",
+      "question": "There are Following Application Software:-"
+    },
+    "-N7b2H7w4qlvrzwzbklx": {
+      "answer": "1:- Open Chrome Browser\n2:- Search Microsoft\n3:- Click On Account Option\n4:- Click On Create Account\n5:- Then Click On Get A New E-mail Address \n6:- Type There Your Own Information\n7:- Type There Your Own Password\n8:- Save Your Password\n9:- Solve The Puzzle\n10:- Your Account are Ready \n11:- Click On Yes Icon\n12:- Your Account Are Created \n\n1:- क्रोम ब्राउजर खोलें\n 2:- माइक्रोसॉफ्ट सर्च करें\n 3:- अकाउंट ऑप्शन पर क्लिक करें\n 4:- Create Account . पर क्लिक करें\n 5:- इसके बाद Get a New E-mail address पर क्लिक करें\n 6:- वहां अपनी खुद की जानकारी टाइप करें\n 7:- वहां अपना खुद का पासवर्ड टाइप करें\n 8:- अपना पासवर्ड सेव करें\n 9:- पहेली को हल करें\n 10:- आपका खाता तैयार है\n 11:- Yes Icon पर क्लिक करें\n 12:- आपका अकाउंट बन गया\n",
+      "imgurl": " ",
+      "question": "How To Create Account on Microsoft ?"
+    },
+    "-N7b6ZyBfjRlMXAKcjjj": {
+      "answer": "There are Following Versions\n\nYear  - Versions\n1990 - MS - Office 1.0\n1992 - MS - Office 3.0\n1995 - MS - Office 95\n1997 - MS - Office 97\n2000 - MS - Office 2000\n2001 - MS - Office XP 2001\n2003 - MS - Office 2003\n2007 - MS - Office 2007 \n2010 - MS - Office 2010\n2013 - MS - Office 2013\n2016 - MS - Office 2016 \n2019 - MS - Office 2019/Office 365 \n2021 - MS - Office 2021",
+      "imgurl": " ",
+      "question": "Version of Ms-Office:-"
+    },
+    "-N7bFklHth3BVqwJYuCr": {
+      "answer": "Microsoft office की Advantage की बात करें तो इसकी सबसे बड़ी विशेषता यह है की यह User Friendly & Easy To Use है , इसके किसी एक program पर कार्य कर लेने पर इसके सारे program को Use करना आसान हो जाता है, इसके सारे program के ज्यादातर Option एक दूसरे से मिलते-जुलते है।\n\nMS Office के package में एक साथ कई program आते है जो अलग अलग तरह के कार्यों को करने की सुविधा प्रदान करता है।\nMS Office Popular होने के कारण इसे हर एक छोटे बड़े Course में शामिल कर लिया गया है जिससे इसे सीखना आसान है।\nयह बहुत ही सस्ती software है तथा आसानी से उपलब्ध है।\nइसका Installation भी बहुत ही आसान है।\nइसमें Microsoft के द्वारा समय समय पर Update दिया जाता है, जिसमें इस के Security को बढ़ाया जाता है, Bug को हटाया जाता है नए Feature को जोड़ा जाता है।\nआज कल के Latest PC में ज्यादातर MS Office Pre Installed रहते हैं ",
+      "imgurl": " ",
+      "question": "Advantage of Ms-Office:-"
+    },
+    "-NVnEjxt7bWAW0TWJxB5": {
+      "answer": "office button में जाते ही  एक menu दिखाई देता है जिसमें हम कोई new file ले सकते हैं या पहले से बनी file को save कर सकते हैं या document को save  या save as  कर सकते हैं और भी कई काम कर सकते हैं।",
+      "imgurl": " ",
+      "question": "The Microsoft office button -"
+    }
+  },
+  "ch7": {
+    "-N7exnCPAphivoJaesia": {
+      "answer": "Microsoft Word is a part of \"Microsoft office\" that works for writing, editing or creating any Text/Alphabet Related To Word.",
+      "imgurl": " ",
+      "question": "What is MS-WORD ?"
+    },
+    "-N7eyI1ZIsYGxDK-h-iI": {
+      "answer": "माइक्रोसॉफ्ट वर्ड माइक्रोसॉफ्ट ऑफिस का एक हिस्सा है \"जो वर्ड से संबंधित किसी भी टेक्स्ट/अल्फाबेट को लिखने, संपादित करने या बनाने के लिए काम करता है\"",
+      "imgurl": " ",
+      "question": "एमएस-वर्ड क्या है?"
+    },
+    "-N7ezYsPDcRN-Vn0-tzB": {
+      "answer": "Microsoft - Word,also Known as \"Word\" , was Created by Microsoft Company in 1983, which has became the World's Largest Word Processor Today.",
+      "imgurl": " ",
+      "question": "When was Created Microsoft-word?"
+    },
+    "-N7f-XAFORxVscILYikm": {
+      "answer": "माइक्रोसॉफ्ट वर्ड, जिसे \"वर्ड\" के नाम से भी जाना जाता है, माइक्रोसॉफ्ट कंपनी द्वारा 1983 में बनाया गया था, जो आज दुनिया का सबसे बड़ा वर्ड प्रोसेसर सॉफ्टवेयर बन गया है।",
+      "imgurl": " ",
+      "question": "माइक्रोसॉफ्ट-वर्ड कब बनाया गया था?"
+    },
+    "-N7f0z16aAIz620ztFRS": {
+      "answer": "There are many versions of Microsoft Word available Such as: MS-Word 2003, MS-Word 2007, MS-Word 2010, MS- Word 2013, MS-Word 2016, MS-Word 2019 or MS-Word 2021. Now it is Up To You Which Version You Use",
+      "imgurl": " ",
+      "question": "How Many Versions There are  Word?"
+    },
+    "-N7f1fqYXYhDm0uKiFaT": {
+      "answer": "Microsoft Word के कई संस्करण उपलब्ध हैं जैसे: Microsoft Word 2003, Microsoft Word 2007, Microsoft Word 2010, Microsoft Word 2013, Microsoft Word 2016, Microsoft Word 2019 या Microsoft Word 21। अब यह आप पर निर्भर है कि आप किस संस्करण का उपयोग करते हैं।",
+      "imgurl": " ",
+      "question": "MS-Word के कितने संस्करण हैं?"
+    },
+    "-N7f2T45_IVu3a2xRhMN": {
+      "answer": "When a change is made to any software, a new version is named. Suppose, I have created a software and after a few days! feel that there should have been some other things in this software or update some other things, then after completing al d things again, I will give it a new version.",
+      "imgurl": " ",
+      "question": "What is Version? "
+    },
+    "-N7f2m9Ph6D5gPukY3-d": {
+      "answer": "जब किसी सॉफ्टवेयर में परिवर्तन किया जाता है तो एक नए संस्करण का नाम दिया जाता है।  मान लीजिए, मैंने एक सॉफ्टवेयर बनाया है और कुछ दिनों के बाद!  लगता है कि इस सॉफ्टवेयर में कुछ और चीजें होनी चाहिए थीं या कुछ अन्य चीजों को अपडेट करना चाहिए था, फिर अन्य चीजों को फिर से पूरा करने के बाद, मैं इसे एक नया संस्करण दूंगा।",
+      "imgurl": " ",
+      "question": "Version क्या है?"
+    },
+    "-N7f4EQiUFKQjw1VBMUD": {
+      "answer": ":- With its help , we can prepare any type of book and publish it in the market place \n:- With its help , we can prepare any type of letter\n:- Through its , any type of typing or its format related to Math can be easily prepared.\n:- With its help , we can create a mail merge or resume. \n:- We can create an invoice or hand bill with the help of Microsoft Word.\n:-There are many other things that can be created with the help of Microsoft Word .",
+      "imgurl": " ",
+      "question": "Features of Ms-Word:-"
+    },
+    "-N7f5R9N3edcP2wuUVc8": {
+      "answer": ":- इसकी सहायता से हम किसी भी प्रकार की पुस्तक तैयार कर उसे बाजार में प्रकाशित कर सकते हैं!\n:- इसकी सहायता से हम किसी भी प्रकार का पत्र तैयार कर सकते हैं।\n:- इसके माध्यम से मैथ से संबंधित किसी भी प्रकार की टाइपिंग या उसके प्रारूप को आसानी से तैयार किया जा सकता है\n:- इसकी मदद से हम मेल मर्ज या रिज्यूमे बना सकते हैं।\n:- हम माइक्रोसॉफ्ट वर्ड की मदद से इनवॉइस या हैंड बिल बना सकते हैं।\n:- और भी बहुत सी चीजें हैं जो माइक्रोसॉफ्ट वर्ड की मदद से बनाई जा सकती हैं।",
+      "imgurl": " ",
+      "question": "एमएस-वर्ड . की विशेषताएं !"
+    },
+    "-N7fUfINt7tVGZeg8jR3": {
+      "answer": "1:- Open By Search Bar \ni) :- Open Search Bar\nii) :- Search Word\niii) :- Click Ok \niv) :- Your Word is Opened \n2 :- Open By Run Command\ni) :- Windows + R \nii) :- Type Winword\niii) :- Click ok\niv) :- Your Word is Opened ",
+      "imgurl": " ",
+      "question": "How To Open MS-Word?"
+    },
+    "-N7fV3Je5doAYTeuIMnF": {
+      "answer": "1:- सर्च बार द्वारा खोलें\n i) :- ओपन सर्च बार\n ii) :- सर्च वर्ड\n iii) :- ठीक क्लिक करें\n iv) :- आपका शब्द खुल गया\n\n 2 :- ओपन बाय रन कमांड\n i) :- विंडोज + आर\n ii) :- विनवर्ड टाइप करें\n iii) :- ओके पर क्लिक करें\n iv) :- आपका शब्द खुल गया",
+      "imgurl": " ",
+      "question": "MS-WORD को कैसे खोले?"
+    },
+    "-N7fWR52LI0ncC4TbF2m": {
+      "answer": "There are 10 Tabs in Word\n1:- File Tab\n2 :- Home Tab\n3 :- Insert Tab\n4 :- Design Tab\n5 :- Layout Tab \n6 :- References Tab \n7 :- Mailings Tab \n8 :- Review Tab\n9 :- View Tab \n10 :- Help ",
+      "imgurl": " ",
+      "question": "How Many Tabs are in  Word?"
+    }
+  },
+  "ch8": {
+    "-N7qAjmLt6qWFb9qJS8z": {
+      "answer": "MS - Excel एक Spreadsheet Program हैं, जिसका पूरा नाम M = Micro & = Soft अर्थात Microsoft Excel hota है, इसे Short में Excel भी कहा जाता है । Microsoft Excel,  Microsoft Office का एक भाग है जिसे Microsoft Company,America ने बनाया है । ये Windows, Mac, Android इत्यादि User के लिए उपलब्ध है।",
+      "imgurl": " ",
+      "question": "What is MS-Excel ?"
+    },
+    "-N7qCyOVrAmB-t5yBxRC": {
+      "answer": "\nExcel को खोलने के कई तरीके हैं जो आपको उसका इस्तेमाल आप कर सकते हैं।\n1. सबसे पहले आप की Keyboard में Window + R प्रेस करें, उसके बाद आपके सामने एक Run Diaolag Box खुलकर आएगा उसमें आप Excel लिखकर Enter Key प्रेस कर दे । \n2. सबसे पहले आप Window Key दबाएं, उसके बाद आप Excel Type करें और उसे Open करें ।\n3. Desktop पर खाली जगह पर Righr Click करें और Excel के Option पे Click करें ।",
+      "imgurl": " ",
+      "question": "Excel को कैसे Open किया जाता हैं ? "
+    },
+    "-N7sPfT2otNtyk6LRe9Q": {
+      "answer": "Excel में 9 Tab होते हैं\n1:- File \n2:- Home \n3:- Insert \n4:- Page Layout \n5:- Formula\n6:- DATA\n7:- Review \n8:- View \n9:- Help ",
+      "imgurl": " ",
+      "question": "Excel में कितने TAb होते हैं?"
+    },
+    "-N7vLlD0fPSdabEEKVVL": {
+      "answer": "जैसे: Home, Insert, Page Layout, Formula, DATA, Review,View इत्यादि।",
+      "imgurl": " ",
+      "question": "Menu Bar को Tab Bar भी कहा जाता है। इसके अन्दर भी कई सारे Menu आते है।"
+    },
+    "-N7vMnwpJX9ZeanQPwvJ": {
+      "answer": "Title Bar , Menu Bar के ऊपर में होता है, जो की File Name को दर्शाता हैं। आपने इस Documemt को किस Name से save किया है,उसी को दिखाता है। Save करने से पहले Book 1- Microsoft Excel लिखा रहेगा और Save करने के बाद इसकी Name बदल जाएगी ",
+      "imgurl": " ",
+      "question": "Title Bar "
+    },
+    "-N7vNRWsgWpbkL8ffNBs": {
+      "answer": "जब हम किसी भी Menu जैसे: Home, Insert, Page Layout इत्यादि में किसी एक पर Click करते है तो हमारे सामने फिर से एक Menu खुलता है जिसे Ribbon Menu कहते हैं ",
+      "imgurl": " ",
+      "question": "Ribbon Menu "
+    },
+    "-NAjXUD8gCowAAMsajqA": {
+      "answer": "",
+      "imgurl": " ",
+      "question": "eaditing :-"
+    },
+    "-NAjXkwAPl3qrFCbi1yh": {
+      "answer": "selected range जोड़ने के लिए इस option का इस्तेमाल करते हैं।",
+      "imgurl": " ",
+      "question": "autosum :-"
+    },
+    "-NAjYbECWzmWFolOq5Bo": {
+      "answer": "selected cell में up, down, left, right का data fill करने के लिए इसका प्रयोग करते हैं।",
+      "imgurl": " ",
+      "question": "fill:-"
+    },
+    "-NAjZ_uSjQbyo98AqebY": {
+      "answer": " selected cell लिया cells के range को clear करने के लिए इसका इस्तेमाल करते है।",
+      "imgurl": " ",
+      "question": "clear:-"
+    }
+  },
+  "ch9": {
+    "-NutHIvgiqPyxc70V3TA": {
+      "answer": "Microsoft Power Point 2007 Office Group से सम्बंध रखने वाला एक Powerful Presentation Program है। इसमें हम किसी भी Company, Institute, Business, के Product इत्यादी के बारे में Presentation तैयार कर सकते हैं। इसका File Extension pptx होता है। इसके Working Area को Slide एवं पूरे File को Presentation कहा जाता है। इसका Display मुख्यतः तीन मागों में बंटा होता है- 1. Slide, 2. Out Line Pane, 3. Notes Pane। इसमें Presentation का काम मुख्यतः Slide पर किया जाता है। अतः Slide डी Power Point का Basic Unit है। Presentation में हम विभिन्न प्रकार के Animations, Sound, Effects इत्यादी लगाकर उसे और भी अधिक Attractive बना सकते हैं। Slide के जिस भाग में Text लिखा जाता है उसे Place Holder कहते हैं।",
+      "imgurl": " ",
+      "question": "what is Ms-powerpoint:-"
+    },
+    "-NutI-RdXpUcl7P15wqP": {
+      "answer": " ",
+      "imgurl": " ",
+      "question": "*New Slide: - Ctrl+M\n\n*Slide Show from current slide: Shift+F5\n\n*Duplicate object/word: - Ctrl+D\n\n*Duplicate Slide: - Shift+Ctrl+D"
+    },
+    "-NutIj71mAIT_NHayMQp": {
+      "answer": "इस Option से Power Point के File की Slide Show में Save कर सकते हैं।",
+      "imgurl": " ",
+      "question": "* Office button-\nSave As: -\nPower Point Show:-"
+    },
+    "-NutJ5KccAEdTUBoHEeh": {
+      "answer": " इस Option से Power Point के File को CD में Record किया जाता है।",
+      "imgurl": " ",
+      "question": "Publish:-"
+    },
+    "-NutJI4ehXnR1ehbkAo5": {
+      "answer": "इस Option से Power Point के File में नया Slide यानी Edit Area जोड़ सकते हैं। इसमें अनेक प्रकार के Layout मौजूद होते हैं।",
+      "imgurl": " ",
+      "question": "*Home Menu\nNew Slide:-"
+    },
+    "-NutJTo_LkT6kiVLmlV8": {
+      "answer": " इस Option से Slides की बनावट में बदलाव लाया जाता है।",
+      "imgurl": " ",
+      "question": "Layout:-"
+    },
+    "-NutJcbiSGfmjkE0NCkI": {
+      "answer": " इस Option से Slide को Default Setting करते हैं।",
+      "imgurl": " ",
+      "question": "Reset:-"
+    },
+    "-NutJnln_7G0pWeQoPtK": {
+      "answer": " इस Option से Selected Slide को Delete कर सकते हैं।",
+      "imgurl": " ",
+      "question": "Delete:-"
+    },
+    "-NutJxRPlAER-7TFqPr3": {
+      "answer": " इस Option से किसी Object (Picture, Image, Shape, etc) का Format Change कर सकते हैं।",
+      "imgurl": " ",
+      "question": "Drawing Section:-"
+    },
+    "-NutKCEfsa_O1BmxyFCp": {
+      "answer": " इस Option से Computer में मौजूद Picture या Image के द्वारा एक Album बना सकते हैं जिसे Picture Animation के द्वारा Show कराये जा सकते हैं।",
+      "imgurl": " ",
+      "question": "Illustration Section:\nPhoto Album:-"
+    },
+    "-NutKNM2PQzoHMnsa7ge": {
+      "answer": " इस Option से Slide में Video Files Insert कर सकते हैं।",
+      "imgurl": " ",
+      "question": "Media Clip Section:\nMovies: -"
+    },
+    "-NutKZ-dP7XHLAL0eo6u": {
+      "answer": " इस Option से Slide में Audio File Insert कर सकते हैं।",
+      "imgurl": " ",
+      "question": "Sound: -"
+    },
+    "-NutKhBYETtcOz2gJoj4": {
+      "answer": " इस option से पूरे Presentation के Page का Design Change कर सकते हैं। Themes Change करने से Font, Color, Effect etc सब Change हो जाता है।",
+      "imgurl": " ",
+      "question": "* Design Menu:\nThemes Section:-"
+    },
+    "-NutKwY-0e6_aFcZlcSR": {
+      "answer": " Slide पर लगाए गए Animation को Show करने के लिए इस Option का Use करते हैं। यह केवल Current Selected Slide का ही Preview दिखता है।",
+      "imgurl": " ",
+      "question": "*Animation Menu\nPreview Section:-"
+    },
+    "-NutL7uSaxBnxbf57q1i": {
+      "answer": " इस Option से Selected Slide पर Animation लगाया जाता है। Animation मतलब किन्सी Siide पर Movement का काम कर सकते हैं। इस Option को Open करने से Right Side में एक Box खुलता है। जिससे किसी Subject को Select करके Effect लगाया जाता है। ये Effect, Entrance, Emphases, Exit और Motion Paths होते है।",
+      "imgurl": " ",
+      "question": "Custom Animation:-"
+    },
+    "-NutLKnQ6QPyrl3t58fh": {
+      "answer": " इस Option से Selected Slide के Opening Style को Change कर सकते हैं। यह Style Generally Slide Show में दिखता है।",
+      "imgurl": " ",
+      "question": "Transition to this Slide:-"
+    },
+    "-NutLRdR6Gd211xuWCA6": {
+      "answer": " इस Option से Selected Slide का Transition Sound Set किया जाता है।",
+      "imgurl": " ",
+      "question": "Transition Sound:-"
+    },
+    "-NutLa9y8LBdTmTMVFgq": {
+      "answer": " इस Option से Selected Slide पर play के दौरान होने वाले Speed को Set किया जाता है।",
+      "imgurl": " ",
+      "question": "Transition Speed: -"
+    },
+    "-NutLpzSR4RjStndwLDk": {
+      "answer": " Current Slide को Transition Format को सभी Slide पर लागू किया जाता है।",
+      "imgurl": " ",
+      "question": "Apply to All: -"
+    },
+    "-NutLyldlD_wFx0G-v7n": {
+      "answer": " Selected Slide को Preview के दौरान Click पर आगे बढ़ाने या Automatic कुछ Sound प आगे बढाने के लिए इस Option का Use करते हैं।",
+      "imgurl": " ",
+      "question": "Advance Slide:-"
+    },
+    "-NutMIxoWcsbQZiX3mHA": {
+      "answer": " इस Option से Presentation को First Slide से Play करते हैं।",
+      "imgurl": " ",
+      "question": "*Slide Show Menu\nFrom Beginning (F5):-"
+    },
+    "-NutMWcmNGwCkaWFrKgo": {
+      "answer": " इस Option से Presentation को Current Selected Slide को Show करते हैं।",
+      "imgurl": " ",
+      "question": "From Current Slide:-"
+    },
+    "-NutMdBjcmnpk5uDnNjI": {
+      "answer": " इस Option से हम जिस Slide Show मे Add करते है। यह उसी क्रम में Play या Show होता है।",
+      "imgurl": " ",
+      "question": "Custom Slide Show:-"
+    },
+    "-NutMzwjwhOcKcioyFbr": {
+      "answer": " इस Option से Slide Show के Setting ने Change कर सकते हैं।\n\n",
+      "imgurl": " ",
+      "question": "*Set up Section:\nSet up Slide Show:-"
+    },
+    "-NutNANyzxwEvgzvkUmB": {
+      "answer": " इस Option से Selected को Hide किया जाता है। ताकि वह Slide Show मे न दिखे।",
+      "imgurl": " ",
+      "question": "Hide slide:-"
+    },
+    "-NutNH-Rn0HKlWO471yf": {
+      "answer": "इस Option से Slide Show में अपनी आवाज Record कर सकते हैं। जो Slide Show के दौरान Show होता हैं।",
+      "imgurl": " ",
+      "question": "Record Narration:-"
+    },
+    "-NutNS7Kau2o-wfrmdb_": {
+      "answer": " Presentation का Rehearsal करने के लिए इस Option का Use करते है ताकि यह पता चल जाए की Presentation को Present करते समय कितना देर बोलना होगा।",
+      "imgurl": " ",
+      "question": "Rehearse Timing:-"
+    },
+    "-NutNXd9Z6-hPROMQofs": {
+      "answer": " Rehearse किए हुए Timing को Slide Show में Use करने के लिए इस Option पर Tick Mark लगाते हैं।",
+      "imgurl": " ",
+      "question": "Use Rehearse Timing:-"
+    },
+    "-NutNj9SOp_Qf2AgQEUD": {
+      "answer": " Slide Show Play होने के दौरान Screen की लम्बाई, चौड़ाई को Set करने के लिए Resolution Option Use करते है।",
+      "imgurl": " ",
+      "question": "*Monitors Section:\nResolution:-"
+    },
+    "-NuvCBLG6fIcrEDXwRxF": {
+      "answer": " विभिन्न प्रकार की लाईन बनाने के लिए इसका प्रयोग करते हैं।",
+      "imgurl": " ",
+      "question": "Line Tool :-"
+    },
+    "-NuvCNvl9mtwY2IZcktP": {
+      "answer": " विभिन्न प्रकार की लाईन बनाने के लिए इसका प्रयोग करते हैं।",
+      "imgurl": " ",
+      "question": "Line Tool :-"
+    }
+  }
+}
+
+
+
