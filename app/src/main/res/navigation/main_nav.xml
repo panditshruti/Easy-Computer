@@ -50,7 +50,11 @@
         android:id="@+id/dcaChFragment"
         android:name="com.shrutipandit.easycomputer.uiFragment.DcaChFragment"
         android:label="Dca Chanpter Name"
-        tools:layout="@layout/fragment_dca_ch" />
+        tools:layout="@layout/fragment_dca_ch" >
+        <action
+            android:id="@+id/action_dcaChFragment_to_dcaNotesFragment"
+            app:destination="@id/dcaNotesFragment" />
+    </fragment>
     <fragment
         android:id="@+id/dtpChFragment"
         android:name="com.shrutipandit.easycomputer.uiFragment.DtpChFragment"
@@ -61,6 +65,15 @@
         android:name="com.shrutipandit.easycomputer.uiFragment.AdcaNotesFragment"
         tools:layout="@layout/fragment_adca_notes">
 
+        <argument
+            android:name="chapterName"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/dcaNotesFragment"
+        android:name="com.shrutipandit.easycomputer.uiFragment.DcaNotesFragment"
+        android:label="fragment_dca_notes"
+        tools:layout="@layout/fragment_dca_notes" >
         <argument
             android:name="chapterName"
             app:argType="string" />

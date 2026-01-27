@@ -23,7 +23,7 @@ class NotesAdapter(private val questions: List<Question>) : RecyclerView.Adapter
         }
 
         override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): QuestionViewHolder {
-            val itemView = LayoutInflater.from(parent.context).inflate(R.layout.adca_question_item, parent, false)
+            val itemView = LayoutInflater.from(parent.context).inflate(R.layout.question_item, parent, false)
             return QuestionViewHolder(itemView)
         }
 
