@@ -168,7 +168,7 @@
                             android:layout_gravity="center"
                             android:layout_marginBottom="10dp"
                             android:gravity="center"
-                            android:text="queues"
+                            android:text="Quiz"
                             android:textColor="#480055"
                             android:textSize="17sp"
                             android:textStyle="bold" />
@@ -186,7 +186,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_margin="10dp"
-                        android:id="@+id/typingCord"
+                        android:id="@+id/typingCode"
                         android:background="@drawable/common_card"
                         android:orientation="vertical">
 
@@ -204,7 +204,7 @@
                             android:layout_gravity="center"
                             android:layout_marginBottom="10dp"
                             android:gravity="center"
-                            android:text="typing_code"
+                            android:text="Typing Code"
                             android:textColor="#480055"
                             android:textSize="17sp"
                             android:textStyle="bold" />
@@ -250,7 +250,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_margin="20dp"
-                        android:id="@+id/shortcut"
+                        android:id="@+id/shortcutKey"
                         android:background="@drawable/common_card"
                         android:orientation="vertical">
 
@@ -258,7 +258,6 @@
                             android:layout_width="100dp"
                             android:layout_height="80dp"
                             android:layout_margin="10dp"
-
                             android:padding="10dp"
                             android:src="@drawable/outline_call_24" />
 

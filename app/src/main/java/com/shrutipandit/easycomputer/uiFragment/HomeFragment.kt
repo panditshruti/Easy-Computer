@@ -48,33 +48,34 @@ class HomeFragment : Fragment(R.layout.fragment_home) {
             findNavController().navigate(action)
         }
 
-//        binding.quese.setOnClickListener {
-//            val action = HomeFragmentDirections.actionHomeFragmentToPlayQuizFragment("quiz")
-//            findNavController().navigate(action)
-//        }
-//
-//
-//        binding.typingCord.setOnClickListener {
-//            val action = HomeFragmentDirections.actionHomeFragmentToTypingFragment()
-//            findNavController().navigate(action)
-//        }
-//
-//
-//        binding.videos.setOnClickListener {
-//            val url = Uri.parse("https://www.youtube.com/channel/UCvjAEaYocRSJpUWE4FSVlwQ")
-//            val intent = Intent(Intent.ACTION_VIEW, url)
-//            startActivity(intent)
-//        }
-//
-//        binding.shortcut.setOnClickListener {
-//            val action = HomeFragmentDirections.actionHomeFragmentToShortCutFragment()
-//            findNavController().navigate(action)
-//        }
-//
-//        binding.objectiveQuestion.setOnClickListener {
-//            val action = HomeFragmentDirections.actionHomeFragmentToObjectiveChNameFragment(true)
-//            findNavController().navigate(action)
-//        }
+        binding.quese.setOnClickListener {
+            val action = HomeFragmentDirections.actionHomeFragmentToQuizFragment("quiz")
+            findNavController().navigate(action)
+        }
+
+
+        binding.typingCode.setOnClickListener {
+            val action = HomeFragmentDirections.actionHomeFragmentToTypingCodeFragment()
+            findNavController().navigate(action)
+        }
+
+
+        binding.videos.setOnClickListener {
+            val url = Uri.parse("https://www.youtube.com/channel/UCvjAEaYocRSJpUWE4FSVlwQ")
+            val intent = Intent(Intent.ACTION_VIEW, url)
+            startActivity(intent)
+        }
+
+
+        binding.shortcutKey.setOnClickListener {
+            val action = HomeFragmentDirections.actionHomeFragmentToShortcutKeyFragment()
+            findNavController().navigate(action)
+        }
+
+        binding.objectiveQuestion.setOnClickListener {
+            val action = HomeFragmentDirections.actionHomeFragmentToMcqChNameFragment()
+            findNavController().navigate(action)
+        }
 
 
     }

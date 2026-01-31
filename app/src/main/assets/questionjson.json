@@ -265,7 +265,7 @@
       "question": "Just comming soon "
     }
   },
-  "ch12": {
+  "ch13": {
     "-NPLLjciZUTY_bTbsMIr": {
       "answer": "लेखांकन वह प्रक्रिया है जिसमें सभी प्रकार के वित्तीय स्वभाव के साथ सौदों एवं घटनाओं को क्रमबद्ध रूप में लिखने उसका वर्गीकरण करने एवं सारांश तैयार करने का काम किया जाता जिसमें उनका नाम विश्लेषण एवं निर्वाचन किया जा सके।",
       "imgurl": " ",
@@ -412,7 +412,7 @@
       "question": "Goods(माल):"
     }
   },
-  "ch13": {
+  "ch14": {
     "-NuvB8UhcbFxV_nZ51Ss": {
       "answer": "Page Maker एक Computer Software Program है। जिसमें कई प्रक्रियाओं में 4 Page Layout di Pab Desien विया जा सकता है। Page Maker में Text Advertisements बनाया जाता है. सामन्यतः इसमे का प्रयोग नहीं किया जाता है।\npage Maker की सहायता से कागजी प्रचार पत्र, शादी के कार्ड, बिल बुक, कैश भाउचर, इत्यादी जाते है. अतः सभी प्रकार के प्रचार-प्रसार को Page Maker की सहायता से Design किया जा सकता है। Maker का File Extension \".pmd\" होता है।",
       "imgurl": " ",
@@ -774,7 +774,7 @@
       "question": "Hide Color\n\n➤ Show Style\n\n➤ Layers\n\n➤ Hyperlink\n\nMaster Page"
     }
   },
-  "ch14": {
+  "ch15": {
     "-Nv-wsszr5px3gVk_uNg": {
       "answer": "\nPhotoshop Program Adobe Company का Software Program है। हालांकि इसे दो आईओं (Thomas Knol and John Knoll) ने सन् 1987 में Create किया फिर बाद में (1988) Adobe Company द्वारा इसे खरीद लिया गया और इसे विस्तृत रूप दिया गया। Adobe ने इसके Latest Versions में कई नये Featurs उपलब्ध कराये जिससे काम का अनुभव काफी सुलभ होता गया। यह एक पूर्णतः Graphics पर आधारित Program है, जिसकी सहायता से Graphics को Design किया जाता है। Graphics बनाने या Design को Correction, Editing, Formatting इत्यादि के लिए Photoshop कई सुविधाएँ देता है। इसका प्रयोग Studio, Press तथा PhotoGraphy इत्यादि में मुख्य रूप से होता है। इस Program की सहायता से हम Banners, ID Cards, Business Cards, Online प्रवार इत्यादी के Designs बना सकते है। इसकी सहायता से और कई स्वनात्मक कार्य किये जा सकते हैं। इसका File Extension .psd होता है। * Photoshop में उपयोग होने वाले Tools निम्न प्रकार है -",
       "imgurl": " ",
@@ -1321,7 +1321,7 @@
       "question": "Lock Slices : -"
     }
   },
-  "ch15": {
+  "ch16": {
     "-NAn_VWy7B2iRwRQj361": {
       "answer": "Corel draw एक vector graphics editor program है यह मुख्यतः लोगो  picture graphics addvertisament design तथा websit design किया जाता है।",
       "imgurl": " ",
@@ -1518,7 +1518,7 @@
       "question": "No fill -"
     }
   },
-  "ch16": {
+  "ch17": {
     "-NPImdRZVUGFllFzBH5q": {
       "answer": "ctrl + a = select all",
       "imgurl": " ",
@@ -1820,14 +1820,14 @@
       "question": ""
     }
   },
-  "ch17": {
+  "ch18": {
     "-NuDiDv-DzGs44nDoBVF": {
       "answer": "ATM-Automated Teller Machine\n\nPIN-Personal Identification Number\n\nFIR-First Information Report\n\nWi-Fi-Wireless Fidelity\n\nCD-Compact Disk\n\nDVD-Digital Versatile Disk\n\nGPRS-General Packet Radio Service\n\nHTTP-Hyper Text Transfer Protocol\n\nRADAR-Radio Detection And Ranging\n\nDPI-Dots Per Inch\n\nGHz-GigaHertz\n\nHDD-Hard Disk Drive\n\nVIRUS-Vital Information Resources Under S\n\nHP-Hewlett-Packard Development Com\n\nIC-Integrated Circuit\n\nISO-International Standards Organization\n\nJBL-JBL, Jame B. Lansing., Speakers\n\nKbps,KBps-Kilobits Per Second,KiloBytes persecond\n\nLG-Life's Good\n\nETC-et cetera\n\nFM-Frequency Modulation\n\nSIM-Subscriber Identity Module\n\nIMEI-International Mobile Equipment Iden\n\nWww-World Wide Web\n\nIP-Internet Protocol\n\nHTML-Hyper Text Markup Language\n\nGST-Goods and Service Tax\n\nDP-Display Picture",
       "imgurl": " ",
       "question": "Ful Form:-"
     }
   },
-  "ch18": {
+  "ch19": {
     "-NuDkGcfim2vepNFIsvx": {
       "answer": "\n'-Acute, Open Quote, or A Push\n\n!- Exclamation Mark or Bang\n\n@-Ampersat, Arobase, At the Rate\n\n#-Hash\n\n&-Number Sign or Sharp \n\n$-Generic Currency or Dollar Sign \n\n%-Percent\n\n() Parenthesis\n\n( Open parenthesis\n\n) Close parenthesis\n\n_-Underscore\n\n- -Hyphen, Minus or Dash\n\n+ Plus\n\n= Equals\n\n*Multiply\n\n{} Braces, Squiggly or Curly Brackets\n\n{ Open Brace, squiggly or curly bracket\n\n} Close Brace, squiggly or curly bracket\n\n[] Brackets\n\n[ Open bracket",
       "imgurl": " ",
@@ -2659,8 +2659,17 @@
       "imgurl": " ",
       "question": "Line Tool :-"
     }
+
+  },
+
+  "ch12": {
+    "-N7n8gBSby2sB8yULyc1": {
+      "answer": "• यह एक internet Network का Short Form है यह एक मध्यम के द्वारा कुछ नियमों का पालन करते हुए I.E portal को फॉलो करता है, विश्वस्तरीय सूचनाओं का आदान प्रदान करता है। अतः इसे सूचना का राजपथ भी कहा जाता है।\n         internet का सर्वप्रथम प्रयोग १९८९ ई. में अमेरिका के रक्षा अनुसंसाधान विभाग ARPA ने किया जो आगे चलकर internet में बदल गया। इसका शुरुआती concept सन् १९६२ में J.C.R Lincklider (Joseph Carl Robbert Lincklider) ने किया परंतु Vint cerf और Bob Kahn ने इस विचारधारा को धरातल पर लाया Father of internet की उपलब्धि vint cerf को दी गई। \n      भारत में internet की अनुपचारिक शुरुआत १५  अगस्त १९९५ को हुआ जो Gateway of internet के नाम से जाना जाता है जिसे VSNL नामक कंपनी ने प्रारंभ किया सन् १९९९ में सर्वप्रथम Privet company \"styam infotech नामक limited company ने इंटरनेट सेवा उपलब्ध कराया।\n         भारत में Internet सेवा की शुरूआत करने वाली BSNL (Bharat Sanchar Nigam limited) है।",
+      "imgurl": " ",
+      "question": "what is hardware"
+    }
   }
-}
+   }
 
 
 

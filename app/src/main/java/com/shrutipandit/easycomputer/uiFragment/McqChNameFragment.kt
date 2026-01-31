@@ -2,28 +2,30 @@ package com.shrutipandit.easycomputer.uiFragment
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
+import android.view.LayoutInflater
 import android.view.View
+import android.view.ViewGroup
 import android.widget.ArrayAdapter
 import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.fragment.findNavController
 import com.shrutipandit.easycomputer.R
 import com.shrutipandit.easycomputer.databinding.FragmentDcaChBinding
+import com.shrutipandit.easycomputer.databinding.FragmentMcqChNameBinding
 import com.shrutipandit.easycomputer.utils.ChNameUtil
 
-
-class DcaChFragment : Fragment(R.layout.fragment_dca_ch) {
-
-    private lateinit var binding: FragmentDcaChBinding
+class McqChNameFragment : Fragment(R.layout.fragment_mcq_ch_name) {
+private lateinit var binding: FragmentMcqChNameBinding
     private lateinit var chNameUtil: ChNameUtil
+
 
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        binding = FragmentDcaChBinding.bind(view)
+        binding = FragmentMcqChNameBinding.bind(view)
 
-        chNameUtil = ViewModelProvider(this)[ChNameUtil::class.java]
+                chNameUtil = ViewModelProvider(this)[ChNameUtil::class.java]
 
-                val chapters = chNameUtil.dcaChName()
+                val chapters = chNameUtil.mcqChName()
                 val adapter = ArrayAdapter(requireContext(), android.R.layout.simple_list_item_1, chapters)
                 binding.chNameListview.adapter = adapter
 
@@ -33,13 +35,11 @@ class DcaChFragment : Fragment(R.layout.fragment_dca_ch) {
 
                     val chapterName = position.plus(1)
 
-                        val action =
-                            DcaChFragmentDirections.actionDcaChFragmentToDcaNotesFragment("ch$chapterName")
-                        findNavController().navigate(action)
-                    }
-        adapter.notifyDataSetChanged()
+                    val action =
+                        McqChNameFragmentDirections.actionMcqChNameFragmentToMcqQuestionFragment("ch$chapterName")
+                    findNavController().navigate(action)
                 }
+                adapter.notifyDataSetChanged()
+            }
 
-}
-
-
+        }

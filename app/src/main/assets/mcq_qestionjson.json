@@ -1,0 +1,2829 @@
+{
+  "ch1": {
+    "-N7Em6Evh_khKqeCBcdCj1": {
+      "question": "1) What does CPU stand for? (CPU का पूरा नाम क्या है?)",
+      "answer": "a. Central Processing Unit (सेंट्रल प्रोसेसिंग यूनिट), \nb. Central Programming Unit (सेंट्रल प्रोग्रामिंग यूनिट), \nc. Computer Personal Unit (कंप्यूटर पर्सनल यूनिट), \nd. Central Processor Unit (सेंट्रल प्रोसेसर यूनिट)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj2": {
+      "question": "2) Which of the following is a programming language? (निम्नलिखित में से कौन सी एक प्रोग्रामिंग भाषा है?)",
+      "answer": "a. HTML (एचटीएमएल), \nb. Python (पायथन), \nc. CSS (सीएसएस), \nd. XML (एक्सएमएल)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj3": {
+      "question": "3) What is the main function of the ALU in a computer? (कंप्यूटर में ALU का मुख्य कार्य क्या है?)",
+      "answer": "a. Memory management (मेमोरी प्रबंधन), \nb. Arithmetic and logic operations (अर्थमैटिक और लॉजिक ऑपरेशंस), \nc. Input-output operations (इनपुट-आउटपुट ऑपरेशंस), \nd. Storage management (स्टोरेज प्रबंधन)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj4": {
+      "question": "4) What does RAM stand for? (RAM का पूरा नाम क्या है?)",
+      "answer": "a. Random Access Memory (रैंडम एक्सेस मेमोरी), \nb. Read Access Memory (रीड एक्सेस मेमोरी), \nc. Run Access Memory (रन एक्सेस मेमोरी), \nd. Real Access Memory (रियल एक्सेस मेमोरी)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj5": {
+      "question": "5) Which device is used to display information from the computer? (कंप्यूटर से जानकारी प्रदर्शित करने के लिए कौन सा उपकरण उपयोग किया जाता है?)",
+      "answer": "a. Printer (प्रिंटर), \nb. Scanner (स्कैनर), \nc. Monitor (मॉनिटर), \nd. Keyboard (कीबोर्ड)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj6": {
+      "question": "6) What is an example of an operating system? (ऑपरेटिंग सिस्टम का एक उदाहरण क्या है?)",
+      "answer": "a. Microsoft Word (माइक्रोसॉफ्ट वर्ड), \nb. Windows 10 (विंडोज 10), \nc. Google Chrome (गूगल क्रोम), \nd. Facebook (फेसबुक)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj7": {
+      "question": "7) Which of the following is a type of non-volatile memory? (निम्नलिखित में से कौन सा एक नॉन-वॉलाटाइल मेमोरी का प्रकार है?)",
+      "answer": "a. RAM (रैम), \nb. Cache (कैश), \nc. ROM (रोम), \nd. Register (रजिस्टर)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj8": {
+      "question": "8) What is the function of the motherboard in a computer? (कंप्यूटर में मदरबोर्ड का कार्य क्या है?)",
+      "answer": "a. To perform arithmetic operations (अर्थमैटिक ऑपरेशंस करने के लिए), \nb. To connect all hardware components (सभी हार्डवेयर घटकों को जोड़ने के लिए), \nc. To manage memory allocation (मेमोरी आवंटन को प्रबंधित करने के लिए), \nd. To store data permanently (डेटा को स्थायी रूप से स्टोर करने के लिए)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj9": {
+      "question": "9) Which unit is responsible for converting data into information? (कौन सा यूनिट डेटा को जानकारी में बदलने के लिए जिम्मेदार है?)",
+      "answer": "a. Input unit (इनपुट यूनिट), \nb. Output unit (आउटपुट यूनिट), \nc. Processing unit (प्रोसेसिंग यूनिट), \nd. Storage unit (स्टोरेज यूनिट)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj10": {
+      "question": "10) What is the full form of HTTP? (HTTP का पूरा नाम क्या है?)",
+      "answer": "a. HyperText Transfer Protocol (हाइपरटेक्स्ट ट्रांसफर प्रोटोकॉल), \nb. HyperTransfer Text Protocol (हाइपरट्रांसफर टेक्स्ट प्रोटोकॉल), \nc. HyperText Transmission Protocol (हाइपरटेक्स्ट ट्रांसमिशन प्रोटोकॉल), \nd. HyperTransmission Text Protocol (हाइपरट्रांसमिशन टेक्स्ट प्रोटोकॉल)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj11": {
+      "question": "11) What is the purpose of a network switch? (नेटवर्क स्विच का उद्देश्य क्या है?)",
+      "answer": "a. To store data (डेटा स्टोर करने के लिए), \nb. To connect multiple devices on a network (नेटवर्क पर कई उपकरणों को जोड़ने के लिए), \nc. To protect against malware (मैलवेयर से सुरक्षा करने के लिए), \nd. To manage memory (मेमोरी प्रबंधित करने के लिए)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj12": {
+      "question": "12) Which language is primarily used for web development? (वेब डेवलपमेंट के लिए कौन सी भाषा मुख्य रूप से उपयोग की जाती है?)",
+      "answer": "a. Python (पायथन), \nb. Java (जावा), \nc. JavaScript (जावास्क्रिप्ट), \nd. C++ (सी++)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj13": {
+      "question": "13) What is the main function of the BIOS? (BIOS का मुख्य कार्य क्या है?)",
+      "answer": "a. To manage network connections (नेटवर्क कनेक्शन को प्रबंधित करने के लिए), \nb. To initialize hardware during booting (बूटिंग के दौरान हार्डवेयर को प्रारंभ करने के लिए), \nc. To handle data storage (डेटा स्टोरेज को संभालने के लिए), \nd. To execute user programs (यूजर प्रोग्राम्स को निष्पादित करने के लिए)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj14": {
+      "question": "14) Which of the following is a storage device? (निम्नलिखित में से कौन सा एक स्टोरेज डिवाइस है?)",
+      "answer": "a. Mouse (माउस), \nb. Keyboard (कीबोर्ड), \nc. Hard Drive (हार्ड ड्राइव), \nd. Monitor (मॉनिटर)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj15": {
+      "question": "15) What does SSD stand for? (SSD का पूरा नाम क्या है?)",
+      "answer": "a. Solid State Drive (सॉलिड स्टेट ड्राइव), \nb. Secure Storage Device (सिक्योर स्टोरेज डिवाइस), \nc. System Storage Disk (सिस्टम स्टोरेज डिस्क), \nd. Solid Storage Device (सॉलिड स्टोरेज डिवाइस)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj16": {
+      "question": "16) What is a firewall? (फायरवॉल क्या है?)",
+      "answer": "a. A type of virus (वायरस का प्रकार), \nb. A security system to protect against unauthorized access (अनधिकृत पहुंच से सुरक्षा के लिए एक सुरक्षा प्रणाली), \nc. A physical barrier (एक भौतिक अवरोध), \nd. An encryption tool (एक एन्क्रिप्शन टूल)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj17": {
+      "question": "17) Which protocol is used to send email? (ईमेल भेजने के लिए कौन सा प्रोटोकॉल उपयोग किया जाता है?)",
+      "answer": "a. HTTP (एचटीटीपी), \nb. FTP (एफटीपी), \nc. SMTP (एसएमटीपी), \nd. POP3 (पीओपी3)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj18": {
+      "question": "18) What is the primary function of an operating system? (ऑपरेटिंग सिस्टम का मुख्य कार्य क्या है?)",
+      "answer": "a. To manage hardware resources (हार्डवेयर संसाधनों का प्रबंधन करने के लिए), \nb. To create web pages (वेब पेज बनाने के लिए), \nc. To process data (डेटा प्रोसेस करने के लिए), \nd. To develop software (सॉफ़्टवेयर विकसित करने के लिए)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj19": {
+      "question": "19) What does URL stand for? (URL का पूरा नाम क्या है?)",
+      "answer": "a. Uniform Resource Locator (यूनिफ़ॉर्म रिसोर्स लोकेटर), \nb. Universal Resource Locator (यूनिवर्सल रिसोर्स लोकेटर), \nc. Uniform Resource Locator (यूनिफ़ॉर्म रिसोर्स लोकेटर), \nd. Universal Resource Link (यूनिवर्सल रिसोर्स लिंक)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj20": {
+      "question": "20) What is the purpose of a router in a network? (नेटवर्क में राउटर का उद्देश्य क्या है?)",
+      "answer": "a. To route data packets between devices (उपकरणों के बीच डेटा पैकेट्स को रूट करने के लिए), \nb. To store data (डेटा स्टोर करने के लिए), \nc. To process information (जानकारी प्रोसेस करने के लिए), \nd. To provide power to devices (उपकरणों को पावर देने के लिए)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj21": {
+      "question": "21) What does GUI stand for? (GUI का पूरा नाम क्या है?)",
+      "answer": "a. Graphical User Interface (ग्राफिकल यूजर इंटरफेस), \nb. General User Interface (जनरल यूजर इंटरफेस), \nc. Graphical User Interaction (ग्राफिकल यूजर इंटरएक्शन), \nd. General User Interaction (जनरल यूजर इंटरएक्शन)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj22": {
+      "question": "22) Which of the following is not an input device? (निम्नलिखित में से कौन सा इनपुट डिवाइस नहीं है?)",
+      "answer": "a. Monitor (मॉनिटर), \nb. Mouse (माउस), \nc. Keyboard (कीबोर्ड), \nd. Scanner (स्कैनर)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj23": {
+      "question": "23) What does VPN stand for? (VPN का पूरा नाम क्या है?)",
+      "answer": "a. Virtual Private Network (वर्चुअल प्राइवेट नेटवर्क), \nb. Virtual Public Network (वर्चुअल पब्लिक नेटवर्क), \nc. Verified Private Network (वेरिफाइड प्राइवेट नेटवर्क), \nd. Virtual Protected Network (वर्चुअल प्रोटेक्टेड नेटवर्क)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj24": {
+      "question": "24) Which device is used to input text into a computer? (कंप्यूटर में टेक्स्ट इनपुट करने के लिए कौन सा डिवाइस उपयोग किया जाता है?)",
+      "answer": "a. Printer (प्रिंटर), \nb. Scanner (स्कैनर), \nc. Keyboard (कीबोर्ड), \nd. Monitor (मॉनिटर)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj25": {
+      "question": "25) What does SQL stand for? (SQL का पूरा नाम क्या है?)",
+      "answer": "a. Structured Query Language (स्ट्रक्चर्ड क्वेरी लैंग्वेज), \nb. Standard Query Language (स्टैंडर्ड क्वेरी लैंग्वेज), \nc. Simple Query Language (सिंपल क्वेरी लैंग्वेज), \nd. System Query Language (सिस्टम क्वेरी लैंग्वेज)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj26": {
+      "question": "26) What is the main function of a database? (डाटाबेस का मुख्य कार्य क्या है?)",
+      "answer": "a. To store and manage data (डेटा स्टोर और प्रबंधित करने के लिए), \nb. To create graphical content (ग्राफिकल सामग्री बनाने के लिए), \nc. To perform calculations (गणनाएं करने के लिए), \nd. To provide internet access (इंटरनेट एक्सेस प्रदान करने के लिए)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj27": {
+      "question": "27) What is cloud computing? (क्लाउड कंप्यूटिंग क्या है?)",
+      "answer": "a. Storing data on local servers (स्थानीय सर्वर्स पर डेटा स्टोर करना), \nb. Using remote servers for data storage and processing (डेटा स्टोरेज और प्रोसेसिंग के लिए रिमोट सर्वर्स का उपयोग करना), \nc. Running programs on a single computer (एकल कंप्यूटर पर प्रोग्राम चलाना), \nd. Installing software on individual devices (व्यक्तिगत उपकरणों पर सॉफ्टवेयर इंस्टॉल करना)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj28": {
+      "question": "28) What is a URL used for? (URL का उपयोग किस लिए किया जाता है?)",
+      "answer": "a. To identify a resource on the internet (इंटरनेट पर एक संसाधन की पहचान करने के लिए), \nb. To store data on a computer (कंप्यूटर पर डेटा स्टोर करने के लिए), \nc. To manage local files (स्थानीय फाइलों को प्रबंधित करने के लिए), \nd. To process user inputs (यूजर इनपुट्स को प्रोसेस करने के लिए)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj29": {
+      "question": "29) What is the main purpose of a search engine? (सर्च इंजन का मुख्य उद्देश्य क्या है?)",
+      "answer": "a. To find and retrieve information from the web (वेब से जानकारी खोजने और प्राप्त करने के लिए), \nb. To store data locally (स्थानीय रूप से डेटा स्टोर करने के लिए), \nc. To manage network connections (नेटवर्क कनेक्शन को प्रबंधित करने के लिए), \nd. To perform arithmetic calculations (अर्थमैटिक गणनाएं करने के लिए)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj30": {
+      "question": "30) What does the acronym HTTP stand for? (HTTP का संक्षिप्त नाम क्या है?)",
+      "answer": "a. HyperText Transfer Protocol (हाइपरटेक्स्ट ट्रांसफर प्रोटोकॉल), \nb. HyperText Transmission Protocol (हाइपरटेक्स्ट ट्रांसमिशन प्रोटोकॉल), \nc. HyperText Text Protocol (हाइपरटेक्स्ट टेक्स्ट प्रोटोकॉल), \nd. Hyper Transfer Text Protocol (हाइपर ट्रांसफर टेक्स्ट प्रोटोकॉल)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj31": {
+      "question": "Answer:-",
+      "answer": "1.a, 2.b, 3.b, 4.a, 5.c, 6.b, 7.c, 8.b, 9.c, 10.a, 11.b, 12.c, 13.b, 14.c, 15.a, 16.b, 17.c, 18.a, 19.a, 20.a, 21.a, 22.a, 23.a, 24.c, 25.a, 26.a, 27.b, 28.a, 29.a, 30.a",
+      "imgurl": " "
+    }
+  },
+  "ch2": {
+    "-N7Em6Evh_khKqeCBcdCj1": {
+      "question": "1) What is the primary function of the Windows operating system? (Windows ऑपरेटिंग सिस्टम का मुख्य कार्य क्या है?)",
+      "answer": "a.Manage hardware and software resources (हार्डवेयर और सॉफ़्टवेयर संसाधनों का प्रबंधन करना), \nb.Perform arithmetic operations (अंकगणितीय संचालन करना), \nc.Connect to the internet (इंटरनेट से कनेक्ट करना), \nd.Design graphics (ग्राफिक्स डिजाइन करना)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj2": {
+      "question": "2) What does GUI stand for in Windows? (Windows में GUI का क्या अर्थ है?)",
+      "answer": "a.Graphical User Interface (ग्राफिकल यूज़र इंटरफ़ेस), \nb.General User Interface (जनरल यूज़र इंटरफ़ेस), \nc.Global User Interface (ग्लोबल यूज़र इंटरफ़ेस), \nd.Geometric User Interface (जियोमेट्रिक यूज़र इंटरफ़ेस)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj3": {
+      "question": "3) Which key is used to open the Start menu in Windows? (Windows में स्टार्ट मेनू खोलने के लिए किस कुंजी का उपयोग किया जाता है?)",
+      "answer": "a.Ctrl (कंट्रोल), \nb.Alt (ऑल्ट), \nc.Windows (विंडोज), \nd.Esc (एस्केप)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj4": {
+      "question": "4) What is the default file extension for a Word document in Windows? (Windows में वर्ड दस्तावेज़ के लिए डिफ़ॉल्ट फ़ाइल एक्सटेंशन क्या है?)",
+      "answer": "a..doc (डॉक), \nb..txt (टेक्स्ट), \nc..pdf (पीडीएफ), \nd..docx (डॉक्स)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj5": {
+      "question": "5) What is the purpose of Task Manager in Windows? (Windows में टास्क मैनेजर का उद्देश्य क्या है?)",
+      "answer": "a.To manage running applications and processes (चल रहे अनुप्रयोगों और प्रक्रियाओं का प्रबंधन करना), \nb.To edit text documents (पाठ दस्तावेजों को संपादित करना), \nc.To browse the internet (इंटरनेट ब्राउज़ करना), \nd.To play music (संगीत चलाना)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj6": {
+      "question": "6) What does the shortcut Ctrl+C do in Windows? (Windows में शॉर्टकट Ctrl+C क्या करता है?)",
+      "answer": "a.Paste (पेस्ट करना), \nb.Copy (कॉपी करना), \nc.Cut (कट करना), \nd.Undo (पूर्ववत करना)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj7": {
+      "question": "7) Which command is used to rename a file or folder in Windows? (Windows में फ़ाइल या फ़ोल्डर का नाम बदलने के लिए किस कमांड का उपयोग किया जाता है?)",
+      "answer": "a.Rename (नाम बदलना), \nb.Change (बदलना), \nc.Edit (संपादित करना), \nd.Modify (संशोधित करना)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj8": {
+      "question": "8) What is the purpose of the Recycle Bin in Windows? (Windows में रीसायकल बिन का उद्देश्य क्या है?)",
+      "answer": "a.To store deleted files temporarily (हटाई गई फ़ाइलों को अस्थायी रूप से स्टोर करना), \nb.To permanently delete files (फ़ाइलों को स्थायी रूप से हटाना), \nc.To store downloaded files (डाउनलोड की गई फ़ाइलों को स्टोर करना), \nd.To manage system settings (सिस्टम सेटिंग्स का प्रबंधन करना)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj9": {
+      "question": "9) What is the extension of a PowerPoint file in Windows? (Windows में पावरपॉइंट फ़ाइल का एक्सटेंशन क्या है?)",
+      "answer": "a..ppt (पीपीटी), \nb..xls (एक्सएलएस), \nc..pptx (पीपीटीएक्स), \nd..doc (डॉक)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj10": {
+      "question": "10) Which of the following is a web browser for Windows? (निम्नलिखित में से कौन सा Windows के लिए एक वेब ब्राउज़र है?)",
+      "answer": "a.Microsoft Word (माइक्रोसॉफ्ट वर्ड), \nb.File Explorer (फ़ाइल एक्सप्लोरर), \nc.Google Chrome (गूगल क्रोम), \nd.Task Manager (टास्क मैनेजर)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj11": {
+      "question": "11) What is the function of the Control Panel in Windows? (Windows में कंट्रोल पैनल का कार्य क्या है?)",
+      "answer": "a.To control hardware and software settings (हार्डवेयर और सॉफ़्टवेयर सेटिंग्स को नियंत्रित करना), \nb.To play games (खेल खेलना), \nc.To edit videos (वीडियो संपादित करना), \nd.To browse the internet (इंटरनेट ब्राउज़ करना)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj12": {
+      "question": "12) What is the default browser in Windows 10? (Windows 10 में डिफ़ॉल्ट ब्राउज़र क्या है?)",
+      "answer": "a.Internet Explorer (इंटरनेट एक्सप्लोरर), \nb.Google Chrome (गूगल क्रोम), \nc.Mozilla Firefox (मोज़िला फ़ायरफ़ॉक्स), \nd.Microsoft Edge (माइक्रोसॉफ्ट एज)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj13": {
+      "question": "13) What is the purpose of File Explorer in Windows? (Windows में फ़ाइल एक्सप्लोरर का उद्देश्य क्या है?)",
+      "answer": "a.To manage files and folders (फ़ाइलों और फ़ोल्डरों का प्रबंधन करना), \nb.To play music (संगीत चलाना), \nc.To edit images (छवियों को संपादित करना), \nd.To manage system updates (सिस्टम अपडेट का प्रबंधन करना)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj14": {
+      "question": "14) Which key combination is used to lock the computer in Windows? (Windows में कंप्यूटर लॉक करने के लिए किस कुंजी संयोजन का उपयोग किया जाता है?)",
+      "answer": "a.Ctrl+L (कंट्रोल+एल), \nb.Ctrl+Shift+L (कंट्रोल+शिफ्ट+एल), \nc.Alt+L (ऑल्ट+एल), \nd.Windows+L (विंडोज+एल)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj15": {
+      "question": "15) What is the purpose of Windows Update? (Windows अपडेट का उद्देश्य क्या है?)",
+      "answer": "a.To update software and security patches (सॉफ़्टवेयर और सुरक्षा पैच को अपडेट करना), \nb.To play videos (वीडियो चलाना), \nc.To create documents (दस्तावेज़ बनाना), \nd.To browse the internet (इंटरनेट ब्राउज़ करना)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj16": {
+      "question": "16) What does the shortcut Ctrl+Z do in Windows? (Windows में शॉर्टकट Ctrl+Z क्या करता है?)",
+      "answer": "a.Redo (फिर से करना), \nb.Undo (पूर्ववत करना), \nc.Cut (कट करना), \nd.Copy (कॉपी करना)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj17": {
+      "question": "17) Which application is used for writing text documents in Windows? (Windows में पाठ दस्तावेज़ लिखने के लिए किस अनुप्रयोग का उपयोग किया जाता है?)",
+      "answer": "a.Paint (पेंट), \nb.WordPad (वर्डपैड), \nc.Calculator (कैलकुलेटर), \nd.Edge (एज)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj18": {
+      "question": "18) Which Windows feature allows you to view and manage system hardware? (कौन सी Windows सुविधा आपको सिस्टम हार्डवेयर को देखने और प्रबंधित करने की अनुमति देती है?)",
+      "answer": "a.Device Manager (डिवाइस मैनेजर), \nb.Task Manager (टास्क मैनेजर), \nc.File Explorer (फ़ाइल एक्सप्लोरर), \nd.Control Panel (कंट्रोल पैनल)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj19": {
+      "question": "19) What is the purpose of the Windows Defender? (Windows डिफेंडर का उद्देश्य क्या है?)",
+      "answer": "a.To protect against malware (मैलवेयर से बचाव करना), \nb.To play games (खेल खेलना), \nc.To browse the internet (इंटरनेट ब्राउज़ करना), \nd.To manage files (फ़ाइलों का प्रबंधन करना)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj20": {
+      "question": "20) What is the command to open the Run dialog box in Windows? (Windows में रन डायलॉग बॉक्स खोलने का कमांड क्या है?)",
+      "answer": "a.Ctrl+R (कंट्रोल+आर), \nb.Alt+R (ऑल्ट+आर), \nc.Windows+R (विंडोज+आर), \nd.Shift+R (शिफ्ट+आर)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj21": {
+      "question": "21) What is the function of the Windows Taskbar? (Windows टास्कबार का कार्य क्या है?)",
+      "answer": "a.To manage running applications and open windows (चल रहे अनुप्रयोगों और खुली खिड़कियों का प्रबंधन करना), \nb.To browse the internet (इंटरनेट ब्राउज़ करना), \nc.To edit documents (दस्तावेजों को संपादित करना), \nd.To play music (संगीत चलाना)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj22": {
+      "question": "22) What is the use of Cortana in Windows 10? (Windows 10 में Cortana का उपयोग क्या है?)",
+      "answer": "a.To play games (खेल खेलने के लिए), \nb.To manage files (फ़ाइलों का प्रबंधन करने के लिए), \nc.To assist with tasks and answer questions (कार्यों में सहायता और प्रश्नों के उत्तर देने के लिए), \nd.To edit videos (वीडियो संपादित करने के लिए)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj23": {
+      "question": "23) What is the function of Windows Firewall? (Windows फ़ायरवॉल का कार्य क्या है?)",
+      "answer": "a.To protect against unauthorized access (अनधिकृत पहुँच से बचाव करना), \nb.To play media files (मीडिया फ़ाइलें चलाना), \nc.To manage files (फ़ाइलों का प्रबंधन करना), \nd.To browse the internet (इंटरनेट ब्राउज़ करना)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj24": {
+      "question": "24) What is the purpose of the Windows Search feature? (Windows सर्च सुविधा का उद्देश्य क्या है?)",
+      "answer": "a.To find files and applications (फ़ाइलें और अनुप्रयोग ढूंढने के लिए), \nb.To play games (खेल खेलने के लिए), \nc.To edit documents (दस्तावेज़ संपादित करने के लिए), \nd.To browse the internet (इंटरनेट ब्राउज़ करने के लिए)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj25": {
+      "question": "25) Which application is used to view photos in Windows? (Windows में फ़ोटो देखने के लिए किस अनुप्रयोग का उपयोग किया जाता है?)",
+      "answer": "a.Photos (फोटोस), \nb.WordPad (वर्डपैड), \nc.Notepad (नोटपैड), \nd.Paint (पेंट)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj26": {
+      "question": "26) What does the shortcut Alt+F4 do in Windows? (Windows में शॉर्टकट Alt+F4 क्या करता है?)",
+      "answer": "a.Switch between applications (अनुप्रयोगों के बीच स्विच करना), \nb.Close the current window (वर्तमान विंडो बंद करना), \nc.Open the Start menu (स्टार्ट मेनू खोलना), \nd.Lock the computer (कंप्यूटर लॉक करना)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj27": {
+      "question": "27) What is the purpose of the Action Center in Windows 10? (Windows 10 में एक्शन सेंटर का उद्देश्य क्या है?)",
+      "answer": "a.To view notifications and quick settings (सूचनाएं और त्वरित सेटिंग्स देखने के लिए), \nb.To play games (खेल खेलने के लिए), \nc.To browse the internet (इंटरनेट ब्राउज़ करने के लिए), \nd.To manage files (फ़ाइलों का प्रबंधन करने के लिए)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj28": {
+      "question": "28) What is the function of the Windows Registry? (Windows रजिस्ट्री का कार्य क्या है?)",
+      "answer": "a.To store system and application settings (सिस्टम और अनुप्रयोग सेटिंग्स को स्टोर करना), \nb.To play videos (वीडियो चलाना), \nc.To edit documents (दस्तावेजों को संपादित करना), \nd.To manage files (फ़ाइलों का प्रबंधन करना)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj29": {
+      "question": "29) What is the use of Safe Mode in Windows? (Windows में सेफ मोड का उपयोग क्या है?)",
+      "answer": "a.To troubleshoot and fix issues (समस्या निवारण और समस्याओं को ठीक करने के लिए), \nb.To play games (खेल खेलने के लिए), \nc.To browse the internet (इंटरनेट ब्राउज़ करने के लिए), \nd.To edit videos (वीडियो संपादित करने के लिए)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj30": {
+      "question": "30) What is the purpose of the System Restore feature in Windows? (Windows में सिस्टम रिस्टोर सुविधा का उद्देश्य क्या है?)",
+      "answer": "a.To restore the system to a previous state (सिस्टम को पिछले स्थिति में पुनर्स्थापित करना),\n b.To delete files (फ़ाइलें हटाना), \nc.To create documents (दस्तावेज़ बनाना), \nd.To play music (संगीत चलाना)",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj31": {
+      "question": "Answer:-",
+      "answer": "1.a, 2.a, 3.c, 4.d, 5.a, 6.b, 7.a, 8.a, 9.c, 10.a, 11.b, 12.a, 13.a, 14.a, 15.a, 16.b, 17.b, 18.b, 19.a, 20.a, 21.b, 22.a, 23.c, 24.d, 25.b, 26.a, 27.c, 28.b, 29.d, 30.a",
+      "imgurl": " "
+    }
+  },
+  "ch3": {
+    "-N7bEgwMIGmO9n71e32M": {
+      "question": "1) What does 'Delete' do?",
+      "answer": "a. Cut the selected text, \nb. Copy the selected text, \nc. Delete the selected text, \nd. Save the document",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj5": {
+      "question": "2) Who painted the Mona Lisa?",
+      "answer": "a. Vincent van Gogh, \nb. Pablo Picasso, \nc. Leonardo da Vinci, \nd. Claude Monet",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj6": {
+      "question": "3) What is the currency of Japan?",
+      "answer": "a. Dollar, \nb. Euro, \nc. Yen, \nd. Won",
+      "imgurl": " "
+    },
+    "-N7WKS0oOnGHpb7GCJ0N": {
+      "question": "4) What is Notepad?",
+      "answer": "a. A word processing software, \nb. A basic and simple text editor, \nc. A spreadsheet software, \nd. A presentation software",
+      "imgurl": " "
+    },
+    "-N7WPKJHx0HjRZABW8Wo": {
+      "question": "5) What is the file extension for Notepad?",
+      "answer": "a. .doc, \nb. .xls, \nc. .ppt, \nd. .txt",
+      "imgurl": " "
+    },
+    "-N7WQbuDu0TVkXKLJuvS": {
+      "question": "6) How to open Notepad?",
+      "answer": "a. Start > All programs > Accessories > Notepad, \nb. Start > Control Panel > Notepad, \nc. Start > My Computer > Notepad, \nd. Start > Documents > Notepad",
+      "imgurl": " "
+    },
+    "-N7WVZV8sxbk1cBKCq7W": {
+      "question": "7) What is the Title Bar in Notepad?",
+      "answer": "a. The bar at the top with minimize, maximize, and close buttons, \nb. The bar at the bottom with taskbar options,\n c. The bar on the left with file options, \nd. The bar on the right with edit options",
+      "imgurl": " "
+    },
+    "-N7WWmQ_kfzlIbWZFrgv": {
+      "question": "8) What options are present on the Title Bar?",
+      "answer": "a. Open, Save, Print, \nb. Cut, Copy, Paste, \nc. Minimize, Maximize, Close, \nd. Font, Style, Size",
+      "imgurl": " "
+    },
+    "-N7WY5tI-Vf7lClprHsh": {
+      "question": "9) What is the function of the Maximize button?",
+      "answer": "a. Minimize the window to the taskbar, \nb. Restore the window to its original size, \nc. Close the window, \nd. Expand the window to full screen",
+      "imgurl": " "
+    },
+    "-N7WZDg5OZgXqyIu8emx": {
+      "question": "10) What is the function of the Minimize button?",
+      "answer": "a. Close the window, \nb. Open a new window, \nc. Hide the window to the taskbar, \nd. Save the document",
+      "imgurl": " "
+    },
+    "-N7W_8C3jk-JPw5mCcIp": {
+      "question": "11) What does the Close button do?",
+      "answer": "a. Open a new document, \nb. Close the current document, \nc. Minimize the window, \nd. Save the document",
+      "imgurl": " "
+    },
+    "-N7W_oG8po56uFSAA96T": {
+      "question": "12) What is the Menu Bar in Notepad?",
+      "answer": "a. The bar at the top with file and program name, \nb. The bar at the bottom with taskbar options, \nc. The bar under the Title Bar with different menus, \nd. The bar on the left with file options",
+      "imgurl": " "
+    },
+    "-N7WbXGs_VTpC39PPlUB": {
+      "question": "13) What does the 'New' option in the File menu do?",
+      "answer": "a. Save the current document, \nb. Open a new blank document, \nc. Print the current document, \nd. Close the current document",
+      "imgurl": " "
+    },
+    "-N7WcxFDg0RhNO7YgLub": {
+      "question": "14) What does the 'Save' option do?",
+      "answer": "a. Delete the document, \nb. Print the document, \nc. Save the document, \nd. Close the document",
+      "imgurl": " "
+    },
+    "-N7_2b32TOs1eLWqp52n": {
+      "question": "15) What does the 'Open' option do?",
+      "answer": "a. Save the document, \nb. Close the document, \nc. Open an existing document, \nd. Print the document",
+      "imgurl": " "
+    },
+    "-N7_8w2pDbsfPDDkYoqs": {
+      "question": "16) What does the 'Save As' option do?",
+      "answer": "a. Save the document with a new name or location, \nb. Print the document, \nc. Delete the document, \nd. Close the document",
+      "imgurl": " "
+    },
+    "-N7_9CB3qy9MiPlt0q1p": {
+      "question": "17) What is the function of 'Page Setup'?",
+      "answer": "a. Save the document, \nb. Open a new document, \nc. Arrange the active page layout, \nd. Print the document",
+      "imgurl": " "
+    },
+    "-N7b1IEcpvnsSaIEfGsj": {
+      "question": "18) What does the 'Print' option do?",
+      "answer": "a. Delete the document, \nb. Open a new document, \nc. Save the document, \nd. Print the document",
+      "imgurl": " "
+    },
+    "-N7b1lSXJ3WNvtuwIG8x": {
+      "question": "19) How to exit Notepad?",
+      "answer": "a. Close the document, \nb. Save the document, \nc. Print the document, \nd. Use 'Exit' or Alt + F4",
+      "imgurl": " "
+    },
+    "-N7b2PyP3nj1XawUUIJ1": {
+      "question": "20) What does the 'Undo' option do?",
+      "answer": "a. Save the document, \nb. Reverse the last action, \nc. Delete the document, \nd. Print the document",
+      "imgurl": " "
+    },
+    "-N7b2to6gwGQIY5vcTjC": {
+      "question": "21) What does the 'Cut' option do?",
+      "answer": "a. Copy the selected text, \nb. Delete the selected text, \nc. Cut the selected text, \nd. Save the document",
+      "imgurl": " "
+    },
+    "-N7b4m7PFXLPmigFPFNi": {
+      "question": "22) What does the 'Copy' option do?",
+      "answer": "a. Delete the selected text, \nb. Copy the selected text, \nc. Cut the selected text, \nd. Save the document",
+      "imgurl": " "
+    },
+    "-N7bEEsF_reRueVxTaRM": {
+      "question": "23) What does the 'Paste' option do?",
+      "answer": "a. Save the document, \nb. Copy the selected text, \nc. Delete the selected text, \nd. Paste the copied text",
+      "imgurl": " "
+    },
+    "-N7bEgwMIGmO9n71e32MS": {
+      "question": "24) What does 'Delete' do?",
+      "answer": "a. Cut the selected text, \nb. Copy the selected text, \nc. Delete the selected text, \nd. Save the document",
+      "imgurl": " "
+    },
+    "-N7bF8nUSddHBAVPXmFX": {
+      "question": "25) What does the 'Find' option do?",
+      "answer": "a. Open a new document, \nb. Save the document, \nc. Print the document, \nd. Search for specific text",
+      "imgurl": " "
+    },
+    "-N7bFLsChns3Z_UYO68Z": {
+      "question": "26) What does the 'Find Next' option do?",
+      "answer": "a. Save the document, \nb. Search for the next occurrence of the word, \nc. Delete the document, \nd. Print the document",
+      "imgurl": " "
+    },
+    "-N7bFoCbXsCEx8HvhyaK": {
+      "question": "27) What does 'Select All' do?",
+      "answer": "a. Copy all text, \nb. Cut all text, \nc. Select all text in the document, \nd. Save the document",
+      "imgurl": " "
+    },
+    "-N7bGKlF97QHUkddY8Sp": {
+      "question": "28) What does 'Time and Date' do?",
+      "answer": "a. Save the document, \nb. Print the document, \nc. Insert current time and date, \nd. Open a new document",
+      "imgurl": " "
+    },
+    "-N7bIRi7N36pe9pUrHm6": {
+      "question": "29) What does 'Word Wrap' do?",
+      "answer": "a. Enable or disable wrapping of text to fit within the window, \nb. Save the document, \nc. Print the document, \nd. Delete the document",
+      "imgurl": " "
+    },
+    "-N7bIx7fHJp-9t8EyKkA": {
+      "question": "30) What does the 'Font' option do?",
+      "answer": "a. Change text style and size, \nb. Save the document, \nc. Print the document, \nd. Delete the document",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj31": {
+      "question": "Answer:-",
+      "answer": "1.c, 2.c, 3.c, 4.b, 5.d, 6.a, 7.a, 8.c, 9.d, 10.c, 11.b, 12.c, 13.b, 14.c, 15.c, 16.a, 17.c, 18.d, 19.d, 20.b, 21.c, 22.b, 23.d, 24.c, 25.d, 26.b, 27.c, 28.c, 29.a, 30.a",
+      "imgurl": " "
+    }
+  },
+  "ch4": {
+    "-N7aComplex1": {
+      "question": "1) How can you change the default file format for saving documents in WordPad?",
+      "answer": "a. Options > Save As, \nb. File > Save As > Change Default, \nc. Settings > Save Options > Default Format, \nd. File > Options > Save > Default Format",
+      "imgurl": " "
+    },
+    "-N7aComplex2": {
+      "question": "2) What steps are involved in inserting a hyperlink in a WordPad document?",
+      "answer": "a. Insert > Hyperlink > Add URL, \nb. Edit > Insert Hyperlink > Add URL, \nc. Insert > Link > Add URL, \nd. Format > Hyperlink > Add URL",
+      "imgurl": " "
+    },
+    "-N7aComplex3": {
+      "question": "3) How do you customize the Quick Access Toolbar in WordPad to include additional commands?",
+      "answer": "a. View > Quick Access Toolbar > Customize, \nb. File > Options > Quick Access Toolbar > Customize, \nc. Edit > Toolbar > Quick Access > Customize, \nd. Tools > Quick Access Toolbar > Customize",
+      "imgurl": " "
+    },
+    "-N7aComplex4": {
+      "question": "4) What is the process to recover unsaved documents in WordPad after a sudden shutdown?",
+      "answer": "a. File > Recent Documents > Recover Unsaved, \nb. File > Open > Recover Unsaved Documents, \nc. File > Info > Manage Document > Recover Unsaved, \nd. View > Recovery > Unsaved Documents",
+      "imgurl": " "
+    },
+    "-N7aComplex5": {
+      "question": "5) How can you format a multi-level list in WordPad?",
+      "answer": "a. Format > Bullets and Numbering > Multi-Level, \nb. Insert > List > Multi-Level, \nc. Home > Paragraph > Multi-Level List, \nd. View > Lists > Multi-Level",
+      "imgurl": " "
+    },
+    "-N7aComplex6": {
+      "question": "6) Describe the steps to apply a watermark to a WordPad document.",
+      "answer": "a. Insert > Watermark, \nb. Format > Watermark > Text/Custom, \nc. View > Watermark > Add, \nd. Page Layout > Watermark > Custom",
+      "imgurl": " "
+    },
+    "-N7aComplex7": {
+      "question": "7) How do you use the ruler and tab stops to create a well-aligned table of contents in WordPad?",
+      "answer": "a. View > Ruler > Set Tab Stops, \nb. Format > Tabs > Add Tab Stops,\nc. Insert > Table of Contents > Ruler, \nd. View > Tabs > Set Stops",
+      "imgurl": " "
+    },
+    "-N7aComplex8": {
+      "question": "8) What methods can be used to protect a WordPad document with a password?",
+      "answer": "a. File > Info > Protect Document > Encrypt with Password, \nb. Tools > Security > Add Password, \nc. File > Save As > Tools > General Options > Password, \nd. Edit > Protect > Add Password",
+      "imgurl": " "
+    },
+    "-N7aComplex9": {
+      "question": "9) Explain the process of adding and formatting a header and footer in a WordPad document.",
+      "answer": "a. Insert > Header and Footer, \nb. Format > Header and Footer, \nc. View > Header and Footer, \nd. Page Layout > Header and Footer",
+      "imgurl": " "
+    },
+    "-N7aComplex10": {
+      "question": "10) How can you merge data from an Excel spreadsheet into a WordPad document for a mail merge?",
+      "answer": "a. Mailings > Select Recipients > Use Existing List, \nb. Insert > Object > Text from File, \nc. Tools > Data Merge > Excel Spreadsheet, \nd. Format > Mail Merge > Select Source",
+      "imgurl": " "
+    },
+    "-N7aComplex11": {
+      "question": "11) How do you insert and manage comments in a WordPad document?",
+      "answer": "a. Review > Comments > New Comment, \nb. Insert > Comments > Add, \nc. Edit > Comments > Manage, \nd. View > Comments > Insert",
+      "imgurl": " "
+    },
+    "-N7aComplex12": {
+      "question": "12) What steps are needed to create a custom style and apply it to multiple sections in a WordPad document?",
+      "answer": "a. Format > Styles > New Style, \nb. Home > Styles > Create New Style, \nc. View > Styles > Manage > New, \nd. Edit > Styles > Custom",
+      "imgurl": " "
+    },
+    "-N7aComplex13": {
+      "question": "13) How can you collaborate with others on a WordPad document in real-time?",
+      "answer": "a. Share > Collaborate > Real-Time, \nb. File > Share > Invite Others, \nc. Tools > Collaboration > Real-Time, \nd. Review > Share > Real-Time Collaboration",
+      "imgurl": " "
+    },
+    "-N7aComplex14": {
+      "question": "14) Explain how to track changes and manage revisions in a WordPad document.",
+      "answer": "a. Review > Track Changes, \nb. Edit > Track Changes, \nc. Tools > Revisions > Track, \nd. View > Track Changes",
+      "imgurl": " "
+    },
+    "-N7aComplex15": {
+      "question": "15) Describe the process to export a WordPad document to PDF while preserving all formatting.",
+      "answer": "a. File > Save As > PDF, \nb. Export > PDF > Save As, \nc. Tools > Export > PDF, \nd. View > Save As > PDF",
+      "imgurl": " "
+    },
+    "-N7aComplex16": {
+      "question": "16) What are the steps to create and apply a template in WordPad?",
+      "answer": "a. File > New > Save as Template, \nb. Format > Templates > New, \nc. Insert > Template > Create, \nd. Tools > Templates > New Template",
+      "imgurl": " "
+    },
+    "-N7aComplex17": {
+      "question": "17) How do you perform a content control to restrict editing in WordPad?",
+      "answer": "a. Review > Restrict Editing, \nb. Tools > Protection > Restrict Editing, \nc. Edit > Restrict > Limit Editing, \nd. Format > Restrict Editing",
+      "imgurl": " "
+    },
+    "-N7aComplex18": {
+      "question": "18) What steps are involved in linking and embedding an Excel chart in a WordPad document?",
+      "answer": "a. Insert > Object > Excel Chart, \nb. Edit > Insert > Chart from Excel, \nc. View > Object > Link Excel Chart, \nd. Insert > Excel > Chart",
+      "imgurl": " "
+    },
+    "-N7aComplex19": {
+      "question": "19) How can you automate repetitive tasks using macros in WordPad?",
+      "answer": "a. Tools > Macros > Record New Macro, \nb. View > Macros > Create Macro, \nc. Edit > Macros > New, \nd. File > Macros > Record",
+      "imgurl": " "
+    },
+    "-N7aComplex20": {
+      "question": "20) Explain the steps to apply conditional formatting to text based on specific criteria in WordPad.",
+      "answer": "a. Home > Conditional Formatting > New Rule, \nb. Format > Conditional Formatting > Add Criteria, \nc. Insert > Conditional Format > Set Rule, \nd. View > Conditional > New Rule",
+      "imgurl": " "
+    },
+    "-N7zL8tkAzvPeefo3qc": {
+      "question": "21) What is WordPad used for?",
+      "answer": "a. Creating text documents, \nb. Editing videos, \nc. Designing websites, \nd. Managing databases",
+      "imgurl": " "
+    },
+    "-N7cmFtA6z3DBSdCZrKS": {
+      "question": "22) Which tool is used to select the font family in WordPad?",
+      "answer": "a. Font Size, \nb. Font Family, \nc. Bold, \nd. Italic",
+      "imgurl": " "
+    },
+    "-N7cmqDX1qVXm29rJURN": {
+      "question": "23) What is the purpose of the 'Font Size' tool?",
+      "answer": "a. To change the font color, \nb. To change the font size, \nc. To underline text, \nd. To highlight text",
+      "imgurl": " "
+    },
+    "-N7cnbkYy627E6sa9v8x": {
+      "question": "24) How does the 'Grow Font' tool affect text?",
+      "answer": "a. Decreases font size by 2 points, \nb. Increases font size by 2 points, \nc. Boldens the text, \nd. Italicizes the text",
+      "imgurl": " "
+    },
+    "-N7coAsqD1umJege9sU0": {
+      "question": "25) What does the 'Shrink Font' tool do?",
+      "answer": "a. Increases font size by 2 points, \nb. Decreases font size by 2 points, \nc. Changes text color, \nd. Highlights text",
+      "imgurl": " "
+    },
+    "-N7d0PXz4BSVPA3JWwdD": {
+      "question": "26) How is text underlined in WordPad?",
+      "answer": "a. Using the Bold tool, \nb. Using the Italic tool, \nc. Using the Underline tool, \nd. Using the Strikethrough tool",
+      "imgurl": " "
+    },
+    "-N7d0v5PE4JvVdS5BqlQ": {
+      "question": "27) What is the function of the 'Bold' tool in WordPad?",
+      "answer": "a. Italicizes the text, \nb. Underlines the text, \nc. Boldens the text, \nd. Changes text color",
+      "imgurl": " "
+    },
+    "-N7d1EXh94rVgp5w8cGZ": {
+      "question": "28) Which tool makes text italic in WordPad?",
+      "answer": "a. Bold, \nb. Italic,\nc. Underline, \nd. Strikethrough",
+      "imgurl": " "
+    },
+    "-N7d1XOZ4Ad6KONUM1yG": {
+      "question": "29) How is the 'Strikethrough' tool used in WordPad?",
+      "answer": "a. To underline text, \nb. To bold text, \nc. To italicize text, \nd. To draw a line through the text",
+      "imgurl": " "
+    },
+    "-N7d1q4S6AfF73XpzATV": {
+      "question": "30) What does the 'Subscript' tool do to the text?",
+      "answer": "a. Raises text above the baseline, \nb. Lowers text below the baseline, \nc. Underlines text, \nd. Boldens text",
+      "imgurl": " "
+    },
+    "ch4_answer_key": {
+      "question": "Answer:-",
+      "answer": "1.d, 2.b, 3.b, 4.c, 5.c, 6.b, 7.a, 8.c, 9.d, 10.a, 11.a, 12.b, 13.b, 14.a, 15.a, 16.a, 17.b, 18.a, 19.a, 20.a, 21.a, 22.b, 23.c, 24.b, 25.b, 26.a, 27.c, 28.b, 29.d, 30.a",
+      "imgurl": " "
+    }
+  },
+  "ch5": {
+    "-N7Q1": {
+      "question": "1) What is the file extension for Paint files?",
+      "answer": "a..bmp, \nb..txt, \nc..doc, \nd..pdf",
+      "imgurl": " "
+    },
+    "-N7Q2": {
+      "question": "2) Which tab contains the Clipboard Group?",
+      "answer": "a.Insert, \nb.Home, \nc.View, \nd.File",
+      "imgurl": " "
+    },
+    "-N7Q3": {
+      "question": "3) What tool is used to select an image in a rectangular shape?",
+      "answer": "a.Free Form Selection, \nb.Select All, \nc.Rectangular Selection, \nd.Crop",
+      "imgurl": " "
+    },
+    "-N7Q4": {
+      "question": "4) What does the Invert Selection option do?",
+      "answer": "a.Selects the entire image, \nb.Deletes selected area, \nc.Reverses selection, \nd.Resizes the image",
+      "imgurl": " "
+    },
+    "-N7Q5": {
+      "question": "5) Which tool is used to erase parts of an image?",
+      "answer": "a.Crop, \nb.Delete, \nc.Eraser, \nd.Resize",
+      "imgurl": " "
+    },
+    "-N7Q6": {
+      "question": "6) What does the Resize option do?",
+      "answer": "a.Deletes selected area, \nb.Changes image size, \nc.Selects entire image, \nd.Inverts selection",
+      "imgurl": " "
+    },
+    "-N7Q7": {
+      "question": "7) Which option is used to rotate an image?",
+      "answer": "a.Crop, \nb.Rotate, \nc.Fill, \nd.Select",
+      "imgurl": " "
+    },
+    "-N7Q8": {
+      "question": "8) What does the Fill with Colour tool do?",
+      "answer": "a.Deletes color, \nb.Fills shape with color, \nc.Resizes shape, \nd.Rotates shape",
+      "imgurl": " "
+    },
+    "-N7Q9": {
+      "question": "9) Which tool is used for drawing with freehand strokes?",
+      "answer": "a.Crop, \nb.Pencil, \nc.Eraser, \nd.Fill",
+      "imgurl": " "
+    },
+    "-N7Q10": {
+      "question": "10) Which group contains the Brush tool?",
+      "answer": "a.File, \nb.View, \nc.Home, \nd.Edit",
+      "imgurl": " "
+    },
+    "-N7Q11": {
+      "question": "11) What is the use of the Colour Picker tool?",
+      "answer": "a.To erase parts of an image, \nb.To resize an image, \nc.To pick a color from an image, \nd.To rotate an image",
+      "imgurl": " "
+    },
+    "-N7Q12": {
+      "question": "12) Which option is used to add text to an image?",
+      "answer": "a.Eraser, \nb.Text, \nc.Crop, \nd.Resize",
+      "imgurl": " "
+    },
+    "-N7Q13": {
+      "question": "13) How many types of brushes are available in the Brush tool?",
+      "answer": "a.5, \nb.7, \nc.9, \nd.10",
+      "imgurl": " "
+    },
+    "-N7Q14": {
+      "question": "14) What does the Magnifier tool do?",
+      "answer": "a.Enlarges part of the image, \nb.Deletes selected area, \nc.Resizes image, \nd.Rotates image",
+      "imgurl": " "
+    },
+    "-N7Q15": {
+      "question": "15) What is the purpose of the Show or Hide group?",
+      "answer": "a.To invert the selection, \nb.To display or hide rulers and gridlines, \nc.To rotate the image, \nd.To fill with color",
+      "imgurl": " "
+    },
+    "-N7Q16": {
+      "question": "16) What is the function of the Crop tool?",
+      "answer": "a.To crop selected area, \nb.To delete selected area, \nc.To fill selected area, \nd.To invert selection",
+      "imgurl": " "
+    },
+    "-N7Q17": {
+      "question": "17) Which tab contains the Zoom In option?",
+      "answer": "a.Home, \nb.View, \nc.Insert, \nd.Edit",
+      "imgurl": " "
+    },
+    "-N7Q18": {
+      "question": "18) What percentage can the Zoom In tool magnify up to?",
+      "answer": "a.200%, \nb.800%, \nc.1000%, \nd.1500%",
+      "imgurl": " "
+    },
+    "-N7Q19": {
+      "question": "19) What is the function of the Zoom Out tool?",
+      "answer": "a.To enlarge the image, \nb.To reduce the image size, \nc.To invert selection, \nd.To delete selection",
+      "imgurl": " "
+    },
+    "-N7Q20": {
+      "question": "20) How can you see the original size of the page?",
+      "answer": "a.Rotate tool, \nb.Resize tool, vc.100% option, \nd.Zoom In option",
+      "imgurl": " "
+    },
+    "-N7Q21": {
+      "question": "21) Which tool allows you to select a color to fill in an object?",
+      "answer": "a.Eraser, \nb.Colour Picker, \nc.Resize, \nd.Crop",
+      "imgurl": " "
+    },
+    "-N7Q22": {
+      "question": "22) What does the Outline option allow you to do?",
+      "answer": "a.Resize image, \nb.Rotate image, \nc.Outline shape, \nd.Crop image",
+      "imgurl": " "
+    },
+    "-N7Q23": {
+      "question": "23) What does the Fill option allow you to do?",
+      "answer": "a.Fill shape, \nb.Select shape, \nc.Resize shape, \nd.Rotate shape",
+      "imgurl": " "
+    },
+    "-N7Q24": {
+      "question": "24) Which tool is used to erase the unwanted part of an image?",
+      "answer": "a.Fill, \nb.Eraser, \nc.Rotate, \nd.Crop",
+      "imgurl": " "
+    },
+    "-N7Q25": {
+      "question": "25) What does the Thumbnail option do?",
+      "answer": "a.Crop the image, \nb.Show a preview of the image in original size, \nc.Fill with color, \nd.Resize image",
+      "imgurl": " "
+    },
+    "-N7Q26": {
+      "question": "26) Which group allows you to zoom in and out of the page?",
+      "answer": "a.Home Group, \nb.Zoom Group, \nc.Tools Group, \nd.Shape Group",
+      "imgurl": " "
+    },
+    "-N7Q27": {
+      "question": "27) What is the default extension for a Paint file?",
+      "answer": "a..jpeg, \nb..png, \nc..bmp, \nd..gif",
+      "imgurl": " "
+    },
+    "-N7Q28": {
+      "question": "28) Which option lets you view a file in full screen?",
+      "answer": "a.Crop, \nb.Full Screen, \nc.Zoom In, \nd.Rotate",
+      "imgurl": " "
+    },
+    "-N7Q29": {
+      "question": "29) How many predefined colors are available in the color box?",
+      "answer": "a.10, \nb.20, \nc.15, \nd.25",
+      "imgurl": " "
+    },
+    "-N7Q30": {
+      "question": "30) Which option allows you to create new colors?",
+      "answer": "a.Eraser, \nb.Crop, \nc.Edit Color, \nd.Select",
+      "imgurl": " "
+    },
+    "ch5_answer_key": {
+      "question": "Answer:-",
+      "answer": "1.a, 2.b, 3.d, 4.c, 5.b, 6.b, 7.b, 8.b, 9.b, 10.c, 11.c, 12.b, 13.c, 14.a, 15.b, 16.a, 17.b, 18.b, 19.b, 20.c, 21.b, 22.c, 23.a, 24.b, 25.b, 26.c, 27.b, 28.c, 29.b, 30.c",
+      "imgurl": " "
+    }
+  },
+  "ch6": {
+    "-N7Q1": {
+      "question": "1) What is MS-Office?",
+      "answer": "a.Operating System, \nb.Application Software Package, \nc.Programming Language, \nd.Database Software",
+      "imgurl": " "
+    },
+    "-N7Q2": {
+      "question": "2) How many application software are included in MS-Office?",
+      "answer": "a.Five, \nb.Six, \nc.Seven, \nd.Eight",
+      "imgurl": " "
+    },
+    "-N7Q3": {
+      "question": "3) Which of the following is NOT a part of MS-Office?",
+      "answer": "a.MS-Word, \nb.MS-Paint, \nc.MS-Excel, \nd.PowerPoint",
+      "imgurl": " "
+    },
+    "-N7Q4": {
+      "question": "4) Which application is used for word processing in MS-Office?",
+      "answer": "a.MS-Excel, \nb.MS-Word, \nc.MS-Access, \nd.MS-PowerPoint",
+      "imgurl": " "
+    },
+    "-N7Q5": {
+      "question": "5) What application in MS-Office is used to create presentations?",
+      "answer": "a.MS-Word, \nb.MS-Excel, \nc.MS-Access, \nd.MS-PowerPoint",
+      "imgurl": " "
+    },
+    "-N7Q6": {
+      "question": "6) How can you create a Microsoft account?",
+      "answer": "a.By visiting Microsoft Store, \nb.Through Control Panel, \nc.By clicking on 'Create Account' at the Microsoft website, \nd.By installing MS-Office",
+      "imgurl": " "
+    },
+    "-N7Q7": {
+      "question": "7) Which option must be clicked after typing your information while creating a Microsoft account?",
+      "answer": "a.Save Password, \nb.Create Account, \nc.Get a New E-mail Address, \nd.Yes Icon",
+      "imgurl": " "
+    },
+    "-N7Q8": {
+      "question": "8) What was the version of MS-Office released in 2007?",
+      "answer": "a.MS-Office XP, \nb.MS-Office 2003, \nc.MS-Office 2007, \nd.MS-Office 2010",
+      "imgurl": " "
+    },
+    "-N7Q9": {
+      "question": "9) Which version of MS-Office was released in 2019?",
+      "answer": "a.MS-Office 2010, \nb.MS-Office 2013, \nc.MS-Office 2016, \nd.MS-Office 2019/Office 365",
+      "imgurl": " "
+    },
+    "-N7Q10": {
+      "question": "10) Which is NOT an advantage of MS-Office?",
+      "answer": "a.User Friendly, \nb.Easy to Use, \nc.Expensive, \nd.Frequent Updates",
+      "imgurl": " "
+    },
+    "-N7Q11": {
+      "question": "11) What makes MS-Office easy to learn?",
+      "answer": "a.Complex interface, \nb.Similarity of options across programs, \nc.Fewer features, \nd.High cost",
+      "imgurl": " "
+    },
+    "-N7Q12": {
+      "question": "12) Which component of MS-Office helps in managing emails?",
+      "answer": "a.MS-Word, \nb.MS-Outlook, \nc.MS-Access, \nd.MS-Excel",
+      "imgurl": " "
+    },
+    "-N7Q13": {
+      "question": "13) Which feature in MS-Office enhances security and removes bugs?",
+      "answer": "a.Frequent Updates, \nb.User Manual, \nc.Customer Support, \nd.Premium Subscription",
+      "imgurl": " "
+    },
+    "-N7Q14": {
+      "question": "14) Where can you find the Microsoft Office button?",
+      "answer": "a.On the Desktop, \nb.In the File Menu, \nc.On the Toolbar, \nd.At the Bottom of the Screen",
+      "imgurl": " "
+    },
+    "-N7Q15": {
+      "question": "15) What does the Microsoft Office button allow you to do?",
+      "answer": "a.Create New File, \nb.Close Application, \nc.Open Help, \nd.Run a Program",
+      "imgurl": " "
+    },
+    "-N7Q16": {
+      "question": "16) Which version of MS-Office introduced the ribbon interface?",
+      "answer": "a.MS-Office 2000, \nb.MS-Office XP, \nc.MS-Office 2007, \nd.MS-Office 2010",
+      "imgurl": " "
+    },
+    "-N7Q17": {
+      "question": "17) What does MS-Excel primarily function as?",
+      "answer": "a.Word Processor, \nb.Spreadsheet Application, \nc.Presentation Software, \nd.Database Management",
+      "imgurl": " "
+    },
+    "-N7Q18": {
+      "question": "18) Which feature in MS-Word helps in checking grammar and spelling?",
+      "answer": "a.Spell Check, \nb.AutoCorrect, \nc.Thesaurus, \nd.Dictionary",
+      "imgurl": " "
+    },
+    "-N7Q19": {
+      "question": "19) Which component of MS-Office is used to create databases?",
+      "answer": "a.MS-Word, \nb.MS-Excel, \nc.MS-Access, \nd.MS-Outlook",
+      "imgurl": " "
+    },
+    "-N7Q20": {
+      "question": "20) What feature allows you to view a preview of a document in MS-Office?",
+      "answer": "a.Print Preview, \nb.Thumbnail View, \nc.Layout Preview, \nd.Page Setup",
+      "imgurl": " "
+    },
+    "-N7Q21": {
+      "question": "21) Which MS-Office tool is best suited for creating marketing materials?",
+      "answer": "a.MS-Word, \nb.MS-Publisher, \nc.MS-PowerPoint, \nd.MS-Access",
+      "imgurl": " "
+    },
+    "-N7Q22": {
+      "question": "22) Which version of MS-Office was released after MS-Office 2007?",
+      "answer": "a.MS-Office XP, \nb.MS-Office 2010, vc.MS-Office 2013, \nd.MS-Office 2016",
+      "imgurl": " "
+    },
+    "-N7Q23": {
+      "question": "23) Which component of MS-Office allows you to take notes?",
+      "answer": "a.MS-OneNote, \nb.MS-Outlook, \nc.MS-Publisher, \nd.MS-Access",
+      "imgurl": " "
+    },
+    "-N7Q24": {
+      "question": "24) How does MS-Office handle file formats?",
+      "answer": "a.It only supports one format, \nb.It supports multiple formats, \nc.It does not support file conversion, \nd.It only exports to PDF",
+      "imgurl": " "
+    },
+    "-N7Q25": {
+      "question": "25) Which MS-Office component is used to manage and organize emails?",
+      "answer": "a.MS-Outlook, \nb.MS-Excel, \nc.MS-Word, \nd.MS-Access",
+      "imgurl": " "
+    },
+    "-N7Q26": {
+      "question": "26) Which of the following is a feature of MS-PowerPoint?",
+      "answer": "a.Slide Transition, \nb.Data Sorting, \nc.Mail Merge, \nd.Record Macro",
+      "imgurl": " "
+    },
+    "-N7Q27": {
+      "question": "27) Which version of MS-Office was the first to be subscription-based?",
+      "answer": "a.MS-Office 2010, b.MS-Office 2013, vc.MS-Office 2016, \nd.Office 365",
+      "imgurl": " "
+    },
+    "-N7Q28": {
+      "question": "28) Which MS-Office component is specifically used for managing databases?",
+      "answer": "a.MS-Word, \nb.MS-Access, \nc.MS-PowerPoint, \nd.MS-Excel",
+      "imgurl": " "
+    },
+    "-N7Q29": {
+      "question": "29) What is the main purpose of MS-OneNote?",
+      "answer": "a.Email Management, \nb.Note-Taking, \nc.Spreadsheet Creation, \nd.Database Management",
+      "imgurl": " "
+    },
+    "-N7Q30": {
+      "question": "30) What allows for seamless collaboration in MS-Office?",
+      "answer": "a.Offline Access, \nb.Cloud Integration, \nc.Single User Access, \nd.Print to PDF",
+      "imgurl": " "
+    },
+    "-N7Q31": {
+      "question": "Answer:-",
+      "answer": "1.b, 2.c, 3.b, 4.b, 5.d, 6.c, 7.d, 8.c, 9.d, 10.c, 11.b, 12.b, 13.a, 14.b, 15.a, 16.c, 17.b, 18.a, 19.c, 20.a, 21.b, 22.b, 23.a, 24.b, 25.a, 26.a, 27.d, 28.b, 29.b, 30.b",
+      "imgurl": " "
+    }
+  },
+  "ch7": {
+    "-N7Q1": {
+      "question": "1) What is the primary function of MS Word?",
+      "answer": "a. Text editing, \nb. Spreadsheet management, \nc. Database creation, \nd. Web browsing",
+      "imgurl": " "
+    },
+    "-N7Q2": {
+      "question": "2) In which year was Microsoft Word first released?",
+      "answer": "a. 1981, \nb. 1983, \nc. 1985, \nd. 1987",
+      "imgurl": " "
+    },
+    "-N7Q3": {
+      "question": "3) Which tab in MS Word contains the 'Font' group?",
+      "answer": "a. Home, \nb. Insert, \nc. Design, \nd. Layout",
+      "imgurl": " "
+    },
+    "-N7Q4": {
+      "question": "4) What is the default file extension for Word documents?",
+      "answer": "a. .doc, \nb. .docx, \nc. .txt, \nd. .pdf",
+      "imgurl": " "
+    },
+    "-N7Q5": {
+      "question": "5) Which feature in MS Word allows you to combine a document with a data source to create multiple personalized documents?",
+      "answer": "a. Mail Merge, \nb. Track Changes, \nc. Format Painter, \nd. SmartArt",
+      "imgurl": " "
+    },
+    "-N7Q6": {
+      "question": "6) Which command is used to save a document with a new name?",
+      "answer": "a. Save, \nb. Save As, \nc. Export, \nd. Rename",
+      "imgurl": " "
+    },
+    "-N7Q7": {
+      "question": "7) How can you open the 'Find and Replace' dialog box?",
+      "answer": "a. Ctrl + F, \nb. Ctrl + H, \nc. Ctrl + G, \nd. Ctrl + R",
+      "imgurl": " "
+    },
+    "-N7Q8": {
+      "question": "8) Which tab in MS Word contains the 'Page Setup' group?",
+      "answer": "a. Layout, \nb. Design, \nc. Insert, \nd. View",
+      "imgurl": " "
+    },
+    "-N7Q9": {
+      "question": "9) What is the purpose of the 'Track Changes' feature?",
+      "answer": "a. To highlight changes made to a document, \nb. To convert text to speech, \nc. To create a table of contents, \nd. To adjust page margins",
+      "imgurl": " "
+    },
+    "-N7Q10": {
+      "question": "10) Which shortcut key is used to create a new document?",
+      "answer": "a. Ctrl + N, \nb. Ctrl + O, \nc. Ctrl + S, \nd. Ctrl + P",
+      "imgurl": " "
+    },
+    "-N7Q11": {
+      "question": "11) What is the function of 'WordArt' in MS Word?",
+      "answer": "a. To insert artistic text, \nb. To draw shapes, \nc. To create graphs, \nd. To apply text formatting",
+      "imgurl": " "
+    },
+    "-N7Q12": {
+      "question": "12) How do you insert a page number in a document?",
+      "answer": "a. Insert > Page Number, \nb. Layout > Page Setup, \nc. Design > Page Background, \nd. Review > Proofing",
+      "imgurl": " "
+    },
+    "-N7Q13": {
+      "question": "13) Which tab allows you to change the page orientation?",
+      "answer": "a. Layout, \nb. Insert, \nc. Design, \nd. View",
+      "imgurl": " "
+    },
+    "-N7Q14": {
+      "question": "14) What does the 'Ctrl + Z' shortcut do?",
+      "answer": "a. Undo the last action, \nb. Redo the last action, \nc. Save the document, \nd. Open a new document",
+      "imgurl": " "
+    },
+    "-N7Q15": {
+      "question": "15) Which view allows you to see how your document will look when printed?",
+      "answer": "a. Print Layout, \nb. Web Layout, \nc. Outline, \nd. Draft",
+      "imgurl": " "
+    },
+    "-N7Q16": {
+      "question": "16) What is the purpose of the 'Header' and 'Footer' in MS Word?",
+      "answer": "a. To add text or graphics to the top and bottom of each page, \nb. To create a table, \nc. To adjust paragraph spacing, \nd. To insert page breaks",
+      "imgurl": " "
+    },
+    "-N7Q17": {
+      "question": "17) Which option is used to create a bulleted list?",
+      "answer": "a. Home > Bullets, \nb. Insert > Symbols, \nc. Layout > Paragraph, \nd. Review > Tracking",
+      "imgurl": " "
+    },
+    "-N7Q18": {
+      "question": "18) How do you insert a hyperlink in a document?",
+      "answer": "a. Insert > Hyperlink, \nb. Layout > Hyperlink, \nc. Design > Link, \nd. View > Hyperlink",
+      "imgurl": " "
+    },
+    "-N7Q19": {
+      "question": "19) Which feature automatically corrects common spelling errors as you type?",
+      "answer": "a. AutoCorrect, \nb. Spell Check, \nc. Thesaurus, \nd. Grammar Check",
+      "imgurl": " "
+    },
+    "-N7Q20": {
+      "question": "20) How can you change the line spacing in a document?",
+      "answer": "a. Home > Line and Paragraph Spacing, \nb. Insert > Line Spacing, \nc. Layout > Paragraph Spacing, \nd. Review > Proofing",
+      "imgurl": " "
+    },
+    "-N7Q21": {
+      "question": "21) What does the 'Ctrl + P' shortcut do?",
+      "answer": "a. Print the document, \nb. Paste the copied text, \nc. Open the document, \nd. Preview the document",
+      "imgurl": " "
+    },
+    "-N7Q22": {
+      "question": "22) Which feature is used to display text in two or more columns?",
+      "answer": "a. Columns, \nb. Sections, \nc. Margins, \nd. Breaks",
+      "imgurl": " "
+    },
+    "-N7Q23": {
+      "question": "23) What is the purpose of the 'Table of Contents' feature?",
+      "answer": "a. To list the headings in a document, \nb. To insert a table, \nc. To add page numbers, \nd. To format text",
+      "imgurl": " "
+    },
+    "-N7Q24": {
+      "question": "24) How can you protect a document with a password?",
+      "answer": "a. File > Info > Protect Document, \nb. Home > Protect, \nc. Insert > Password,\nd. Review > Protect Document",
+      "imgurl": " "
+    },
+    "-N7Q25": {
+      "question": "25) Which command is used to insert a break in the text flow?",
+      "answer": "a. Insert > Break, \nb. Layout > Break, \nc. Design > Break, \nd. View > Break",
+      "imgurl": " "
+    },
+    "-N7Q26": {
+      "question": "26) How do you add a comment to a document?",
+      "answer": "a. Review > New Comment, \nb. Insert > Comment, \nc. Layout > Comment, \nd. Design > Comment",
+      "imgurl": " "
+    },
+    "-N7Q27": {
+      "question": "27) What is the default font in MS Word 2019?",
+      "answer": "a. Calibri, \nb. Times New Roman, \nc. Arial, \nd. Verdana",
+      "imgurl": " "
+    },
+    "-N7Q28": {
+      "question": "28) How can you check the word count in a document?",
+      "answer": "a. Review > Word Count, \nb. Insert > Word Count, \nc. Layout > Word Count, \nd. View > Word Count",
+      "imgurl": " "
+    },
+    "-N7Q29": {
+      "question": "29) Which feature allows you to apply a set of formatting choices with a single click?",
+      "answer": "a. Styles, \nb. Themes, \nc. Templates, \nd. Quick Parts",
+      "imgurl": " "
+    },
+    "-N7Q30": {
+      "question": "30) Which shortcut key is used to save a document?",
+      "answer": "a. Ctrl + S, \nb. Ctrl + C, \nc. Ctrl + V, \nd. Ctrl + X",
+      "imgurl": " "
+    },
+    "ms_word_answer_key": {
+      "question": "Answer:-",
+      "answer": "1.a, 2.b, 3.a, 4.b, 5.a, 6.b, 7.b, 8.a, 9.a, 10.a, 11.a, 12.a, 13.a, 14.a, 15.a, 16.a, 17.a, 18.a, 19.a, 20.a, 21.a, 22.a, 23.a, 24.a, 25.b, 26.a, 27.a, 28.a, 29.a, 30.a",
+      "imgurl": " "
+    }
+  },
+  "ch8": {
+    "-N7qAjmLt6qWFb9qJS8z": {
+      "question": "1. What is MS-Excel?",
+      "answer": "a. A word processing software, \nb. A spreadsheet program, \nc. A presentation software, \nd. A database software",
+      "imgurl": " "
+    },
+    "-N7qCyOVrAmB-t5yBxRC": {
+      "question": "2. How can you open MS Excel?",
+      "answer": "a. By typing Excel in the Run dialog, \nb. By clicking on the Excel icon on the desktop, \nc. By searching for Excel in the Start menu, \nd. All of the above",
+      "imgurl": " "
+    },
+    "-N7sPfT2otNtyk6LRe9Q": {
+      "question": "3. How many tabs are there in Excel by default?",
+      "answer": "a. 5, \nb. 7, \nc. 9, \nd. 11",
+      "imgurl": " "
+    },
+    "-N7vLlD0fPSdabEEKVVL": {
+      "question": "4. What is the Menu Bar also known as in Excel?",
+      "answer": "a. Toolbar, \nb. Status Bar, \nc. Ribbon, \nd. Tab Bar",
+      "imgurl": " "
+    },
+    "-N7vMnwpJX9ZeanQPwvJ": {
+      "question": "5. What does the Title Bar display in Excel?",
+      "answer": "a. The current cell location, \nb. The formula entered, \nc. The name of the workbook, \nd. The name of the worksheet",
+      "imgurl": " "
+    },
+    "-N7vNRWsgWpbkL8ffNBs": {
+      "question": "6. What is the Ribbon Menu in Excel?",
+      "answer": "a. A place where you can save your work, \nb. A menu that appears when you click on a tab, \nc. A toolbar for formatting, \nd. A section for inserting tables",
+      "imgurl": " "
+    },
+    "-NAjXUD8gCowAAMsajqA": {
+      "question": "7. Which function is used to sum a selected range in Excel?",
+      "answer": "a. AVERAGE, \nb. COUNT, \nc. SUM, \nd. MAX",
+      "imgurl": " "
+    },
+    "-NAjXkwAPl3qrFCbi1yh": {
+      "question": "8. What does the AutoSum feature do?",
+      "answer": "a. Adds the numbers in a range of cells, \nb. Formats the selected cells, \nc. Sorts data in ascending order, \nd. Creates a chart from selected data",
+      "imgurl": " "
+    },
+    "-NAjYbECWzmWFolOq5Bo": {
+      "question": "9. What does the Fill feature do in Excel?",
+      "answer": "a. Fills the selected cells with a color, \nb. Fills data in adjacent cells based on a pattern, \nc. Fills cells with the current date, d. Fills cells with text",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqebY": {
+      "question": "10. What is the purpose of the Clear option in Excel?",
+      "answer": "a. To remove cell contents, \nb. To format cells, \nc. To create a table, \nd. To insert a chart",
+      "imgurl": " "
+    },
+    "-N7qAjmLt6qWFb9qJS9a": {
+      "question": "11. What is the default file extension for an Excel workbook?",
+      "answer": "a. .docx, \nb. .xlsx, \nc. .pptx, \nd. .txt",
+      "imgurl": " "
+    },
+    "-N7qCyOVrAmB-t5yBxRD": {
+      "question": "12. Which function key is used to edit the active cell in Excel?",
+      "answer": "a. F1, \nb. F2, \nc. F3, \nd. F4",
+      "imgurl": " "
+    },
+    "-N7sPfT2otNtyk6LRf1R": {
+      "question": "13. Which of the following is not a valid Excel formula?",
+      "answer": "a. =SUM(A1:A10), \nb. =AVG(A1:A10), \nc. =AVERAGE(A1:A10), \nd. =MIN(A1:A10)",
+      "imgurl": " "
+    },
+    "-N7vLlD0fPSdabEEKVVS": {
+      "question": "14. What does the CONCATENATE function do?",
+      "answer": "a. Adds numbers, \nb. Combines text from multiple cells, \nc. Formats text, \nd. Sorts data",
+      "imgurl": " "
+    },
+    "-N7vMnwpJX9ZeanQPwLJ": {
+      "question": "15. Which chart type is best for showing trends over time in Excel?",
+      "answer": "a. Pie chart, \nb. Bar chart, \nc. Line chart, \nd. Scatter plot",
+      "imgurl": " "
+    },
+    "-N7vNRWsgWpbkL8ffNCs": {
+      "question": "16. Which Excel feature allows you to create a list of sequential numbers?",
+      "answer": "a. Series, \nb. Fill Handle, \nc. AutoSum, \nd. AutoFill",
+      "imgurl": " "
+    },
+    "-NAjXUD8gCowAAMsajkA": {
+      "question": "17. What is the maximum number of rows in an Excel worksheet?",
+      "answer": "a. 1,048,576, \nb. 65,536, \nc. 32,768, \nd. 2,147,483,647",
+      "imgurl": " "
+    },
+    "-NAjXkwAPl3qrFCbi1xh": {
+      "question": "18. What is a Pivot Table used for in Excel?",
+      "answer": "a. To sort data, \nb. To filter data, \nc. To summarize and analyze data, \nd. To create charts",
+      "imgurl": " "
+    },
+    "-NAjYbECWzmWFolOq5Bos": {
+      "question": "19. Which function is used to find the highest number in a range?",
+      "answer": "a. MIN, \nb. MAX, \nc. SUM, \nd. AVERAGE",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqelY": {
+      "question": "20. Which of the following is a logical function in Excel?",
+      "answer": "a. IF, \nb. SUM, \nc. PRODUCT, \nd. CONCATENATE",
+      "imgurl": " "
+    },
+    "-N7qAjmLt6qWFb9qJS2z": {
+      "question": "21. Which shortcut key is used to save a workbook in Excel?",
+      "answer": "a. Ctrl + S, \nb. Ctrl + C, \nc. Ctrl + V, \nd. Ctrl + X",
+      "imgurl": " "
+    },
+    "-N7qCyOVrAmB-t5yBxAD": {
+      "question": "22. What does the VLOOKUP function do in Excel?",
+      "answer": "a. Looks up data in a vertical table, \nb. Adds data in a vertical column, \nc. Sorts data alphabetically, \nd. Formats cells based on conditions",
+      "imgurl": " "
+    },
+    "-N7sPfT2otNtyk6LR2TQ": {
+      "question": "23. Which function would you use to count the number of cells with numbers in Excel?",
+      "answer": "a. COUNTA, \nb. COUNTIF, \nc. COUNT, \nd. SUM",
+      "imgurl": " "
+    },
+    "-N7vLlD0fPSdabEEKAKL": {
+      "question": "24. Which tab contains the option to create a chart in Excel?",
+      "answer": "a. Insert, \nb. Home, \nc. Page Layout, \nd. Data",
+      "imgurl": " "
+    },
+    "-N7vMnwpJX9ZeanQPLJQ": {
+      "question": "25. Which function is used to return the current date in Excel?",
+      "answer": "a. TODAY(), \nb. NOW(), \nc. DATE(), \nd. YEAR()",
+      "imgurl": " "
+    },
+    "-N7vNRWsgWpbkL8ffNLs": {
+      "question": "26. What does the Excel function LEN() do?",
+      "answer": "a. Calculates the length of a cell, \nb. Returns the number of characters in a string, \nc. Converts text to uppercase, \nd. Trims spaces from text",
+      "imgurl": " "
+    },
+    "-NAjXUD8gCowAAMsajxC": {
+      "question": "27. What is the shortcut key for creating a new workbook in Excel?",
+      "answer": "a. Ctrl + N, \nb. Ctrl + O, \nc. Ctrl + W, \nd. Ctrl + P",
+      "imgurl": " "
+    },
+    "-NAjXkwAPl3qrFCbi1xm": {
+      "question": "28. What is the default row height in Excel?",
+      "answer": "a. 15 points, \nb. 20 points, \nc. 25 points, \nd. 30 points",
+      "imgurl": " "
+    },
+    "-NAjYbECWzmWFolOq5Am": {
+      "question": "29. Which Excel function returns the remainder of a division?",
+      "answer": "a. MOD, \nb. ROUND, \nc. DIVIDE, \nd. REM",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK": {
+      "question": "30. What feature in Excel allows you to create a summary of a large data set?",
+      "answer": "a. Pivot Table, \nb. Data Table, \nc. Subtotal, \nd. Scenario Manager",
+      "imgurl": " "
+    },
+    "ch8_answer_key": {
+      "question": "Answer:-",
+      "answer": "1.b, 2.d, 3.c, 4.d, 5.c, 6.b, 7.c, 8.a, 9.b, 10.a, 11.b, 12.b, 13.b, 14.b, 15.c, 16.b, 17.a, 18.c, 19.b, 20.a, 21.a, 22.a, 23.c, 24.a, 25.a, 26.b, 27.a, 28.a, 29.a, 30.a",
+      "imgurl": " "
+    }
+  },
+  "ch9": {
+    "-N7Em6Evh_khKqeCBcdCj17": {
+      "question": "1. What is the default file extension for a PowerPoint presentation in Office 2007 and later?",
+      "answer": "a. .ppt, \nb. .pptx, \nc. .ppx, \nd. .pptm",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj18": {
+      "question": "2. Which keyboard shortcut is used to start the slideshow from the beginning?",
+      "answer": "a. F1, \nb. F5, \nc. F7, \nd. Ctrl+F5",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK1": {
+      "question": "3. Which tab in PowerPoint allows you to add transitions between slides?",
+      "answer": "a. Home, \nb. Insert, \nc. Design, \nd. Transitions",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK2": {
+      "question": "4. In PowerPoint, what is the use of the 'Slide Sorter' view?",
+      "answer": "a. To edit the content of slides, \nb. To arrange slides in a sequence, \nc. To preview animations, \nd. To print slides",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK3": {
+      "question": "5. Which feature in PowerPoint allows you to align objects on a slide?",
+      "answer": "a. Smart Guides, \nb. Ruler, \nc. Gridlines, \nd. All of the above",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK4": {
+      "question": "6. What is the primary function of the 'Slide Master' in PowerPoint?",
+      "answer": "a. To create custom animations, \nb. To set uniform styles across slides, \nc. To insert tables and charts, \nd. To add video and audio clips",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK5": {
+      "question": "7. Which option in PowerPoint allows you to save a presentation as a video?",
+      "answer": "a. Save As: MP4, \nb. Save As: WMV, \nc. Save As: AVI, \nd. Save As: PPTX",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK6": {
+      "question": "8. In PowerPoint, which option is used to rehearse timings for a presentation?",
+      "answer": "a. Slide Show: Rehearse Timings, \nb. Review: Timings, \nc. Insert: Timings, \nd. Animations: Rehearse",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK7": {
+      "question": "9. Which of the following is NOT an animation effect in PowerPoint?",
+      "answer": "a. Entrance, \nb. Emphasis, \nc. Exit, \nd. Motion Path",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK8": {
+      "question": "10. Which of the following views is used to deliver a presentation to an audience?",
+      "answer": "a. Normal View, \nb. Slide Sorter View, \nc. Reading View, \nd. Slide Show View",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK9": {
+      "question": "11. What is the use of the 'Notes Pane' in PowerPoint?",
+      "answer": "a. To display speaker notes during a presentation, \nb. To insert footnotes, \nc. To create handouts, \nd. To add comments to slides",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK10": {
+      "question": "12. Which option in PowerPoint allows you to insert a chart into a slide?",
+      "answer": "a. Insert: Graph, \nb. Insert: Table, \nc. Insert: Chart, \nd. Insert: SmartArt",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK11": {
+      "question": "13. In PowerPoint, what does the 'Design' tab allow you to do?",
+      "answer": "a. Add animations, \nb. Change the slide layout, \nc. Apply themes and customize the look of slides, \nd. Insert video clips",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK12": {
+      "question": "14. Which view in PowerPoint is ideal for creating speaker notes?",
+      "answer": "a. Slide Show View, \nb. Outline View, \nc. Normal View, \nd. Notes Page View",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK13": {
+      "question": "15. What is the purpose of the 'Slide Layout' option in PowerPoint?",
+      "answer": "a. To add new slides, \nb. To change the design of slides, \nc. To apply background styles, \nd. To arrange text and objects on a slide",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK14": {
+      "question": "16. Which feature allows you to record a voice narration in a PowerPoint presentation?",
+      "answer": "a. Insert: Audio, \nb. Slide Show: Record Narration, \nc. Review: Voice Recorder, \nd. Insert: Sound",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK15": {
+      "question": "17. What is the default slide size in PowerPoint 2013 and later versions?",
+      "answer": "a. 4:3, \nb. 16:9, \nc. 16:10, \nd. 5:4",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK16": {
+      "question": "18. In PowerPoint, which tool is used to create a hyperlink to another slide or document?",
+      "answer": "a. Insert: Hyperlink, \nb. Insert: Link, \nc. Format: Hyperlink, \nd. Design: Link",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK17": {
+      "question": "19. Which option in PowerPoint allows you to format the background of a slide?",
+      "answer": "a. Design: Background, \nb. Insert: Background, \nc. Format: Background, \nd. Layout: Background",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK18": {
+      "question": "20. What is the purpose of the 'Animation Pane' in PowerPoint?",
+      "answer": "a. To edit slide transitions, \nb. To control the order and timing of animations, \nc. To apply animation effects, \nd. To insert animations",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK19": {
+      "question": "21. Which feature in PowerPoint allows you to rehearse the timing of your presentation?",
+      "answer": "a. Rehearse Timing, \nb. Set Timing, \nc. Animation Timing, \nd. Custom Timing",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK20": {
+      "question": "22. In PowerPoint, what does the 'Format Painter' tool do?",
+      "answer": "a. Copies the format of text or objects, \nb. Edits the format of text, \nc. Applies a design template, \nd. Formats slide background",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK21": {
+      "question": "23. Which feature allows you to merge shapes in PowerPoint?",
+      "answer": "a. Shape Fill, \nb. Shape Merge, \nc. Merge Shapes, \nd. Shape Combine",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK22": {
+      "question": "24. What is the primary use of 'Slide Show' mode in PowerPoint?",
+      "answer": "a. To edit slides, \nb. To view all slides at once, \nc. To present slides to an audience, \nd. To add animations to slides",
+      "imgurl": " "
+    },
+    "-NAjZ_uSjQbyo98AqemK23": {
+      "question": "25. Which tab allows you to insert shapes into a slide in PowerPoint?",
+      "answer": "a. Home, \nb. Insert, \nc. Design, \nd. Animations",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj19": {
+      "question": "26. Which feature in PowerPoint is used to create speaker notes that only the presenter can see during a slideshow?",
+      "answer": "a. Slide Sorter View, \nb. Presenter View, \nc. Notes Page View, \nd. Outline View",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj20": {
+      "question": "27. Which option in PowerPoint allows you to set the duration for each slide to appear during the slideshow?",
+      "answer": "a. Transition Duration, \nb. Slide Timer, \nc. Rehearse Timings, \nd. Slide Timing",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj21": {
+      "question": "28. In PowerPoint, what is the function of the 'Action' button?",
+      "answer": "a. To apply animations, vb. To insert videos, \nc. To add hyperlinks or actions to objects, \nd. To set slide transitions",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj22": {
+      "question": "29. What is the purpose of the 'Slide Master' view in PowerPoint?",
+      "answer": "a. To create custom layouts, \nb. To apply consistent formatting across all slides, \nc. To edit individual slides, \nd. To insert multimedia elements",
+      "imgurl": " "
+    },
+    "-N7Em6Evh_khKqeCBcdCj23": {
+      "question": "30. Which of the following is a way to group multiple objects in PowerPoint?",
+      "answer": "a. Arrange: Group, \nb. Insert: Group, \nc. Format: Group, \nd. Design: Group",
+      "imgurl": " "
+    },
+    "ch9_answer_key": {
+      "question": "Answer:-",
+      "answer": "1.c, 2.d, 3.b, 4.c, 5.c, 6.b, 7.a, 8.b, 9.a, 10.b, 11.d, 12.b, 13.b, 14.d, 15.b, 16.a, 17.d, 18.b, 19.c, 20.b, 21.d, 22.a, 23.b, 24.c, 25.d, 26.b, 27.c, 28.c, 29.b, 30.a",
+      "imgurl": " "
+    }
+  },
+  "ch10": {
+    "-N7n8gBSby2sB8yULyc1s": {
+      "question": "1. Who is recognized as the Father of the Internet?",
+      "answer": "a.Vint Cerf, \nb.Bob Kahn, \nc.J.C.R. Licklider, \nd.Ray Tomlinson",
+      "imgurl": " "
+    },
+    "-N7zZkP5WST1VyUDN7dbd": {
+      "question": "2. Who invented the World Wide Web?",
+      "answer": "a.Bill Gates, \nb.Tim Berners-Lee, \nc.Steve Jobs, \nd.Larry Page",
+      "imgurl": " "
+    },
+    "-N7zavcUVAydz17_4YCyd": {
+      "question": "3. Which of the following is NOT a web browser?",
+      "answer": "a.Google Chrome, \nb.Mozilla Firefox, \nc.Internet Explorer, \nd.VLC Media Player",
+      "imgurl": " "
+    },
+    "-N7zeSjqKfGy1HG5yCaLs": {
+      "question": "4. Who invented the email service?",
+      "answer": "a.Ray Tomlinson, \nb.Vint Cerf, \nc.Tim Berners-Lee, \nd.Shabeer Bhatia",
+      "imgurl": " "
+    },
+    "-N7zflnYNkEAU9AO8ucEt": {
+      "question": "5. Which is the most popular search engine?",
+      "answer": "a.Bing, \nb.Yahoo, \nc.Google, \nd.DuckDuckGo",
+      "imgurl": " "
+    },
+    "-N7zhtx5v8qt4rv8lE8ge": {
+      "question": "6. What is Gmail primarily used for?",
+      "answer": "a.Searching, \nb.Email, \nc.Shopping, \nd.Social Networking",
+      "imgurl": " "
+    },
+    "-N7zjC6qqAuE06s6moMwe": {
+      "question": "7. Who launched Facebook?",
+      "answer": "a.Larry Page, \nb.Steve Jobs, \nc.Mark Zuckerberg, \nd.Jeff Bezos",
+      "imgurl": " "
+    },
+    "-N7zjtoRyoTH9QkmUTOor": {
+      "question": "8. Which website allows sending SMS via mobile?",
+      "answer": "a.Way2SMS, \nb.Google, \nc.Facebook, \nd.WhatsApp",
+      "imgurl": " "
+    },
+    "-N7zk_Jw7LNw7Wqb0QaMr": {
+      "question": "9. Which website is known for providing information in multiple languages?",
+      "answer": "a.Wikipedia, \nb.Google, \nc.Yahoo, \nd.Facebook",
+      "imgurl": " "
+    },
+    "-N7zlrlGOlrfaPcz6hzJr": {
+      "question": "10. What does IRCTC stand for?",
+      "answer": "a.Indian Railway Catering and Tourism Corporation, \nb.Indian Railways Company of Tourism and Catering, \nc.Indian Railway Corporation of Tourism and Catering, \nd.Indian Railways Tourism and Catering Corporation",
+      "imgurl": " "
+    },
+    "-N7zmX7JiYxBQijhF0Ear": {
+      "question": "11. What does OTP stand for?",
+      "answer": "a.One Time Payment, \nb.One Time Process, \nc.One Time Password, \nd.Online Transaction Process",
+      "imgurl": " "
+    },
+    "-N7zo3KiRWoU4-FCnmA1r": {
+      "question": "12. What does NIDM stand for?",
+      "answer": "a.National Indian Data Mission, \nb.New India Digital Mission, \nc.National Internet Data Mission, \nd.New India Database Mission",
+      "imgurl": " "
+    },
+    "-N7zobQ42CRxAMrqY2yqr": {
+      "question": "13. Which company owns Yahoo?",
+      "answer": "a.Google, \nb.Amazon, \nc.Microsoft, \nd.Verizon",
+      "imgurl": " "
+    },
+    "-N7zpHmtFhe_-YyOXozZr": {
+      "question": "14. Which domains are associated with Microsoft accounts?",
+      "answer": "a.Outlook and Hotmail, \nb.Gmail and Yahoo, \nc.iCloud and AOL, \nd.Zoho and ProtonMail",
+      "imgurl": " "
+    },
+    "-N7n8gBSby2sB8yULyc1r": {
+      "question": "15. Who is recognized as the Father of the Internet?",
+      "answer": "a.Vint Cerf, \nb.Bob Kahn, \nc.J.C.R. Licklider, \nd.Ray Tomlinson",
+      "imgurl": " "
+    },
+    "-N7zZkP5WST1VyUDN7db": {
+      "question": "16. Who invented the World Wide Web?",
+      "answer": "a.Bill Gates, \nb.Tim Berners-Lee, \nc.Steve Jobs, \nd.Larry Page",
+      "imgurl": " "
+    },
+    "-N7zavcUVAydz17_4YCy": {
+      "question": "17. Which of the following is NOT a web browser?",
+      "answer": "a.Google Chrome, \nb.Mozilla Firefox, \nc.Internet Explorer, \nd.VLC Media Player",
+      "imgurl": " "
+    },
+    "-N7zeSjqKfGy1HG5yCaL": {
+      "question": "18. Who invented the email service?",
+      "answer": "a.Ray Tomlinson, \nb.Vint Cerf, \nc.Tim Berners-Lee, \nd.Shabeer Bhatia",
+      "imgurl": " "
+    },
+    "-N7zflnYNkEAU9AO8ucE": {
+      "question": "19. Which is the most popular search engine?",
+      "answer": "a.Bing, \nb.Yahoo, \nc.Google, \nd.DuckDuckGo",
+      "imgurl": " "
+    },
+    "-N7zhtx5v8qt4rv8lE8g": {
+      "question": "20. What is Gmail primarily used for?",
+      "answer": "a.Searching, \nb.Email, \nc.Shopping, \nd.Social Networking",
+      "imgurl": " "
+    },
+    "-N7zjC6qqAuE06s6moMw": {
+      "question": "21. Who launched Facebook?",
+      "answer": "a.Larry Page, \nb.Steve Jobs, \nc.Mark Zuckerberg, \nd.Jeff Bezos",
+      "imgurl": " "
+    },
+    "-N7zjtoRyoTH9QkmUTOo": {
+      "question": "22. Which website allows sending SMS via mobile?",
+      "answer": "a.Way2SMS, \nb.Google, \nc.Facebook, \nd.WhatsApp",
+      "imgurl": " "
+    },
+    "-N7zk_Jw7LNw7Wqb0QaM": {
+      "question": "23. Which website is known for providing information in multiple languages?",
+      "answer": "a.Wikipedia, \nb.Google, \nc.Yahoo, \nd.Facebook",
+      "imgurl": " "
+    },
+    "-N7zlrlGOlrfaPcz6hzJ": {
+      "question": "24. What does IRCTC stand for?",
+      "answer": "a.Indian Railway Catering and Tourism Corporation, \nb.Indian Railways Company of Tourism and Catering, \nc.Indian Railway Corporation of Tourism and Catering, \nd.Indian Railways Tourism and Catering Corporation",
+      "imgurl": " "
+    },
+    "-N7zmX7JiYxBQijhF0Ea": {
+      "question": "25. What does OTP stand for?",
+      "answer": "a.One Time Payment, \nb.One Time Process, \nc.One Time Password, \nd.Online Transaction Process",
+      "imgurl": " "
+    },
+    "-N7zo3KiRWoU4-FCnmA1": {
+      "question": "26. What does NIDM stand for?",
+      "answer": "a.National Indian Data Mission, \nb.New India Digital Mission, \nc.National Internet Data Mission, \nd.New India Database Mission",
+      "imgurl": " "
+    },
+    "-N7zobQ42CRxAMrqY2yq": {
+      "question": "27. Which company owns Yahoo?",
+      "answer": "a.Google, \nb.Amazon, \nc.Microsoft, \nd.Verizon",
+      "imgurl": " "
+    },
+    "-N7zpHmtFhe_-YyOXozZ": {
+      "question": "28. Which domains are associated with Microsoft accounts?",
+      "answer": "a.Outlook and Hotmail, \nb.Gmail and Yahoo, \nc.iCloud and AOL, \nd.Zoho and ProtonMail",
+      "imgurl": " "
+    },
+    "-N7zpcgH2lPa0B0K7bX2m": {
+      "question": "29. What protocol is used for secure communication over the internet?",
+      "answer": "a.HTTP, \nb.FTP, \nc.SFTP, \nd.HTTPS",
+      "imgurl": " "
+    },
+    "-N7zqH7I3v3Q5o0XyC6A": {
+      "question": "30. Which of the following is a popular social media platform?",
+      "answer": "a.Instagram, \nb.WhatsApp, \nc.Reddit, \nd.All of the above",
+      "imgurl": " "
+    },
+    "ch10_answer_key": {
+      "question": "Answer:-",
+      "answer": "1.a, 2.b, 3.d, 4.a, 5.c, 6.b, 7.c, 8.a, 9.a, 10.a, 11.c, 12.d, 13.d, 14.a, 15.a, 16.b, 17.d, 18.a, 19.c, 20.b, 21.c, 22.a, 23.a, 24.a, 25.c, 26.d, 27.d, 28.a, 29.d, 30.d",
+      "imgurl": " "
+    }
+  },
+  "ch11": {
+    "-Q1": {
+      "question": "1. What is the primary function of a publisher in software?",
+      "answer": "a.Create documents, \nb.Edit videos, \nc.Manage data, \nd.Code websites",
+      "imgurl": " "
+    },
+    "-Q2": {
+      "question": "2. Which tool is most commonly used to add text to a publication?",
+      "answer": "a.Text Tool, \nb.Pen Tool, \nc.Brush Tool, \nd.Erase Tool",
+      "imgurl": " "
+    },
+    "-Q3": {
+      "question": "3. Which file format is often used to save publisher files?",
+      "answer": "a.PNG, \nb.PUB, \nc.MOV, \nd.MP3",
+      "imgurl": " "
+    },
+    "-Q4": {
+      "question": "4. What does 'CMYK' stand for in publishing?",
+      "answer": "a.Cyan, Magenta, Yellow, Black, \nb.Color, Magenta, Yellow, Black, \nc.Cyan, Magenta, Yellow, Key, \nd.Cyan, Mixed, Yellow, Key",
+      "imgurl": " "
+    },
+    "-Q5": {
+      "question": "5. Which of these is a page layout software?",
+      "answer": "a.Microsoft Publisher, \nb.Microsoft Word, \nc.Microsoft Excel, \nd.Microsoft PowerPoint",
+      "imgurl": " "
+    },
+    "-Q6": {
+      "question": "6. Which of the following is essential for high-quality printing?",
+      "answer": "a.High DPI, \nb.Low DPI, \nc.High FPS, \nd.Low FPS",
+      "imgurl": " "
+    },
+    "-Q7": {
+      "question": "7. Which of these is not a typeface category?",
+      "answer": "a.Serif, \nb.Sans Serif, \nc.Script, \nd.Tint",
+      "imgurl": " "
+    },
+    "-Q8": {
+      "question": "8. What is the purpose of a bleed in publishing?",
+      "answer": "a.To avoid white borders, \nb.To enhance contrast, \nc.To increase font size, \nd.To darken text",
+      "imgurl": " "
+    },
+    "-Q9": {
+      "question": "9. Which font is commonly used for formal publications?",
+      "answer": "a.Times New Roman, \nb.Comic Sans, \nc.Courier New, \nd.Verdana",
+      "imgurl": " "
+    },
+    "-Q10": {
+      "question": "10. In design, what does RGB stand for?",
+      "answer": "a.Red, Green, Blue, \nb.Red, Grey, Black, \nc.Ruby, Green, Black, \nd.Red, Green, Brown",
+      "imgurl": " "
+    },
+    "-Q11": {
+      "question": "11. Which format is best for vector images?",
+      "answer": "a.SVG, \nb.JPG, \nc.PNG, \nd.GIF",
+      "imgurl": " "
+    },
+    "-Q12": {
+      "question": "12. What type of software is Adobe InDesign?",
+      "answer": "a.Layout software, \nb.Audio software, \nc.Video software, \nd.Spreadsheet software",
+      "imgurl": " "
+    },
+    "-Q13": {
+      "question": "13. What is a 'gutter' in publishing?",
+      "answer": "a.Space between columns, \nb.Space between text and images, \nc.Extra margin space, \nd.Page border",
+      "imgurl": " "
+    },
+    "-Q14": {
+      "question": "14. What is kerning in typography?",
+      "answer": "a.Adjusting space between letters, \nb.Adjusting text color, \nc.Changing font size, \nd.Adding effects to text",
+      "imgurl": " "
+    },
+    "-Q15": {
+      "question": "15. Which of these is not a page size?",
+      "answer": "a.A1, \nb.B5, \nc.C3, \nd.D4",
+      "imgurl": " "
+    },
+    "-Q16": {
+      "question": "16. What does 'PDF' stand for?",
+      "answer": "a.Portable Document Format, \nb.Public Document Format, \nc.Printed Document File, \nd.Personal Document Folder",
+      "imgurl": " "
+    },
+    "-Q17": {
+      "question": "17. Which resolution is best for print?",
+      "answer": "a.300 DPI, \nb.72 DPI, \nc.150 DPI, \nd.600 DPI",
+      "imgurl": " "
+    },
+    "-Q18": {
+      "question": "18. Which software is commonly used to create presentations?",
+      "answer": "a.PowerPoint, \nb.Excel, \nc.Word, \nd.OneNote",
+      "imgurl": " "
+    },
+    "-Q19": {
+      "question": "19. . What does DPI stand for?",
+      "answer": "a.Dots per inch, \nb.Data per inch, \nc.Depth per inch, \nd.Detail per inch",
+      "imgurl": " "
+    },
+    "-Q20": {
+      "question": "20. What is the role of a spell checker?",
+      "answer": "a.To correct spelling errors, \nb.To check grammar, \nc.To add images, \nd.To add borders",
+      "imgurl": " "
+    },
+    "-Q21": {
+      "question": "21. What does a hyperlink do?",
+      "answer": "a.Links to another page, \nb.Saves the file, \nc.Changes font, \nd.Prints the document",
+      "imgurl": " "
+    },
+    "-Q22": {
+      "question": "22. Which color mode is used for screen displays?",
+      "answer": "a.RGB, \nb.CMYK, \nc.Grey, \nd.Lab",
+      "imgurl": " "
+    },
+    "-Q23": {
+      "question": "23. What tool helps align elements on a page?",
+      "answer": "a.Grid, \nb.Eraser, \nc.Paintbrush, \nd.Pencil",
+      "imgurl": " "
+    },
+    "-Q24": {
+      "question": "24. Which is not a type of alignment?",
+      "answer": "a.Bottom, \nb.Center, \nc.Diagonal, \nd.Left",
+      "imgurl": " "
+    },
+    "-Q25": {
+      "question": "25. What feature allows you to undo changes?",
+      "answer": "a.Undo button, \nb.Save button, \nc.Close button, \nd.Font button",
+      "imgurl": " "
+    },
+    "-Q26": {
+      "question": "26. What is used to enhance readability?",
+      "answer": "a.Line spacing, \nb.Border color, \nc.Shadows, \nd.Hyperlinks",
+      "imgurl": " "
+    },
+    "-Q27": {
+      "question": "27. What is a common file format for images?",
+      "answer": "a.PNG, \nb.PUB, \nc.PDF, \nd.XLS",
+      "imgurl": " "
+    },
+    "-Q28": {
+      "question": "28. Which tool is best for creating logos?",
+      "answer": "a.Vector software, \nb.Text editor, \nc.Spreadsheet software, \nd.Presentation software",
+      "imgurl": " "
+    },
+    "-Q29": {
+      "question": "29. What does 'aspect ratio' refer to?",
+      "answer": "a.Width and height ratio, \nb.Page color, \nc.Text alignment, \nd.Image sharpness",
+      "imgurl": " "
+    },
+    "-Q30": {
+      "question": "30. Which key command copies text?",
+      "answer": "a.Ctrl+C, \nb.Ctrl+P, \nc.Ctrl+X, \nd.Ctrl+Z",
+      "imgurl": " "
+    },
+    "-answer": {
+      "question": "Answer:-",
+      "answer": "1.a, 2.a, 3.b, 4.a, 5.a, 6.a, 7.d, 8.a, 9.a, 10.a, 11.a, 12.a, 13.a, 14.a, 15.d, 16.a, 17.a, 18.a, 19.a, 20.a, 21.a, 22.a, 23.a, 24.c, 25.a, 26.a, 27.a, 28.a, 29.a, 30.a",
+      "imgurl": " "
+    }
+  },
+  "ch12": {
+    "-NPLLjciZUTY_bTbsMIr": {
+      "question": "1. What is the definition of accounting?",
+      "answer": "a.A process of recording, classifying, and summarizing financial transactions, \nb.A method for trading goods, \nc.A system for managing inventory, \nd.None of the above",
+      "imgurl": " "
+    },
+    "-NPLM1zE6t8OxOjryI8Y": {
+      "question": "2. What is the other term used for accounting?",
+      "answer": "a.Financial analysis, \nb.Transaction recording, \nc.Accounting principles, \nd.Bookkeeping",
+      "imgurl": " "
+    },
+    "-NPLMFvLHCuOkVDcV9SV": {
+      "question": "3. What does an account represent?",
+      "answer": "a.A summary of transactions, \nb.A record of goods sold, \nc.A financial statement, \nd.A type of investment",
+      "imgurl": " "
+    },
+    "-NPLMbWjJwS15ZShx1LZ": {
+      "question": "4. How many types of accounts are there?",
+      "answer": "a.One, \nb.Two, \nc.Three, \nd.Four",
+      "imgurl": " "
+    },
+    "-NPLMzecujgY2ZYEAGcS": {
+      "question": "5. What is a personal account?",
+      "answer": "a.Accounts related to individuals or entities, \nb.Accounts related to physical assets, \nc.Accounts related to income, \nd.None of the above",
+      "imgurl": " "
+    },
+    "-NPLNIh1sGwKRv8-Wole": {
+      "question": "6. Which of the following is a type of personal account?",
+      "answer": "a.Real account, \nb.Nominal account, \nc.Representative personal account, \nd.Tangible account",
+      "imgurl": " "
+    },
+    "-NPLNUwl_L3GU82wmhBk": {
+      "question": "7. What is a natural personal account?",
+      "answer": "a.Account related to artificial entities, \nb.Account related to natural persons, \nc.Account related to goods, \nd.None of the above",
+      "imgurl": " "
+    },
+    "-NPLNoME3KZz-e7a8vZb": {
+      "question": "8. What is an artificial personal account?",
+      "answer": "a.Account related to physical assets, \nb.Account related to natural persons, \nc.Account related to artificial entities, \nd.Account related to transactions",
+      "imgurl": " "
+    },
+    "-NPLO8GppiX6P2s2JLTu": {
+      "question": "9. What is a representative personal account?",
+      "answer": "a.Account related to individuals, \nb.Account related to artificial entities, \nc.Account that stands for both natural and artificial accounts, \nd.Account related to assets",
+      "imgurl": " "
+    },
+    "-NPLOTbYe01eGHYyM_99": {
+      "question": "10. How is an account written with a person's name?",
+      "answer": "a.Without ('s), \nb.With ('s), \nc.Without ('s) or ('s), \nd.With ('s) or without",
+      "imgurl": " "
+    },
+    "-NPLOgaT8Qre_57BXICq": {
+      "question": "11. Example of writing an account with a person's name:",
+      "answer": "a.Ram's account, \nb.Ram account, \nc.Ram, \nd.Account of Ram",
+      "imgurl": " "
+    },
+    "-NPLP0-J-cgcLO-MZBa0": {
+      "question": "12. What is a Real account?",
+      "answer": "a.Account related to goods and properties, \nb.Account related to transactions, \nc.Account related to income and expenses, \nd.Account related to individuals",
+      "imgurl": " "
+    },
+    "-NPLPJkyfEK8_wci_fRI": {
+      "question": "13. What is a Tangible Real account?",
+      "answer": "a.Account related to intangible assets, \nb.Account related to physical assets, \nc.Account related to transactions, \nd.Account related to investments",
+      "imgurl": " "
+    },
+    "-NPLPcFIeuBkqwWi8TvG": {
+      "question": "14. What is an Intangible Real account?",
+      "answer": "a.Account related to physical assets, \nb.Account related to intangible assets, \nc.Account related to financial transactions, \nd.Account related to income",
+      "imgurl": " "
+    },
+    "-NPLQ4z1gIoo2zCRnvmK": {
+      "question": "15. What is a Nominal account?",
+      "answer": "a.Account related to assets, \nb.Account related to income and expenses, \nc.Account related to individuals, \nd.Account related to liabilities",
+      "imgurl": " "
+    },
+    "-NPLQVHdUaMHL6qLfrEd": {
+      "question": "16. What are Basic Accounting terms?",
+      "answer": "a.Terms related to transactions, \nb.Terms related to financial analysis, \nc.Terms related to accounting principles, \nd.None of the above",
+      "imgurl": " "
+    },
+    "-NPLQbDC_Yugpetx6N5W": {
+      "question": "17. What is Business?",
+      "answer": "a.Activity done for profit, \nb.Activity done for personal gain, \nc.Activity done for charity, \nd.Activity done for leisure",
+      "imgurl": " "
+    },
+    "-NPLQnpSW_Qk1wF5Z5MN": {
+      "question": "18. What is Capital?",
+      "answer": "a.The amount invested in business, \nb.The income from business, \nc.The total expenses, \nd.The total assets",
+      "imgurl": " "
+    },
+    "-NPLR3XyBcCweuZl2v73": {
+      "question": "19. What is a Drawing?",
+      "answer": "a.Withdrawing cash for personal use from the business, \nb.Withdrawing goods for business use, \nc.Withdrawing inventory for sale, \nd.Withdrawing loans",
+      "imgurl": " "
+    },
+    "-NPLRIkigvKwA68aPzN1": {
+      "question": "20. What are Assets?",
+      "answer": "a.Items used in business operations, \nb.Items sold in business, \nc.Items purchased for resale, \nd.Items used for personal use",
+      "imgurl": " "
+    },
+    "-NPLRfsyc187yW6bkEl0": {
+      "question": "21. How many types of assets are there?",
+      "answer": "a.One, \nb.Two, \nc.Three, \nd.Four",
+      "imgurl": " "
+    },
+    "-NPLS9Vkzt7V6YNzuetw": {
+      "question": "22. What are Tangible assets?",
+      "answer": "a.Permanent assets, \nb.Current assets, \nc.Financial assets, \nd.Non-current assets",
+      "imgurl": " "
+    },
+    "-NPLSHLb9chPiARdFxlb": {
+      "question": "23. What are Fixed assets?",
+      "answer": "a.Assets used for a long term in business, \nb.Assets used for short term in business, \nc.Assets sold immediately, \nd.Assets not used in business",
+      "imgurl": " "
+    },
+    "-NPLSfnt3Z73l3MhY3iy": {
+      "question": "24. What are Current assets?",
+      "answer": "a.Assets used temporarily in business, \nb.Assets used permanently in business, \nc.Assets held for resale, \nd.Assets used for personal purposes",
+      "imgurl": " "
+    },
+    "-NPLSuMPxTbnCAaoFCM-": {
+      "question": "25. What are Liabilities?",
+      "answer": "a.Duties to pay in the future, \nb.Duties to receive in the future, \nc.Duties to sell goods, \nd.Duties to buy assets",
+      "imgurl": " "
+    },
+    "-NPLUpXsN5gufTihQ0-W": {
+      "question": "26. How many types of liabilities are there?",
+      "answer": "a.One, \nb.Two, \nc.Three, \nd.Four",
+      "imgurl": " "
+    },
+    "-NPLVADZyi7zi27K9jfs": {
+      "question": "27. What are Fixed liabilities?",
+      "answer": "a.Liabilities payable after more than one year, \nb.Liabilities payable within one year, \nc.Liabilities payable immediately, \nd.Liabilities related to assets",
+      "imgurl": " "
+    },
+    "-NPQUx3KDxy4Ts6oUK5H": {
+      "question": "28. What are Current liabilities?",
+      "answer": "a.Liabilities payable within one year, \nb.Liabilities payable after more than one year, \nc.Liabilities related to assets, \nd.Liabilities related to investments",
+      "imgurl": " "
+    },
+    "-NPQVCHlMObU9_sXZQY5": {
+      "question": "29. What is Goods?",
+      "answer": "a.Products made for sale, \nb.Products bought for personal use, \nc.Products used for investment, \nd.Products used for charity",
+      "imgurl": " "
+    },
+    "-NPLUpXsN5gufTihQ0-Wf": {
+      "question": "30. How many types of liabilities are there?",
+      "answer": "a. One, \nb. Two, \nc. Three, \nd. Four",
+      "imgurl": " "
+    },
+    "ch12_answer_key": {
+      "question": "Answer:-",
+      "answer": "1.a, 2.d, 3.a, 4.c, 5.a, 6.c, 7.b, 8.c, 9.c, 10.a, 11.a, 12.a, 13.b, 14.b, 15.b, 16.c, 17.a, 18.a, 19.a, 20.a, 21.b, 22.a, 23.a, 24.a, 25.a, 26.b, 27.a, 28.a, 29.a, 30.a",
+      "imgurl": " "
+    }
+  },
+  "ch13": {
+    "-N7Em6Evh_khKqeCBcdCj01": {
+      "question": "1. Page Maker किस प्रकार का Software है?",
+      "answer": "a. Web Design, \nb. Desktop Publishing, \nc. Video Editing, \nd. Graphic Design",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj02": {
+      "question": "2. Page Maker का File Extension क्या होता है?",
+      "answer": "a. .pdf, \nb. .docx, \nc. .pmd, \nd. .jpg",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj03": {
+      "question": "3. Pointer Tool का उपयोग किसलिए किया जाता है?",
+      "answer": "a. Text Formatting, \nb. Object Selection, \nc. Image Editing, \nd. Layer Management",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj04": {
+      "question": "4. Master Page का क्या कार्य होता है?",
+      "answer": "a. Page Design, \nb. Color Correction, \nc. Animation, \nd. Page Numbering",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj05": {
+      "question": "5. Page Maker में Text Editing करने के लिए किस Tool का प्रयोग किया जाता है?",
+      "answer": "a. Pointer Tool, \nb. Text Tool, \nc. Line Tool, \nd. Rectangle Tool",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj06": {
+      "question": "6. Page Maker में Layout Design करने के लिए कौन सा Tool प्रयोग होता है?",
+      "answer": "a. Text Tool, \nb. Layout Tool, \nc. Image Tool, \nd. Ruler Tool",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj07": {
+      "question": "7. Page Maker में Page Size को कहाँ सेट किया जाता है?",
+      "answer": "a. File Menu, \nb. Edit Menu, \nc. Layout Menu, \nd. Format Menu",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj08": {
+      "question": "8. Page Maker में Layer का प्रयोग किसलिए किया जाता है?",
+      "answer": "a. Background Image, \nb. Object Management, \nc. Text Formatting, \nd. Color Correction",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj09": {
+      "question": "9. Page Maker में Guide Lines का क्या कार्य होता है?",
+      "answer": "a. Image Editing, \nb. Text Alignment, \nc. Object Positioning, \nd. Layer Management",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj10": {
+      "question": "10. Page Maker में Graphics Insert करने का Option किस Menu में होता है?",
+      "answer": "a. File Menu, \nb. Layout Menu, \nc. Element Menu, \nd. Format Menu",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj11": {
+      "question": "11. Page Maker में Link Manager का उपयोग किसके लिए किया जाता है?",
+      "answer": "a. Text Formatting, \nb. Object Management, \nc. Hyperlink Creation, \nd. Color Correction",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj12": {
+      "question": "12. Page Maker में एक Page को दूसरे Page से कैसे जोड़ा जाता है?",
+      "answer": "a. Layout Menu, \nb. Link Manager, \nc. Element Menu, vd. Tools Menu",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj13": {
+      "question": "13. Page Maker में Text को Bold कैसे किया जाता है?",
+      "answer": "a. Font Menu, \nb. Text Tool, \nc. Bold Tool, \nd. Style Menu",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj14": {
+      "question": "14. Page Maker में Drop Cap का क्या उपयोग है?",
+      "answer": "a. Page Layout, \nb. Text Formatting, \nc. Image Editing, \nd. Paragraph Styling",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj15": {
+      "question": "15. Page Maker में Text Frame को कैसे Resize किया जाता है?",
+      "answer": "a. Pointer Tool, \nb. Resize Tool, \nc. Frame Tool, \nd. Layout Tool",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj16": {
+      "question": "16. Page Maker में एक Page से दूसरे Page में Text Flow कैसे किया जाता है?",
+      "answer": "a. Text Tool, \nb. Page Tool, \nc. Flow Tool, \nd. Text Frame Tool",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj17": {
+      "question": "17. Page Maker में Header और Footer कहाँ सेट किया जाता है?",
+      "answer": "a. File Menu, \nb. Layout Menu, \nc. Format Menu, \nd. Master Page",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj18": {
+      "question": "18. Page Maker में Text को Center Align कैसे किया जाता है?",
+      "answer": "a. Text Tool, \nb. Align Tool, \nc. Format Menu, \nd. Layout Menu",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj19": {
+      "question": "19. Page Maker में Tabs का उपयोग किसके लिए किया जाता है?",
+      "answer": "a. Paragraph Alignment, \nb. Text Styling, \nc. Image Editing, vd. Layer Management",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj20": {
+      "question": "20. Page Maker में Text Frame को एक लाइन में सेट करने के लिए किस Tool का उपयोग किया जाता है?",
+      "answer": "a. Text Tool, \nb. Ruler Tool, vc. Align Tool, \nd. Frame Tool",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj21": {
+      "question": "21. Page Maker में एक ही Document में Multiple Columns कैसे बनाए जाते हैं?",
+      "answer": "a. Page Tool, \nb. Layout Tool, \nc. Column Tool, \nd. Text Frame Tool",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj22": {
+      "question": "22. Page Maker में Index कैसे बनाया जाता है?",
+      "answer": "a. Format Menu, \nb. Layout Menu, \nc. Index Manager, \nd. Tools Menu",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj23": {
+      "question": "23. Page Maker में एक Object को Rotate करने के लिए कौन सा Tool उपयोग होता है?",
+      "answer": "a. Rotate Tool, \nb. Object Tool, \nc. Pointer Tool, \nd. Layout Tool",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj24": {
+      "question": "24. Page Maker में Text Wrap का क्या कार्य होता है?",
+      "answer": "a. Text Editing, \nb. Text Styling, \nc. Image Formatting, vd. Text Layout",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj25": {
+      "question": "25. Page Maker में Ruler Guide का क्या उपयोग है?",
+      "answer": "a. Page Layout, \nb. Text Formatting, \nc. Image Editing, \nd. Paragraph Styling",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj26": {
+      "question": "26. Page Maker में एक Page का Orientation कैसे बदला जाता है?",
+      "answer": "a. Page Menu, \nb. Layout Menu, \nc. File Menu, \nd. Format Menu",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj27": {
+      "question": "27. Page Maker में Image के पीछे Text को कैसे सेट किया जाता है?",
+      "answer": "a. Text Tool, \nb. Image Tool, \nc. Layer Tool, \nd. Arrange Tool",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj28": {
+      "question": "28. Page Maker में एक Page के सभी Objects को Select करने के लिए किस Shortcut का उपयोग होता है?",
+      "answer": "a. Ctrl + A, \nb. Ctrl + S, \nc. Ctrl + P, \nd. Ctrl + L",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj29": {
+      "question": "29. Page Maker में एक Page को Duplicate कैसे किया जाता है?",
+      "answer": "a. File Menu, \nb. Edit Menu, \nc. Layout Menu, \nd. Tools Menu",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcdCj30": {
+      "question": "30. Page Maker में एक Object को Lock कैसे किया जाता है?",
+      "answer": "a. Lock Tool, \nb. Object Menu, \nc. Format Menu, \nd. Layout Menu",
+      "imgurl": ""
+    },
+    "-N7Em6Evh_khKqeCBcpdCj30": {
+      "question": "Answer:-",
+      "answer": "1.b, 2.c, 3.b, 4.a, 5.b, 6.b, 7.c, 8.b, 9.c, 10.c, 11.b, 12.b, 13.c, 14.d, 15.a, 16.c, 17.d, 18.c, 19.a, 20.b, 21.b, 22.c, 23.a, 24.d, 25.a, 26.b, 27.d, 28.a, 29.b, 30.b",
+      "imgurl": ""
+    }
+  },
+  "ch14": {
+    "-Q1": {
+      "question": "1. Which company originally created Photoshop?",
+      "answer": "a.Adobe, \nb.Corel, \nc.GIMP, \nd.Microsoft",
+      "imgurl": " "
+    },
+    "-Q2": {
+      "question": "2. Which file extension is used for Adobe Photoshop files?",
+      "answer": "a..psd, \nb..png, \nc..jpg, \nd..gif",
+      "imgurl": " "
+    },
+    "-Q3": {
+      "question": "3. Which tool is used to select a rectangular area in Photoshop?",
+      "answer": "a.Lasso Tool, \nb.Marquee Tool, \nc.Pen Tool, \nd.Crop Tool",
+      "imgurl": " "
+    },
+    "-Q4": {
+      "question": "4. What is the default color mode for new documents in Photoshop?",
+      "answer": "a.RGB, \nb.CMYK, \nc.Grayscale, \nd.Lab Color",
+      "imgurl": " "
+    },
+    "-Q5": {
+      "question": "5. Which feature in Photoshop is used to adjust the opacity of a layer?",
+      "answer": "a.Layer Mask, \nb.Blending Mode, \nc.Opacity Slider, \nd.Fill Slider",
+      "imgurl": " "
+    },
+    "-Q6": {
+      "question": "6.Which tool in Photoshop is used to remove blemishes and imperfections?",
+      "answer": "a. Healing Brush Tool, \nb.Clone Stamp Tool,\n c.Spot Healing Brush Tool, \nd.Patch Tool",
+      "imgurl": " "
+    },
+    "-Q7": {
+      "question": "7. Which panel is used to manage layers in Photoshop?",
+      "answer": "a. History Panel, \nb.Layers Panel, \nc.Tools Panel, \nd.Styles Panel",
+      "imgurl": " "
+    },
+    "-Q8": {
+      "question": "8. Which tool is used to create a selection based on color similarity?",
+      "answer": "a.Quick Selection Tool, \nb.Magic Wand Tool, \nc.Pen Tool, \nd.Lasso Tool",
+      "imgurl": " "
+    },
+    "-Q9": {
+      "question": "9. What does the 'Ctrl + T' shortcut do in Photoshop?",
+      "answer": "a.Transform, \nb.Text Tool, \nc.Select All, \nd.Crop",
+      "imgurl": " "
+    },
+    "-Q10": {
+      "question": "10. Which menu contains the option to adjust Levels in Photoshop?",
+      "answer": "a.Image, \nb.Edit, \nc.Filter, \nd.Layer",
+      "imgurl": " "
+    },
+    "-Q11": {
+      "question": "11. What is the name of the feature that allows you to combine multiple layers into a single layer?",
+      "answer": "a.Merge Layers, \nb.Flatten Image, \nc.Group Layers, \nd.Link Layers",
+      "imgurl": " "
+    },
+    "-Q12": {
+      "question": "12. Which tool is used to draw paths and shapes in Photoshop?",
+      "answer": "a.Pen Tool, \nb.Brush Tool, \nc.Eraser Tool, \nd.Magic Wand Tool",
+      "imgurl": " "
+    },
+    "-Q13": {
+      "question": "13. Which color mode is best for printing?",
+      "answer": "a.RGB, \nb.CMYK, \nc.Grayscale, \nd.Indexed Color",
+      "imgurl": " "
+    },
+    "-Q14": {
+      "question": "14. Which filter is used to sharpen images in Photoshop?",
+      "answer": "a.Gaussian Blur, \nb.Unsharp Mask, \nc.Motion Blur, \nd.Smart Blur",
+      "imgurl": " "
+    },
+    "-Q15": {
+      "question": "15. Which Photoshop feature allows you to apply the same effect to multiple layers at once?",
+      "answer": "a.Layer Style, \nb.Adjustment Layer, \nc.Smart Object, \nd.Layer Mask",
+      "imgurl": " "
+    },
+    "-Q16": {
+      "question": "16. Which tool is used to create gradients in Photoshop?",
+      "answer": "a.Paint Bucket Tool, \nb.Gradient Tool, \nc.Pen Tool, \nd.Brush Tool",
+      "imgurl": " "
+    },
+    "-Q17": {
+      "question": "17. What is the purpose of the Clone Stamp Tool in Photoshop?",
+      "answer": "a.To duplicate parts of an image, \nb.To remove red-eye, \nc.To create vector shapes, \nd.To fill a selection with color",
+      "imgurl": " "
+    },
+    "-Q18": {
+      "question": "18. Which Photoshop feature is used to adjust the brightness and contrast of an image?",
+      "answer": "a.Levels, \nb.Curves, \nc.Brightness/Contrast, \nd.Exposure",
+      "imgurl": " "
+    },
+    "-Q19": {
+      "question": "19. Which Photoshop tool is used to paint with the foreground color?",
+      "answer": "a. Brush Tool, \nb. Paint Bucket Tool, \nc. Pen Tool, \nd. Eraser Tool",
+      "imgurl": " "
+    },
+    "-Q20": {
+      "question": "20. What is the shortcut for duplicating a layer in Photoshop?",
+      "answer": "a. Ctrl + J, \nb. Ctrl + D, \nc. Ctrl + E, \nd. Ctrl + L",
+      "imgurl": " "
+    },
+    "-Q21": {
+      "question": "21. Which file format is commonly used for web graphics in Photoshop?",
+      "answer": "a. PNG, \nb. TIFF, \nc. BMP, \nd. PSD",
+      "imgurl": " "
+    },
+    "-Q22": {
+      "question": "22. Which tool allows you to move a selected area in Photoshop?",
+      "answer": "a. Move Tool, \nb. Pan Tool, \nc. Crop Tool, \nd. Zoom Tool",
+      "imgurl": " "
+    },
+    "-Q23": {
+      "question": "23. Which Photoshop feature is used to convert an image to black and white?",
+      "answer": "a. Grayscale, \nb. Black & White Adjustment Layer, \nc. Desaturate, \nd. Hue/Saturation",
+      "imgurl": " "
+    },
+    "-Q24": {
+      "question": "24. What does the 'Ctrl + Z' shortcut do in Photoshop?",
+      "answer": "a. Undo, \nb. Redo, \nc. Zoom, \nd. Save",
+      "imgurl": " "
+    },
+    "-Q25": {
+      "question": "25. Which tool is used to erase parts of an image in Photoshop?",
+      "answer": "a. Eraser Tool, \nb. Background Eraser Tool, \nc. Magic Eraser Tool, \nd. All of the above",
+      "imgurl": " "
+    },
+    "-Q26": {
+      "question": "26. Which Photoshop feature allows you to adjust the hue and saturation of an image?",
+      "answer": "a. Hue/Saturation, \nb. Color Balance, \nc. Vibrance, \nd. Exposure",
+      "imgurl": " "
+    },
+    "-Q27": {
+      "question": "27. Which filter is used to create a soft blur effect in Photoshop?",
+      "answer": "a.Motion Blur, \nb.Gaussian Blur, \nc.Radial Blur, vd.Lens Blur",
+      "imgurl": " "
+    },
+    "-Q28": {
+      "question": "28. Which tool is used to fill an area with a single color in Photoshop?",
+      "answer": "a.Paint Bucket Tool, \nb.Brush Tool, \nc.Gradient Tool, \nd.Clone Stamp Tool",
+      "imgurl": " "
+    },
+    "-Q29": {
+      "question": "29. Which Photoshop feature allows you to adjust the sharpness of an image?",
+      "answer": "a.Unsharp Mask, \nb.High Pass, \nc.Sharpen Tool, \nd.All of the above",
+      "imgurl": " "
+    },
+    "-Q30": {
+      "question": "30. What is the purpose of the Quick Selection Tool in Photoshop?",
+      "answer": "a.To select an area based on color similarity, \nb.To draw paths, \nc.To create vector shapes, \nd.To erase parts of an image",
+      "imgurl": " "
+    },
+    "-Q3df": {
+      "question": "Answer:",
+      "answer": "1.b, 2.a, 3.b, 4.a, 5.c, 6.c, 7.b, 8.b, 9.a, 10.a, 11.b, 12.a, 13.b, 14.b, 15.b, 16.b, 17.a, 18.c, 19.a, 20.a, 21.a, 22.a, 23.b, 24.a, 25.d, 26.a, 27.b, 28.a, 29.d, 30.a",
+      "imgurl": " "
+    }
+  },
+  "ch15": {
+    "-Q1": {
+      "question": "1. Corel Draw is primarily used for which type of design?",
+      "answer": "a. Text Editing, \nb. Logo Design, \nc. Web Development, \nd. Video Editing",
+      "imgurl": " "
+    },
+    "-Q2": {
+      "question": "2. Which toolbar in Corel Draw allows you to create a new page or cut, copy, and paste?",
+      "answer": "a. Standard Toolbar, \nb. Toolbox, \nc. Menu Bar, \nd. Shape Tool",
+      "imgurl": " "
+    },
+    "-Q3": {
+      "question": "3. What is the function of the 'Pick Tool' in Corel Draw?",
+      "answer": "a. To draw shapes, \nb. To select and move objects, \nc. To color objects, \nd. To zoom in and out",
+      "imgurl": " "
+    },
+    "-Q4": {
+      "question": "4. Which tool is used to curve lines or objects in Corel Draw?",
+      "answer": "a. Knife Tool, \nb. Eraser Tool, \nc. Curve Tool, \nd. Zoom Tool",
+      "imgurl": " "
+    },
+    "-Q5": {
+      "question": "5. What is the purpose of the 'Knife Tool' in Corel Draw?",
+      "answer": "a. To draw circles, \nb. To cut objects based on points, \nc. To fill colors, \nd. To select objects",
+      "imgurl": " "
+    },
+    "-Q6": {
+      "question": "6. Which tool is used to erase lines or objects in Corel Draw?",
+      "answer": "a. Eraser Tool, \nb. Pick Tool, \nc. Freehand Tool, \nd. Zoom Tool",
+      "imgurl": " "
+    },
+    "-Q7": {
+      "question": "7. What is the 'Smudge Tool' used for in Corel Draw?",
+      "answer": "a. To draw straight lines, \nb. To add points to lines, \nc. To erase curves, \nd. To select objects",
+      "imgurl": " "
+    },
+    "-Q8": {
+      "question": "8. Which tool in Corel Draw allows for zigzag design creation?",
+      "answer": "a. Free Transform Tool, \nb. Roughen Brush, \nc. Artistic Media Tool, \nd. Bezier Tool",
+      "imgurl": " "
+    },
+    "-Q9": {
+      "question": "9. The 'Free Transform Tool' in Corel Draw allows you to do what with an object?",
+      "answer": "a. Rotate it from any point, \nb. Color it, \nc. Cut it, \nd. Erase it",
+      "imgurl": " "
+    },
+    "-Q10": {
+      "question": "10. How can you zoom in or out in Corel Draw?",
+      "answer": "a. Using the Knife Tool, \nb. Using the Eraser Tool, \nc. Using the Zoom Tool, \nd. Using the Hand Tool",
+      "imgurl": " "
+    },
+    "-Q11": {
+      "question": "11. What is the function of the 'Hand Tool' in Corel Draw?",
+      "answer": "a. To draw freehand lines, \nb. To move the page around, \nc. To fill colors, \nd. To create text",
+      "imgurl": " "
+    },
+    "-Q12": {
+      "question": "12. Which tool allows you to draw lines freely in Corel Draw?",
+      "answer": "a. Freehand Tool, \nb. Pen Tool, \nc. Knife Tool, \nd. Zoom Tool",
+      "imgurl": " "
+    },
+    "-Q13": {
+      "question": "13. The 'Bezier Tool' in Corel Draw is used for what?",
+      "answer": "a. Drawing shapes, \nb. Drawing curved or straight lines, \nc. Filling colors, \nd. Erasing objects",
+      "imgurl": " "
+    },
+    "-Q14": {
+      "question": "14. What does the 'Artistic Media Tool' in Corel Draw allow you to do?",
+      "answer": "a. Draw freehand lines, \nb. Use artistic designs, \nc. Create 3D objects, \nd. Select colors",
+      "imgurl": " "
+    },
+    "-Q15": {
+      "question": "15. Which tool is used to draw lines based on points in Corel Draw?",
+      "answer": "a. Pen Tool, \nb. Knife Tool, \nc. Smudge Tool, \nd. Fill Tool",
+      "imgurl": " "
+    },
+    "-Q16": {
+      "question": "16. The 'Polygon Tool' is used to create which shapes in Corel Draw?",
+      "answer": "a. Circles, \nb. Rectangles, \nc. Polygons, \nd. Spirals",
+      "imgurl": " "
+    },
+    "-Q17": {
+      "question": "17. What can the 'Interactive Connector Tool' in Corel Draw do?",
+      "answer": "a. Draw lines between shapes, \nb. Color objects, \nc. Select objects, \nd. Create new pages",
+      "imgurl": " "
+    },
+    "-Q18": {
+      "question": "18. Which tool is used to draw dimension-based lines in Corel Draw?",
+      "answer": "a. Knife Tool, \nb. Dimension Tool, \nc. Freehand Tool, \nd. Bezier Tool",
+      "imgurl": " "
+    },
+    "-Q19": {
+      "question": "19. What is the purpose of the 'Rectangle Tool' in Corel Draw?",
+      "answer": "a. To draw circles, \nb. To create text, \nc. To draw rectangles, \nd. To zoom in",
+      "imgurl": " "
+    },
+    "-Q20": {
+      "question": "20. Which tool allows you to draw a three-point rectangle in Corel Draw?",
+      "answer": "a. Three Point Rectangle Tool, \nb. Ellipse Tool, \nc. Pen Tool, \nd. Artistic Media Tool",
+      "imgurl": " "
+    },
+    "-Q21": {
+      "question": "21. What shape does the 'Ellipse Tool' create in Corel Draw?",
+      "answer": "a. Rectangle, \nb. Circle or Oval, \nc. Line, \nd. Triangle",
+      "imgurl": " "
+    },
+    "-Q22": {
+      "question": "22. The 'Graph Paper Tool' in Corel Draw is used to create what?",
+      "answer": "a. Spirals, \nb. Grid-like shapes, \nc. Polygons, \nd. Freehand lines",
+      "imgurl": " "
+    },
+    "-Q23": {
+      "question": "23. Which tool is used to create spiral shapes in Corel Draw?",
+      "answer": "a. Spiral Tool, \nb. Rectangle Tool, \nc. Polygon Tool, \nd. Text Tool",
+      "imgurl": " "
+    },
+    "-Q24": {
+      "question": "24. What is the function of the 'Basic Shape' tool in Corel Draw?",
+      "answer": "a. Draw unique shapes, \nb. Draw polygons, \nc. Draw spirals, \nd. Draw text",
+      "imgurl": " "
+    },
+    "-Q25": {
+      "question": "25. Which tool is used to create flowchart shapes in Corel Draw?",
+      "answer": "a. Artistic Media Tool, \nb. Flowchart Shape Tool, \nc. Eraser Tool, \nd. Zoom Tool",
+      "imgurl": " "
+    },
+    "-Q26": {
+      "question": "26. How is the 'Text Tool' in Corel Draw utilized?",
+      "answer": "a. To select objects, \nb. To draw shapes, \nc. To write text, \nd. To erase objects",
+      "imgurl": " "
+    },
+    "-Q27": {
+      "question": "27. The 'Eyedropper Tool' in Corel Draw is used for what purpose?",
+      "answer": "a. To select colors, \nb. To zoom in, \nc. To draw lines, \nd. To create shapes",
+      "imgurl": " "
+    },
+    "-Q28": {
+      "question": "28. Which tool fills objects with color in Corel Draw?",
+      "answer": "a. Fill Tool, \nb. Eyedropper Tool, \nc. Knife Tool, \nd. Bezier Tool",
+      "imgurl": " "
+    },
+    "-Q29": {
+      "question": "29. What does the 'Outline Pen Dialog' allow you to do in Corel Draw?",
+      "answer": "a. Fill objects, \nb. Format outlines, \nc. Create text, \nd. Draw freehand",
+      "imgurl": " "
+    },
+    "-Q30": {
+      "question": "30. Which tool allows the filling of gradients in Corel Draw?",
+      "answer": "a. Fountain Fill Dialog, \nb. Bezier Tool, \nc. Spiral Tool, \nd. Freehand Tool",
+      "imgurl": " "
+    },
+    "-Q3df": {
+      "question": "Answer:",
+      "answer": "1.b, 2.a, 3.b, 4.c, 5.b, 6.a, 7.b, 8.b, 9.a, 10.c, 11.b, 12.a, 13.b, 14.b, 15.a, 16.c, 17.a, 18.b, 19.c, 20.a, 21.b, 22.b, 23.a, 24.a, 25.b, 26.c, 27.a, 28.a, 29.b, 30.a",
+      "imgurl": " "
+    }
+  },
+  "ch16": {
+    "-Q1": {
+      "question": "1. What is the shortcut key for 'New Document' in Corel Draw?",
+      "answer": "a. Ctrl + N, \nb. Ctrl + O, \nc. Ctrl + P, \nd. Ctrl + S",
+      "imgurl": " "
+    },
+    "-Q2": {
+      "question": "2. Which shortcut key is used to 'Open' an existing document in Corel Draw?",
+      "answer": "a. Ctrl + O, \nb. Ctrl + N, \nc. Ctrl + P, \nd. Ctrl + F",
+      "imgurl": " "
+    },
+    "-Q3": {
+      "question": "3. What is the shortcut for 'Print' in Corel Draw?",
+      "answer": "a. Ctrl + P, \nb. Ctrl + S, \nc. Ctrl + A, \nd. Ctrl + Q",
+      "imgurl": " "
+    },
+    "-Q4": {
+      "question": "4. Which key combination is used to 'Save' a document in Corel Draw?",
+      "answer": "a. Ctrl + S, \nb. Ctrl + N, \nc. Ctrl + A, \nd. Ctrl + M",
+      "imgurl": " "
+    },
+    "-Q5": {
+      "question": "5. What is the shortcut for 'Undo' in Corel Draw?",
+      "answer": "a. Ctrl + Z, \nb. Ctrl + Y, \nc. Ctrl + X, \nd. Ctrl + C",
+      "imgurl": " "
+    },
+    "-Q6": {
+      "question": "6. Which shortcut key is used for 'Redo' in Corel Draw?",
+      "answer": "a. Ctrl + Y, \nb. Ctrl + Z, \nc. Ctrl + R, \nd. Ctrl + C",
+      "imgurl": " "
+    },
+    "-Q7": {
+      "question": "7. What is the shortcut for 'Cut' in Corel Draw?",
+      "answer": "a. Ctrl + X, \nb. Ctrl + C, \nc. Ctrl + V, \nd. Ctrl + Z",
+      "imgurl": " "
+    },
+    "-Q8": {
+      "question": "8. Which shortcut key is used for 'Copy' in Corel Draw?",
+      "answer": "a. Ctrl + C, \nb. Ctrl + X, \nc. Ctrl + V, \nd. Ctrl + P",
+      "imgurl": " "
+    },
+    "-Q9": {
+      "question": "9. What is the shortcut for 'Paste' in Corel Draw?",
+      "answer": "a. Ctrl + V, \nb. Ctrl + P, \nc. Ctrl + X, \nd. Ctrl + C",
+      "imgurl": " "
+    },
+    "-Q10": {
+      "question": "10. Which key combination is used to 'Select All' in Corel Draw?",
+      "answer": "a. Ctrl + A, \nb. Ctrl + S, \nc. Ctrl + D, \nd. Ctrl + N",
+      "imgurl": " "
+    },
+    "-Q11": {
+      "question": "11. What is the shortcut for 'Group' in Corel Draw?",
+      "answer": "a. Ctrl + G, \nb. Ctrl + H, \nc. Ctrl + E, \nd. Ctrl + A",
+      "imgurl": " "
+    },
+    "-Q12": {
+      "question": "12. Which shortcut key is used for 'Ungroup' in Corel Draw?",
+      "answer": "a. Ctrl + U, \nb. Ctrl + G, \nc. Ctrl + H, \nd. Ctrl + E",
+      "imgurl": " "
+    },
+    "-Q13": {
+      "question": "13. What is the shortcut for 'Zoom In' in Corel Draw?",
+      "answer": "a. Ctrl + +, \nb. Ctrl + -, \nc. Ctrl + 0, \nd. Ctrl + A",
+      "imgurl": " "
+    },
+    "-Q14": {
+      "question": "14. Which key combination is used for 'Zoom Out' in Corel Draw?",
+      "answer": "a. Ctrl + -, \nb. Ctrl + +, \nc. Ctrl + 0, \nd. Ctrl + P",
+      "imgurl": " "
+    },
+    "-Q15": {
+      "question": "15. What is the shortcut for 'Show/Hide Rulers' in Corel Draw?",
+      "answer": "a. Ctrl + R, \nb. Ctrl + T, \nc. Ctrl + L, \nd. Ctrl + U",
+      "imgurl": " "
+    },
+    "-Q16": {
+      "question": "16. Which shortcut key is used to 'Align' objects in Corel Draw?",
+      "answer": "a. Ctrl + Shift + A, \nb. Ctrl + A, \nc. Ctrl + E, \nd. Ctrl + R",
+      "imgurl": " "
+    },
+    "-Q17": {
+      "question": "17. What is the shortcut for 'Fit in Window' in Corel Draw?",
+      "answer": "a. Ctrl + 0, \nb. Ctrl + +, \nc. Ctrl + -, \nd. Ctrl + F",
+      "imgurl": " "
+    },
+    "-Q18": {
+      "question": "18. Which shortcut key is used to 'Bring to Front' in Corel Draw?",
+      "answer": "a. Ctrl + Shift + F, \nb. Ctrl + B, \nc. Ctrl + R, \nd. Ctrl + E",
+      "imgurl": " "
+    },
+    "-Q19": {
+      "question": "19. What is the shortcut for 'Send to Back' in Corel Draw?",
+      "answer": "a. Ctrl + Shift + B, \nb. Ctrl + F, \nc. Ctrl + R, \nd. Ctrl + E",
+      "imgurl": " "
+    },
+    "-Q20": {
+      "question": "20. Which shortcut key is used to 'Duplicate' an object in Corel Draw?",
+      "answer": "a. Ctrl + D, \nb. Ctrl + C, \nc. Ctrl + X, \nd. Ctrl + V",
+      "imgurl": " "
+    },
+    "-Q21": {
+      "question": "21. What is the shortcut for 'Change Object Color' in Corel Draw?",
+      "answer": "a. Shift + F11, \nb. Shift + F12, \nc. Shift + F10, \nd. Shift + F9",
+      "imgurl": " "
+    },
+    "-Q22": {
+      "question": "22. Which shortcut key is used to 'Create Outlines' in Corel Draw?",
+      "answer": "a. Ctrl + Shift + O, \nb. Ctrl + O, \nc. Ctrl + C, \nd. Ctrl + U",
+      "imgurl": " "
+    },
+    "-Q23": {
+      "question": "23. What is the shortcut for 'Blend' in Corel Draw?",
+      "answer": "a. Ctrl + Shift + B, \nb. Ctrl + B, \nc. Ctrl + L, \nd. Ctrl + D",
+      "imgurl": " "
+    },
+    "-Q24": {
+      "question": "24. Which shortcut key is used for 'Fill with Color' in Corel Draw?",
+      "answer": "a. Shift + F5, \nb. Shift + F6, \nc. Shift + F7, \nd. Shift + F8",
+      "imgurl": " "
+    },
+    "-Q25": {
+      "question": "25. What is the shortcut for 'Activate Rectangle Tool' in Corel Draw?",
+      "answer": "a. F6, \nb. F5, \nc. F4, \nd. F3",
+      "imgurl": " "
+    },
+    "-Q26": {
+      "question": "26. Which shortcut key is used to 'Activate Ellipse Tool' in Corel Draw?",
+      "answer": "a. F7, \nb. F6, \nc. F5, \nd. F4",
+      "imgurl": " "
+    },
+    "-Q27": {
+      "question": "27. What is the shortcut for 'Activate Polygon Tool' in Corel Draw?",
+      "answer": "a. F8, \nb. F7, \nc. F6, \nd. F5",
+      "imgurl": " "
+    },
+    "-Q28": {
+      "question": "28. Which shortcut is used to 'Toggle Snap to Grid' in Corel Draw?",
+      "answer": "a. Shift + Ctrl + G, \nb. Shift + G, \nc. Alt + G, \nd. Ctrl + Alt + G",
+      "imgurl": " "
+    },
+    "-Q29": {
+      "question": "29. What is the shortcut for 'Lock Object' in Corel Draw?",
+      "answer": "a. Ctrl + L, \nb. Ctrl + K, \nc. Ctrl + J, \nd. Ctrl + M",
+      "imgurl": " "
+    },
+    "-Q30": {
+      "question": "30. Which shortcut key is used to 'Unlock All Objects' in Corel Draw?",
+      "answer": "a. Ctrl + Shift + L, \nb. Ctrl + Shift + U, \nc. Ctrl + Shift + K, \nd. Ctrl + Shift + J",
+      "imgurl": " "
+    },
+    "-Q3df": {
+      "question": "Answer:",
+      "answer": "1.a, 2.a, 3.a, 4.a, 5.a, 6.a, 7.a, 8.a, 9.a, 10.a, 11.a, 12.a, 13.a, 14.a, 15.a, 16.a, 17.a, 18.a, 19.a, 20.a, 21.a, 22.a, 23.a, 24.a, 25.a, 26.a, 27.a, 28.a, 29.a, 30.a",
+      "imgurl": " "
+    }
+  },
+  "ch17": {
+    "-Q1": {
+      "question": "1. What does the full form of 'CPU' stand for?",
+      "answer": "a. Central Processing Unit, \nb. Computer Processing Unit, \nc. Central Performance Unit, \nd. Central Power Unit",
+      "imgurl": " "
+    },
+    "-Q2": {
+      "question": "2. What does 'RAM' stand for in computer memory?",
+      "answer": "a. Random Access Memory, \nb. Read Access Memory, \nc. Read-Only Memory, \nd. Rapid Access Memory",
+      "imgurl": " "
+    },
+    "-Q3": {
+      "question": "3. What does 'ROM' represent in computing?",
+      "answer": "b. Read-Only Memory, \na. Random-Only Memory, \nc. Read Access Memory, \nd. Readable Output Memory",
+      "imgurl": " "
+    },
+    "-Q4": {
+      "question": "4. What is the full form of 'BIOS'?",
+      "answer": "b. Basic Input Output System, \na. Binary Input Output System, \nc. Basic Integrated Operating System, \nd. Basic Input Operations System",
+      "imgurl": " "
+    },
+    "-Q5": {
+      "question": "5. What does 'USB' stand for?",
+      "answer": "b. Universal Serial Bus, \na. Universal Standard Bus, \nc. Universal System Bus, \nd. Unique Serial Bus",
+      "imgurl": " "
+    },
+    "-Q6": {
+      "question": "6. What does 'HTTP' stand for?",
+      "answer": "a. Hypertext Transfer Protocol, \nb. Hyper Transfer Text Protocol, \nc. Hypertext Transmission Protocol, \nd. High Transfer Text Protocol",
+      "imgurl": " "
+    },
+    "-Q7": {
+      "question": "7. What is the full form of 'IP' in networking?",
+      "answer": "b. Internet Protocol, \na. Internal Protocol, \nc. Interconnected Protocol, \nd. Integrated Protocol",
+      "imgurl": " "
+    },
+    "-Q8": {
+      "question": "8. What does 'DNS' stand for?",
+      "answer": "a. Domain Name System, \nb. Domain Network System, \nc. Domain Number System, \nd. Domain Navigation System",
+      "imgurl": " "
+    },
+    "-Q9": {
+      "question": "9. What is the full form of 'ISP'?",
+      "answer": "b. Internet Service Provider, \na. Internal Service Provider, \nc. Integrated Service Provider, \nd. Interconnected Service Provider",
+      "imgurl": " "
+    },
+    "-Q10": {
+      "question": "10. What does 'WWW' stand for?",
+      "answer": "b. World Wide Web, \na. World Web Wide, \nc. Web World Wide, \nd. Wide World Web",
+      "imgurl": " "
+    },
+    "-Q11": {
+      "question": "11. What is the full form of 'GUI'?",
+      "answer": "a. Graphical User Interface, \nb. Graphical Unified Interface, \nc. General User Interface, \nd. Generalized User Interface",
+      "imgurl": " "
+    },
+    "-Q12": {
+      "question": "12. What does 'SQL' stand for?",
+      "answer": "b. Structured Query Language, \na. Structured Quick Language, \nc. Standard Query Language, \nd. Standard Quick Language",
+      "imgurl": " "
+    },
+    "-Q13": {
+      "question": "13. What is the full form of 'VPN'?",
+      "answer": "b. Virtual Private Network, \na. Virtual Protected Network, \nc. Verified Private Network, \nd. Verified Protected Network",
+      "imgurl": " "
+    },
+    "-Q14": {
+      "question": "14. What does 'SSD' stand for in storage?",
+      "answer": "a. Solid State Drive, \nb. Solid Storage Device, \nc. Solid State Disk, \nd. Secure State Drive",
+      "imgurl": " "
+    },
+    "-Q15": {
+      "question": "15. What is the full form of 'FTP'?",
+      "answer": "b. File Transfer Protocol, \na. Fast Transfer Protocol, \nc. File Transmission Protocol, \nd. Fast Transmission Protocol",
+      "imgurl": " "
+    },
+    "-Q16": {
+      "question": "16. What does 'P2P' stand for in networking?",
+      "answer": "a. Peer to Peer, \nb. Point to Point, \nc. Peer to Protocol, \nd. Point to Protocol",
+      "imgurl": " "
+    },
+    "-Q17": {
+      "question": "17. What is the full form of 'WLAN'?",
+      "answer": "a. Wireless Local Area Network, \nb. Wireless Local Access Network, \nc. Wired Local Area Network, \nd. Wired Local Access Network",
+      "imgurl": " "
+    },
+    "-Q18": {
+      "question": "18. What does 'LAN' stand for?",
+      "answer": "a. Local Area Network, \nb. Local Access Network, \nc. Large Area Network, \nd. Limited Area Network",
+      "imgurl": " "
+    },
+    "-Q19": {
+      "question": "19. What is the full form of 'HTTPs'?",
+      "answer": "b. Hypertext Transfer Protocol Secure, \na. Hypertext Transmission Protocol Secure, \nc. Hypertext Transfer Protocol Standard, \nd. Hyper Transfer Text Protocol Secure",
+      "imgurl": " "
+    },
+    "-Q20": {
+      "question": "20. What does 'ASCII' stand for?",
+      "answer": "a. American Standard Code for Information Interchange, \nb. American Standard Code for Information Index, \nc. American Standard Code for Information Input, \nd. American Standard Code for Information Interaction",
+      "imgurl": " "
+    },
+    "-Q21": {
+      "question": "21. What is the full form of 'DPI'?",
+      "answer": "a. Dots Per Inch, \nb. Dots Per Image, \nc. Dots Per Input, \nd. Dots Per Interchange",
+      "imgurl": " "
+    },
+    "-Q22": {
+      "question": "22. What does 'CAD' stand for?",
+      "answer": "b. Computer-Aided Design, \na. Computer-Aided Drafting, \nc. Computer-Assisted Design, \nd. Computer-Assisted Drafting",
+      "imgurl": " "
+    },
+    "-Q23": {
+      "question": "23. What is the full form of 'SMTP'?",
+      "answer": "a. Simple Mail Transfer Protocol, \nb. Secure Mail Transfer Protocol, \nc. Simple Message Transfer Protocol, \nd. Simple Mail Transmission Protocol",
+      "imgurl": " "
+    },
+    "-Q24": {
+      "question": "24. What does 'MPEG' stand for?",
+      "answer": "b. Motion Picture Experts Group, \na. Multimedia Picture Experts Group, \nc. Motion Picture Exchange Group, \nd. Motion Protocol Experts Group",
+      "imgurl": " "
+    },
+    "-Q25": {
+      "question": "25. What is the full form of 'XML'?",
+      "answer": "b. Extensible Markup Language, \na. Extended Markup Language, \nc. eXtended Markup Language, \nd. Extra Markup Language",
+      "imgurl": " "
+    },
+    "-Q26": {
+      "question": "26. What does 'OCR' stand for?",
+      "answer": "b. Optical Character Recognition, \na. Optical Character Recognition, \nc. Optical Code Recognition, \nd. Optical Conversion Recognition",
+      "imgurl": " "
+    },
+    "-Q27": {
+      "question": "27. What is the full form of 'DOS'?",
+      "answer": "a. Disk Operating System, \nb. Digital Operating System, \nc. Data Operating System, \nd. Distributed Operating System",
+      "imgurl": " "
+    },
+    "-Q28": {
+      "question": "28. What does 'AI' stand for?",
+      "answer": "a. Artificial Intelligence, \nb. Automated Intelligence, \nc. Analytical Intelligence, \nd. Algorithmic Intelligence",
+      "imgurl": " "
+    },
+    "-Q29": {
+      "question": "29. What is the full form of 'HTML'?",
+      "answer": "a. Hypertext Markup Language, \nb. Hyperlink Markup Language, \nc. High-Text Markup Language, \nd. Hypertext Multilayer Language",
+      "imgurl": " "
+    },
+    "-Q30": {
+      "question": "30. Which shortcut key is used to 'Unlock All Objects' in Corel Draw?",
+      "answer": "b. Ctrl + Shift + L, \na. Ctrl + Shift + U, \nc. Ctrl + Shift + K, \nd. Ctrl + Shift + J",
+      "imgurl": " "
+    },
+    "-Q3df": {
+      "question": "Answer:",
+      "answer": "1.a, 2.a, 3.b, 4.b, 5.b, 6.a, 7.b, 8.a, 9.b, 10.b, 11.a, 12.b, 13.b, 14.a, 15.b, 16.a, 17.a, 18.a, 19.b, 20.a, 21.a, 22.b, 23.a, 24.b, 25.b, 26.b, 27.a, 28.a, 29.a, 30.b",
+      "imgurl": " "
+    }
+  },
+
+  "ch18": {
+    "-Q1": {
+      "question": "1. What does the symbol '@' represent in email addresses?",
+      "answer": "a. At symbol, \nb. Attributed symbol, \nc. Access symbol, \nd. Active symbol",
+      "imgurl": " "
+    },
+    "-Q2": {
+      "question": "2. What is the use of the '&' symbol in programming?",
+      "answer": "a. Logical AND operator, \nb. Bitwise AND operator, \nc. Address operator, \nd. Both a and b",
+      "imgurl": " "
+    },
+    "-Q3": {
+      "question": "3. What does the '#' symbol commonly denote in programming?",
+      "answer": "b. Comment symbol, \na. Number symbol, \nc. Section symbol, \nd. Function symbol",
+      "imgurl": " "
+    },
+    "-Q4": {
+      "question": "4. What does the '$' symbol represent in programming languages like PHP?",
+      "answer": "a. Variable identifier, \nb. Function identifier, \nc. String identifier, \nd. Array identifier",
+      "imgurl": " "
+    },
+    "-Q5": {
+      "question": "5. What does the '%' symbol denote in many programming languages?",
+      "answer": "b. Modulus operator, \na. Percent operator, \nc. Pointer operator, \nd. String operator",
+      "imgurl": " "
+    },
+    "-Q6": {
+      "question": "6. In HTML, what does the '<' symbol indicate?",
+      "answer": "a. Start of a tag, \nb. End of a tag, \nc. Attribute operator, \nd. Comment operator",
+      "imgurl": " "
+    },
+    "-Q7": {
+      "question": "7. What is the significance of the '!' symbol in programming?",
+      "answer": "a. Logical NOT operator, \nb. Bitwise NOT operator, \nc. Factorial operator, \nd. Access operator",
+      "imgurl": " "
+    },
+    "-Q8": {
+      "question": "8. What does the '^' symbol represent in programming?",
+      "answer": "a. Bitwise XOR operator, \nb. Exponentiation operator, \nc. Both a and b, \nd. None of the above",
+      "imgurl": " "
+    },
+    "-Q9": {
+      "question": "9. In CSS, what does the '~' symbol signify?",
+      "answer": "b. General sibling selector, \na. Direct child selector, \nc. Attribute selector, \nd. Class selector",
+      "imgurl": " "
+    },
+    "-Q10": {
+      "question": "10. What does the ';' symbol signify in programming languages?",
+      "answer": "a. Statement terminator, \nb. Block delimiter, \nc. Comment indicator, \nd. Function separator",
+      "imgurl": " "
+    },
+    "-Q11": {
+      "question": "11. What does the '->' symbol represent in object-oriented programming?",
+      "answer": "a. Arrow operator, \nb. Pointer operator, \nc. Both a and b, \nd. Method call operator",
+      "imgurl": " "
+    },
+    "-Q12": {
+      "question": "12. What does the '*' symbol signify in programming?",
+      "answer": "b. Multiplication operator, \na. Dereference operator, \nc. Wildcard character, \nd. All of the above",
+      "imgurl": " "
+    },
+    "-Q13": {
+      "question": "13. What does the '+' symbol represent in programming?",
+      "answer": "a. Addition operator, \nb. Concatenation operator, \nc. Both a and b, \nd. Subtraction operator",
+      "imgurl": " "
+    },
+    "-Q14": {
+      "question": "14. In regular expressions, what does the '.' symbol represent?",
+      "answer": "b. Any single character, \na. Zero or more characters, \nc. One or more characters, \nd. End of line",
+      "imgurl": " "
+    },
+    "-Q15": {
+      "question": "15. What is the purpose of the '|' symbol in programming?",
+      "answer": "b. Bitwise OR operator, \na. Logical OR operator, \nc. Both a and b, \nd. None of the above",
+      "imgurl": " "
+    },
+    "-Q16": {
+      "question": "16. In HTML, what does the '>' symbol indicate?",
+      "answer": "a. End of a tag, \nb. Start of a tag, \nc. Closing tag, \nd. Self-closing tag",
+      "imgurl": " "
+    },
+    "-Q17": {
+      "question": "17. What does the ':' symbol denote in Python?",
+      "answer": "a. Start of a block, \nb. Key-value separator, \nc. Both a and b, \nd. None of the above",
+      "imgurl": " "
+    },
+    "-Q18": {
+      "question": "18. What does the '/' symbol represent in programming?",
+      "answer": "b. Division operator, \na. Path separator, \nc. Comment indicator, \nd. All of the above",
+      "imgurl": " "
+    },
+    "-Q19": {
+      "question": "19. What does the '[]' symbol signify in programming?",
+      "answer": "b. Array or list notation, \na. Function call, \nc. Object notation, \nd. Comment block",
+      "imgurl": " "
+    },
+    "-Q20": {
+      "question": "20. What is the meaning of the '{}' symbol in programming?",
+      "answer": "b. Block of code, \na. Array, \nc. Object notation, \nd. Function call",
+      "imgurl": " "
+    },
+    "-Q21": {
+      "question": "21. In SQL, what does the '*' symbol signify?",
+      "answer": "a. Select all columns, \nb. Wildcard for strings, \nc. Count function, \nd. Group function",
+      "imgurl": " "
+    },
+    "-Q22": {
+      "question": "22. What does the '`' symbol represent in programming?",
+      "answer": "b. Code block delimiter, \na. String interpolation, \nc. Both a and b, \nd. None of the above",
+      "imgurl": " "
+    },
+    "-Q23": {
+      "question": "23. In Java, what does the '@Override' annotation indicate?",
+      "answer": "a. Method is overriding a superclass method, \nb. Method is a new method, \nc. Method is deprecated, \nd. None of the above",
+      "imgurl": " "
+    },
+    "-Q24": {
+      "question": "24. What does the '::' symbol represent in some programming languages?",
+      "answer": "a. Scope resolution operator, \nb. Class reference, \nc. Both a and b, \nd. None of the above",
+      "imgurl": " "
+    },
+    "-Q25": {
+      "question": "25. What does the '<->' symbol represent in programming?",
+      "answer": "b. Bidirectional association, \na. Arrow operator, \nc. Both a and b, \nd. None of the above",
+      "imgurl": " "
+    },
+    "-Q26": {
+      "question": "26. In Markdown, what does the '#' symbol signify?",
+      "answer": "b. Header level, \na. Comment, \nc. Both a and b, \nd. None of the above",
+      "imgurl": " "
+    },
+    "-Q27": {
+      "question": "27. What does the '\'(backslash) symbol do in programming?",
+      "answer": "b. Escape character, \na. Line continuation, \nc. Both a and b, \nd. Path separator",
+      "imgurl": " "
+    },
+    "-Q28": {
+      "question": "28. In C++, what does the 'new' keyword signify?",
+      "answer": "a. Memory allocation, \nb. Object creation, \nc. Both a and b, \nd. None of the above",
+      "imgurl": " "
+    },
+    "-Q29": {
+      "question": "29. What does the '~' symbol denote in C/C++?",
+      "answer": "b. Destructor, \na. Bitwise NOT operator, \nc. Both a and b, \nd. None of the above",
+      "imgurl": " "
+    },
+    "-Q30": {
+      "question": "30. What does the '->*' symbol indicate in C++?",
+      "answer": "a. Pointer to member operator, \nb. Arrow operator, \nc. Dereference operator, \nd. Function pointer",
+      "imgurl": " "
+    },
+    "-Q3df": {
+      "question": "Answer:",
+      "answer": "1.a, 2.d, 3.b, 4.a, 5.b, 6.a, 7.a, 8.c, 9.a, 10.a, 11.a, 12.d, 13.c, 14.a, 15.c, 16.a, 17.c, 18.d, 19.b, 20.b, 21.a, 22.c, 23.a, 24.c, 25.c, 26.b, 27.c, 28.c, 29.c, 30.a",
+      "imgurl": " "
+    }
+  }
+}

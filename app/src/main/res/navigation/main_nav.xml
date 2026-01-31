@@ -25,6 +25,18 @@
         <action
             android:id="@+id/action_homeFragment_to_dtpChFragment"
             app:destination="@id/dtpChFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_quizFragment"
+            app:destination="@id/quizFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_mcqChNameFragment"
+            app:destination="@id/mcqChNameFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_typingCodeFragment"
+            app:destination="@id/typingCodeFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_shortcutKeyFragment"
+            app:destination="@id/shortcutKeyFragment" />
     </fragment>
     <fragment
         android:id="@+id/helpCenterFragment"
@@ -39,8 +51,8 @@
     <fragment
         android:id="@+id/adcaChFragment"
         android:name="com.shrutipandit.easycomputer.uiFragment.AdcaChFragment"
-        android:label="AdcaChanpter Name"
-        tools:layout="@layout/fragment_adca_ch" >
+        android:label="ADCA Chanpter Name"
+        tools:layout="@layout/fragment_adca_ch">
         <action
             android:id="@+id/action_adcaChFragment_to_adcaNotesFragment"
             app:destination="@id/adcaNotesFragment" />
@@ -49,8 +61,8 @@
     <fragment
         android:id="@+id/dcaChFragment"
         android:name="com.shrutipandit.easycomputer.uiFragment.DcaChFragment"
-        android:label="Dca Chanpter Name"
-        tools:layout="@layout/fragment_dca_ch" >
+        android:label="DCA Chanpter Name"
+        tools:layout="@layout/fragment_dca_ch">
         <action
             android:id="@+id/action_dcaChFragment_to_dcaNotesFragment"
             app:destination="@id/dcaNotesFragment" />
@@ -58,11 +70,16 @@
     <fragment
         android:id="@+id/dtpChFragment"
         android:name="com.shrutipandit.easycomputer.uiFragment.DtpChFragment"
-        android:label="Dtp Chapter Name"
-        tools:layout="@layout/fragment_dtp_ch" />
+        android:label="DTP Chapter Name"
+        tools:layout="@layout/fragment_dtp_ch">
+        <action
+            android:id="@+id/action_dtpChFragment_to_dtpNotesFragment"
+            app:destination="@id/dtpNotesFragment" />
+    </fragment>
     <fragment
         android:id="@+id/adcaNotesFragment"
         android:name="com.shrutipandit.easycomputer.uiFragment.AdcaNotesFragment"
+        android:label="ADCA Chapter Notes"
         tools:layout="@layout/fragment_adca_notes">
 
         <argument
@@ -72,11 +89,57 @@
     <fragment
         android:id="@+id/dcaNotesFragment"
         android:name="com.shrutipandit.easycomputer.uiFragment.DcaNotesFragment"
-        android:label="fragment_dca_notes"
-        tools:layout="@layout/fragment_dca_notes" >
+        android:label="DCA Chapter Notes"
+        tools:layout="@layout/fragment_dca_notes">
         <argument
             android:name="chapterName"
             app:argType="string" />
     </fragment>
+    <fragment
+        android:id="@+id/dtpNotesFragment"
+        android:name="com.shrutipandit.easycomputer.uiFragment.DtpNotesFragment"
+        android:label="DTP Chapter Notes"
+        tools:layout="@layout/fragment_dtp_notes">
+        <argument
+            android:name="chapterName"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/quizFragment"
+        android:name="com.shrutipandit.easycomputer.uiFragment.QuizFragment"
+        android:label="fragment_quiz"
+        tools:layout="@layout/fragment_quiz" >
+        <argument
+            android:name="fileName"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/mcqChNameFragment"
+        android:name="com.shrutipandit.easycomputer.uiFragment.McqChNameFragment"
+        android:label="MCQ Chapter Name"
+        tools:layout="@layout/fragment_mcq_ch_name">
+        <action
+            android:id="@+id/action_mcqChNameFragment_to_mcqQuestionFragment"
+            app:destination="@id/mcqQuestionFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/mcqQuestionFragment"
+        android:name="com.shrutipandit.easycomputer.uiFragment.McqQuestionFragment"
+        android:label="MCQ Qestion"
+        tools:layout="@layout/fragment_mcq_question">
+        <argument
+            android:name="chapterName"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/typingCodeFragment"
+        android:name="com.shrutipandit.easycomputer.uiFragment.TypingCodeFragment"
+        android:label="Typing Code"
+        tools:layout="@layout/fragment_typing_code" />
+    <fragment
+        android:id="@+id/shortcutKeyFragment"
+        android:name="com.shrutipandit.easycomputer.uiFragment.ShortcutKeyFragment"
+        android:label="Shortcut Key"
+        tools:layout="@layout/fragment_shortcut_key" />
 
 </navigation>

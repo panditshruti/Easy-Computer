@@ -4,12 +4,13 @@
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:layout_height="match_parent"
-    tools:context=".uiFragment.DtpChFragment">
+    tools:context=".uiFragment.ShortcutKeyFragment">
 
-  <ListView
-      android:layout_width="match_parent"
-      android:layout_height="wrap_content"
-      android:id="@+id/chNameListview"
-      />
+<androidx.recyclerview.widget.RecyclerView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/recyclerView"
+    android:layout_margin="10dp"
+    />
 
 </LinearLayout>

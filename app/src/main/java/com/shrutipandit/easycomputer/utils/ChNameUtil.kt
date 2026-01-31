@@ -2,13 +2,79 @@ package com.shrutipandit.easycomputer.utils
 
 import androidx.lifecycle.ViewModel
 
-class ChNameUtil: ViewModel(){
+class ChNameUtil: ViewModel() {
 
-        private lateinit var dcaChList: ArrayList<String>
-
+    private lateinit var dcaChList: ArrayList<String>
 
 
     fun adcaChName(): List<String> {
+        // Return the list of chapter names
+        return listOf(
+            "Ch-1 Computer Fundamental",
+            "Ch-2 Ms.Windows",
+            "Ch-3 Notepad",
+            "Ch-4 WordPad",
+            "Ch-5 Paint",
+            "Ch-6 Ms.Office",
+            "Ch-7 Ms.Word",
+            "Ch-8 Ms.Excel",
+            "Ch-9 Ms.Power Point",
+            "Ch-10 Internet",
+            "Ch-11 Publisher",
+            "Ch-12 Hardware and Software",
+            "Ch-13 Tally",
+            "Ch-14 PageMaker",
+            "Ch-15 Photoshop",
+            "Ch-16 Corel Drow",
+            "Ch-17 Short Keys",
+            "Ch-18 FullForm",
+            "Ch-19 Symbol",
+
+        )
+    }
+
+
+    fun dcaChName(): List<String> {
+        // Return the list of chapter names
+        return listOf(
+            "Ch-1 Computer Fundamental",
+            "Ch-2 Ms.Windows7",
+            "Ch-3 Notepad",
+            "Ch-4 WordPad",
+            "Ch-5 Paint",
+            "Ch-6 Ms-Office",
+            "Ch-7 Ms.word",
+            "Ch-8 Ms.Excel",
+            "Ch-9 Ms.power Point",
+            "Ch-10 Internet",
+            "Ch-11 Publisher",
+            "Ch-12 Hardware and Software"
+        )
+    }
+
+
+    fun dtpChName(): List<String> {
+        // Return the list of chapter names
+        return listOf(
+            "Ch-1 Computer Fundamental",
+            "Ch-2 Ms.Windows7",
+            "Ch-3 Notepad",
+            "Ch-4 WordPad",
+            "Ch-5 Paint",
+            "Ch-6 Ms-Office",
+            "Ch-7 Ms.word",
+            "Ch-8 Ms.Excel",
+            "Ch-9 Ms.power Point",
+            "Ch-10 Internet",
+            "Ch-11 Publisher",
+            "Ch-12 Hardware and Software",
+            "Ch-13 Tally",
+
+        )
+
+    }
+
+    fun mcqChName(): List<String> {
         // Return the list of chapter names
         return listOf(
             "Ch-1 Computer Fundamental",
@@ -33,42 +99,4 @@ class ChNameUtil: ViewModel(){
     }
 
 
-    fun dcaChName(): List<String> {
-            // Return the list of chapter names
-            return listOf(
-                "Ch-1 Computer Fundamental",
-                "Ch-2 Ms.Windows7",
-                "Ch-3 Notepad",
-                "Ch-4 WordPad",
-                "Ch-5 Paint",
-                "Ch-6 Ms-Office",
-                "Ch-7 Ms.word",
-                "Ch-8 Ms.Excel",
-                "Ch-9 Ms.power Point",
-                "Ch-10 Internet",
-                "Ch-11 Publisher",
-                "Ch-12 Hardware and Software"
-            )
-        }
-
-
-        fun dtpChName(): List<String> {
-            // Return the list of chapter names
-            return listOf(
-                "Ch-1 Computer Fundamental",
-                "Ch-2 Ms.Windows7",
-                "Ch-3 Notepad",
-                "Ch-4 WordPad",
-                "Ch-5 Paint",
-                "Ch-6 Ms-Office",
-                "Ch-7 Ms.word",
-                "Ch-8 Ms.Excel",
-                "Ch-9 Ms.power Point",
-                "Ch-10 Internet",
-                "Ch-11 Publisher",
-                "Ch-12 Tally",
-                "Ch-13 Hardware and Software"
-            )
-        }
-    }
-
+}

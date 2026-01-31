@@ -1,0 +1,610 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What does ADCA stand for?",
+      "correct_answer": " Advanced Development in Computer Application",
+      "incorrect_answers": [
+        "Application Development and Computer Architecture",
+        " Advanced Digital Computing Application",
+        "Automated Data Collection and Analysis"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What is the full form of \"ENIAC ?",
+      "correct_answer": " Electronic Numerical Integration and Calculator?",
+      "incorrect_answers": [
+        " Electronic Numbering and Input Calculator",
+        "Efficient Numerical Information and Computation",
+        " Enhanced Numeric Integration and Calculator"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Which computer type works behind or with a machine?",
+      "correct_answer": "Personal computer",
+      "incorrect_answers": [
+        "Mainframe computer",
+        "Supercomputer",
+        "Embedded computer"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What is the primary function of a mini computer?",
+      "correct_answer": "Austria",
+      "incorrect_answers": [
+        "Argentina",
+        "Australia",
+        "Angola"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "In CSS, which of these values CANNOT be used with the &quot;position&quot; property?",
+      "correct_answer": "Analyzing large datasets",
+      "incorrect_answers": [
+        "Processing complex algorithms",
+        "Scientific research",
+        " Small-scale training and analysis"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Who is known as the \"Father of Computers\" for inventing the analytical engine in the 19th century?",
+      "correct_answer": "Charles Babbage",
+      "incorrect_answers": [
+        "Alan Turing",
+        " Tim Berners-Lee",
+        "John von Neumann"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Which generation of computers spanned from 1942 to 1959?",
+      "correct_answer": "1st generation",
+      "incorrect_answers": [
+        "2nd generation",
+        "3rd generation",
+        "4th generation"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What are the primary components of a computer?",
+      "correct_answer": "CPU, Monitor, Keyboard, Mouse",
+      "incorrect_answers": [
+        " CPU, Monitor, Keyboard, Mouse, GPU",
+        "CPU, GPU, RAM, SSD",
+        "Monitor, Keyboard, Mouse, Printer"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What is the function of the \"Caps Lock\" key on a keyboard?",
+      "correct_answer": "Activate/deactivate uppercase letters",
+      "incorrect_answers": [
+        "Insert a space",
+        " Delete characters",
+        "Move the cursor to the beginning of a line"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Which key is used to insert text into a document?",
+      "correct_answer": " Insert key",
+      "incorrect_answers": [
+        "Tab key",
+        "Space key",
+        "Enter key"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Which unit represents the highest level of computer memory?",
+      "correct_answer": "Geophyte",
+      "incorrect_answers": [
+        "Megabyte (MB)",
+        "Gigabyte (GB)",
+        "Terabyte (TB)"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What is the function of the \"Backspace\" key on a keyboard?",
+      "correct_answer": "Delete characters to the left of the cursor",
+      "incorrect_answers": [
+        "Move the cursor to the end of a line",
+        " Insert a new paragraph",
+        " Insert a new paragraph"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Which type of computer is commonly referred to as a \"Personal Computer\"?",
+      "correct_answer": "Mainframe computer",
+      "incorrect_answers": [
+        "Supercomputer",
+        " Mini computer",
+        " Microcomputer"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What is the function of the \"Delete\" key on a keyboard?",
+      "correct_answer": "Remove characters to the right of the cursor",
+      "incorrect_answers": [
+        "Move the cursor to the beginning of a line",
+        "Insert text at the cursor's position",
+        " Create a new document"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What is the purpose of the \"Tab\" key on a keyboard?",
+      "correct_answer": "Move the cursor to the next line",
+      "incorrect_answers": [
+        "Indent text",
+        " Insert a space",
+        " Delete characters to the left of the cursor"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Which unit is used to measure the speed of a processor?",
+      "correct_answer": "Hertz (Hz)",
+      "incorrect_answers": [
+        "Bytes (B)",
+        "Volts (V)",
+        "Amperes (A)"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Which component of a computer is responsible for executing instructions?",
+      "correct_answer": "CPU",
+      "incorrect_answers": [
+        "GPU",
+        "RAM",
+        "SSD"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What is the primary function of the \"Enter\" key on a keyboard?",
+      "correct_answer": "Insert a new paragraph",
+      "incorrect_answers": [
+        "Move the cursor to the beginning of a line",
+        "Activate a selected item or command",
+        "Delete characters to the right of the cursor"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Which generation of computers introduced integrated circuits?",
+      "correct_answer": " 2nd generation",
+      "incorrect_answers": [
+        "1st generation",
+        "3rd generation",
+        "4rd generation"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What is the role of the \"Shift\" key on a keyboard?",
+      "correct_answer": " Activate/deactivate uppercase letters",
+      "incorrect_answers": [
+        "Insert a space",
+        "Delete characters",
+        "Move the cursor to the end of a line"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Which component of a computer is responsible for storing data permanently?",
+      "correct_answer": " Hard drive",
+      "incorrect_answers": [
+        "RAM",
+        "CPU",
+        "SSD write answer of this"
+      ]
+    },
+
+
+
+
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Generally, which component of a computer draws the most power?",
+      "correct_answer": "Video Card",
+      "incorrect_answers": [
+        "Hard Drive",
+        "Processor",
+        "Power Supply"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Who first used the Internet?",
+      "correct_answer": "ARPA",
+      "incorrect_answers": [
+        "VSNL",
+        "NIDM",
+        "IRCTC"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Who is known as the Father of the Internet?",
+      "correct_answer": " Vint Cerf",
+      "incorrect_answers": [
+        "Joseph Carl Robbert Lincklider",
+        "Bob Kahn",
+        "Tim Berners-Lee"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "In which year did internet services start in India?",
+      "correct_answer": "1995",
+      "incorrect_answers": [
+        "1989",
+        "1999",
+        "2000"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Who invented the World Wide Web (WWW)?",
+      "correct_answer": "Tim Berners-Lee",
+      "incorrect_answers": [
+        "Ray Tomlinson",
+        "Shabeer Bhatia",
+        "Mark Zuckerberg"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What is each page of the WWW called?",
+      "correct_answer": " Webpage",
+      "incorrect_answers": [
+        "Homepage",
+        "Static Page",
+        "Dynamic Page"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What is a Web Browser?",
+      "correct_answer": "A type of Application Software?",
+      "incorrect_answers": [
+        "A type of Database",
+        "A type of Search Engine",
+        "A type of Operating System"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Which of the following is not a Web Browser?",
+      "correct_answer": "Google",
+      "incorrect_answers": [
+        "Chrome",
+        "Mozilla",
+        " Internet Explorer"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Who invented Email?",
+      "correct_answer": " Ray Tomlinson",
+      "incorrect_answers": [
+        "Tim Berners-Lee",
+        "Shabeer Bhatia",
+        "Mark Zuckerberg"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "With which company did Shabeer Bhatia provide free Email service?",
+      "correct_answer": "Hotmail",
+      "incorrect_answers": [
+        "Google",
+        "Yahoo",
+        "Microsoft"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What is Google?",
+      "correct_answer": "Motherboard",
+      "incorrect_answers": [
+        "Hard Disk Drive",
+        "Central Processing Unit",
+        "Graphics Processing Unit"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+      "correct_answer": "A type of Search Engine",
+      "incorrect_answers": [
+        "A type of Application Software",
+        "A type of Web Browser",
+        "A type of Social Network"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Which of the following is not a Google product?",
+      "correct_answer": "IRCTC",
+      "incorrect_answers": [
+        "Gmail",
+        "YouTube",
+        "Google Maps"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What is Gmail used for?",
+      "correct_answer": " Mailing",
+      "incorrect_answers": [
+        "Social Networking",
+        "Web Browsing",
+        "Text Messaging"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Who launched Facebook?",
+      "correct_answer": "Mark Zuckerberg",
+      "incorrect_answers": [
+        "Tim Berners-Lee",
+        "Ray Tomlinson",
+        "Shabeer Bhatia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What is the process of recording, classifying, and summarizing financial transactions called?",
+      "correct_answer": "Accounting",
+      "incorrect_answers": [
+        "Marketing",
+        "Management",
+        "Auditing"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What is the process of categorizing transactions based on their nature called?",
+      "correct_answer": "Creating an Account",
+      "incorrect_answers": [
+        "Auditing",
+        "Budgeting",
+        "Accounting"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "How many types of accounts are there?",
+      "correct_answer": "Three",
+      "incorrect_answers": [
+        "One",
+        "Two",
+        "Four"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Which of the following is not a type of account?",
+      "correct_answer": "Tangible account",
+      "incorrect_answers": [
+        "Personal account",
+        "Real account",
+        "Nominal account"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What is a personal account related to?",
+      "correct_answer": "Individuals or entities",
+      "incorrect_answers": [
+        "Goods",
+        "Services",
+        "Transactions"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Which of the following is not a type of personal account?",
+      "correct_answer": "Real personal account",
+      "incorrect_answers": [
+        "Artificial personal account",
+        "Representative personal account",
+        " Natural personal account"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What is an artificial personal account related to?",
+      "correct_answer": "Artificial persons",
+      "incorrect_answers": [
+        "Goods",
+        "Natural persons",
+        "Services"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "How should an account be written if it is associated with a person's name?",
+      "correct_answer": "Add ('s) after the name",
+      "incorrect_answers": [
+        "Add (-) after the name",
+        "Add (.) after the name",
+        "Add (,) after the name"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "How should you write an account for Ram?",
+      "correct_answer": "Ram's account",
+      "incorrect_answers": [
+        "Ram-account",
+        "Ram.account",
+        "Ram,account"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What is the amount of money or property that a business owner invests in their business called?",
+      "correct_answer": "Capital",
+      "incorrect_answers": [
+        "Liability",
+        "Revenue",
+        "Expense"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What is it called when a business owner withdraws money or goods from the business for personal use?",
+      "correct_answer": "Drawing",
+      "incorrect_answers": [
+        "Expense",
+        "Liability",
+        "Revenue"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What are liabilities called that are due for payment after more than one year?",
+      "correct_answer": "Fixed liabilities",
+      "incorrect_answers": [
+        "Current liabilities",
+        "Real liabilities",
+        "Tangible liabilities"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What is it called when items are produced or purchased with the intent to sell?",
+      "correct_answer": "Goods",
+      "incorrect_answers": [
+        "Services",
+        "Assets",
+        "Liabilities"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "How many types of personal accounts are there?",
+      "correct_answer": ") Three",
+      "incorrect_answers": [
+        "Two",
+        "One",
+        "Four"
+      ]
+    }
+  ]
+}
+

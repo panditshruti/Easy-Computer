@@ -12,9 +12,6 @@ import com.shrutipandit.easycomputer.utils.ChNameUtil
 
 class AdcaChFragment : Fragment(R.layout.fragment_adca_ch) {
     private lateinit var binding: FragmentAdcaChBinding
-    private lateinit var arrayList: ArrayList<String>
-    private lateinit var arrayAdapter: ArrayAdapter<String>
-
     private lateinit var chNameUtil: ChNameUtil
 
 
