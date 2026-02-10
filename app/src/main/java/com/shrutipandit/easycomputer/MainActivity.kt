@@ -66,11 +66,11 @@ class MainActivity : AppCompatActivity() {
                         navigateToHelpCenterFragment()
                         true
                     }
-                    R.id.ratingApp -> {
-                        // Open Play Store page for rating the app
-                        openPlayStoreForRating()
-                        true
-                    }
+//                    R.id.ratingApp -> {
+//                        // Open Play Store page for rating the app
+//                        openPlayStoreForRating()
+//                        true
+//                    }
                     R.id.profileFragment -> {
                   navigateToProfileFragment()
                         true

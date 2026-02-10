@@ -1,6 +1,7 @@
 package com.shrutipandit.easycomputer.uiFragment
 
 import android.content.Intent
+import android.net.Uri
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
@@ -27,6 +28,9 @@ class ProfileFragment : Fragment(R.layout.fragment_profile) {
         binding.logout.setOnClickListener {
             logoutUser()
         }
+        binding.shareUid.setOnClickListener {
+            shareUID()
+        }
 
     }
 
@@ -48,6 +52,25 @@ class ProfileFragment : Fragment(R.layout.fragment_profile) {
 
         startActivity(intent)
         requireActivity().finish()
+    }
+
+    private fun shareUID(){
+
+        val user: FirebaseUser? = auth.currentUser
+
+        if (user != null) {
+            binding.uid.text = user.uid
+        }
+            val phoneNumber = "+7739717389"
+            val message = user?.uid
+
+            val encodedMessage = Uri.encode(message)
+            val uri = Uri.parse("https://wa.me/$phoneNumber?text=$encodedMessage")
+            val intent = Intent(Intent.ACTION_VIEW, uri)
+            intent.setPackage("com.whatsapp")
+            startActivity(intent)
+
+
     }
 
 

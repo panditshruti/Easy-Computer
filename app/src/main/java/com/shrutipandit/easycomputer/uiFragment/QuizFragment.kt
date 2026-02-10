@@ -9,15 +9,13 @@ import android.widget.Toast
 import com.shrutipandit.easycomputer.R
 import com.shrutipandit.easycomputer.databinding.FragmentQuizBinding
 import com.shrutipandit.easycomputer.db.QuizDb
-import com.shrutipandit.easycomputer.utils.QuizLoadHelperUtil.loadQuizFromJson
+import com.shrutipandit.easycomputer.utils.QuizLoadHelperUtil
 import com.shrutipandit.easycomputer.utils.ResultDialogFragmentUtil
 
-
 class QuizFragment : Fragment(R.layout.fragment_quiz) {
+
     private lateinit var binding: FragmentQuizBinding
-
-
-    private lateinit var quizDb: List<QuizDb>
+    private var quizDb: List<QuizDb> = emptyList()
     private var currentQuestionIndex = 0
     private var score = 0
 
@@ -25,48 +23,42 @@ class QuizFragment : Fragment(R.layout.fragment_quiz) {
         super.onViewCreated(view, savedInstanceState)
         binding = FragmentQuizBinding.bind(view)
 
-        val fileName = arguments?.getString("fileName")
-        quizDb = loadQuizFromJson(requireContext(), fileName!!)
-        displayQuestion()
-        var selectedRadioButtonId: Int   // Initialize outside the click listener
+        // ✅ EXACT FILE NAME
+        val fileName = "quizjson.json"
+        quizDb = QuizLoadHelperUtil.loadQuizFromJson(requireContext(), fileName)
 
-
-
-        binding.apply {
-            submitButton.setOnClickListener {
-                selectedRadioButtonId = optionsRadioGroup.checkedRadioButtonId
-                if (selectedRadioButtonId == -1) {
-                    // No option selected, show a toast message or handle the case appropriately
-                    Toast.makeText(requireContext(), "Please select an option", Toast.LENGTH_SHORT)
-                        .show()
-                } else {
-                    // Option selected, proceed to check the answer
-                    checkAnswer()
-                    currentQuestionIndex++
-                    if (currentQuestionIndex < quizDb.size) {
-                        displayQuestion()
-                    } else {
-                        currentQuestionIndex = 0
-                    }
-                    showScore()
-                    optionsRadioGroup.clearCheck()  // Clear the selected option after submitting
-                }
-            }
-
-            // Set the listener outside the click listener
-            optionsRadioGroup.setOnCheckedChangeListener { group, checkedId ->
-                selectedRadioButtonId = checkedId
-            }
+        if (quizDb.isEmpty()) {
+            Toast.makeText(requireContext(), "Quiz file not found!", Toast.LENGTH_LONG).show()
+            return
         }
 
+        displayQuestion()
 
+        binding.submitButton.setOnClickListener {
+            if (binding.optionsRadioGroup.checkedRadioButtonId == -1) {
+                Toast.makeText(requireContext(), "Please select an option", Toast.LENGTH_SHORT).show()
+            } else {
+                checkAnswer()
+                currentQuestionIndex++
+
+                if (currentQuestionIndex < quizDb.size) {
+                    displayQuestion()
+                } else {
+                    showResultDialog()
+                }
+                showScore()
+
+                binding.optionsRadioGroup.clearCheck()
+            }
+        }
     }
 
     @SuppressLint("SetTextI18n")
     private fun displayQuestion() {
         val currentQuestion = quizDb[currentQuestionIndex]
         binding.apply {
-            questionTextView.text = "${currentQuestionIndex.plus(1)}  ${currentQuestion.question}"
+            questionTextView.text =
+                "${currentQuestionIndex + 1}. ${currentQuestion.question}"
             optionARadioButton.text = currentQuestion.options[0]
             optionBRadioButton.text = currentQuestion.options[1]
             optionCRadioButton.text = currentQuestion.options[2]
@@ -75,15 +67,18 @@ class QuizFragment : Fragment(R.layout.fragment_quiz) {
     }
 
     private fun checkAnswer() {
-        val currentQuestion = quizDb[currentQuestionIndex]
+        val selectedId = binding.optionsRadioGroup.checkedRadioButtonId
         val selectedAnswer =
-            binding.optionsRadioGroup.findViewById<RadioButton>(binding.optionsRadioGroup.checkedRadioButtonId).text.toString()
-        if (selectedAnswer == currentQuestion.correctAnswer) {
+            binding.optionsRadioGroup.findViewById<RadioButton>(selectedId).text.toString()
+
+        if (selectedAnswer == quizDb[currentQuestionIndex].correctAnswer) {
             score++
         }
-        if (currentQuestionIndex == quizDb.size - 1) {
-            showResultDialog()
-        }
+    }
+
+    private fun showResultDialog() {
+        val resultDialog = ResultDialogFragmentUtil(score, quizDb.size)
+        resultDialog.show(parentFragmentManager, "ResultDialog")
     }
 
     @SuppressLint("SetTextI18n")
@@ -93,10 +88,6 @@ class QuizFragment : Fragment(R.layout.fragment_quiz) {
         binding.resultTv.text = "Your score: ${score}/${quizDb.size} (${formattedPercentage}%)"
     }
 
-    private fun showResultDialog() {
-        val resultDialog = ResultDialogFragmentUtil(score, quizDb.size)
-        resultDialog.show(parentFragmentManager, "ResultDialog")
-    }
 
 
 }

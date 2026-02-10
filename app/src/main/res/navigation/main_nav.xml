@@ -107,10 +107,11 @@
     <fragment
         android:id="@+id/quizFragment"
         android:name="com.shrutipandit.easycomputer.uiFragment.QuizFragment"
-        android:label="fragment_quiz"
-        tools:layout="@layout/fragment_quiz" >
+        android:label="Quiz"
+        tools:layout="@layout/fragment_quiz">
         <argument
             android:name="fileName"
+            android:defaultValue="quizjson.json"
             app:argType="string" />
     </fragment>
     <fragment

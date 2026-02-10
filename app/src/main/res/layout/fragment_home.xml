@@ -12,9 +12,10 @@
             android:layout_width="40dp"
             android:layout_height="30dp"
             android:layout_gravity="start"
-            android:src="@drawable/outline_call_24"
+            android:src="@drawable/coins"
             android:text="Payment"
             android:textColor="#480055"
+            android:layout_margin="10dp"
             android:textSize="14dp"
             android:textStyle="bold" />
 
@@ -66,7 +67,7 @@
                             android:layout_margin="10dp"
                             android:padding="20dp"
                             android:scaleType="centerCrop"
-                            android:src="@drawable/outline_call_24" />
+                            android:src="@drawable/adca" />
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -96,7 +97,7 @@
                             android:layout_weight="1"
                             android:padding="20dp"
                             android:scaleType="centerCrop"
-                            android:src="@drawable/outline_call_24" />
+                            android:src="@drawable/dca" />
 
                         <TextView
                             android:id="@+id/tvVideos"
@@ -133,7 +134,7 @@
                             android:layout_margin="10dp"
 
                             android:padding="20dp"
-                            android:src="@drawable/outline_call_24"/>
+                            android:src="@drawable/dtp"/>
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -160,7 +161,7 @@
                             android:layout_height="100dp"
                             android:layout_margin="10dp"
                             android:padding="20dp"
-                            android:src="@drawable/outline_call_24" />
+                            android:src="@drawable/quiz" />
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -196,7 +197,7 @@
                             android:layout_gravity="center"
                             android:layout_margin="10dp"
                             android:padding="20dp"
-                            android:src="@drawable/outline_call_24"/>
+                            android:src="@drawable/typingcode"/>
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -224,7 +225,7 @@
                             android:layout_height="100dp"
                             android:layout_margin="10dp"
                             android:padding="20dp"
-                            android:src="@drawable/outline_call_24" />
+                            android:src="@drawable/youtube" />
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -259,7 +260,7 @@
                             android:layout_height="80dp"
                             android:layout_margin="10dp"
                             android:padding="10dp"
-                            android:src="@drawable/outline_call_24" />
+                            android:src="@drawable/shortceky" />
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -287,7 +288,7 @@
                             android:layout_height="80dp"
                             android:layout_margin="10dp"
                             android:padding="20dp"
-                            android:src="@drawable/outline_call_24" />
+                            android:src="@drawable/quiz" />
 
                         <TextView
                             android:layout_width="wrap_content"
