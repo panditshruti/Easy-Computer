@@ -8,20 +8,27 @@
 
 
     <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbars"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:background="#460256"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- Main Toolbar (Below Top Bar) -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/toolbar_bg"
-        android:id="@+id/toolbar"
-        android:padding="5dp"
-        android:gravity="center"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
         android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
         app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
-        app:layout_constraintBottom_toTopOf="@id/fragmentContainerView"
-        app:menu="@menu/toolbar_menu"
-        tools:ignore="MissingConstraints" />
+        app:layout_constraintTop_toBottomOf="@id/toolbars"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:menu="@menu/toolbar_menu" />
+
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragmentContainerView"

@@ -12,8 +12,6 @@
             android:layout_width="40dp"
             android:layout_height="30dp"
             android:layout_gravity="start"
-            android:src="@drawable/coins"
-            android:text="Payment"
             android:textColor="#480055"
             android:layout_margin="10dp"
             android:textSize="14dp"

@@ -1,5 +1,6 @@
 package com.shrutipandit.easycomputer
 
+import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
@@ -38,7 +39,8 @@ if (password.length<6){
         .addOnSuccessListener {
 
             Toast.makeText(this, "Account Created", Toast.LENGTH_SHORT).show()
-            finish()
+            showTelegramJoinDialog()
+
         }
 
         .addOnFailureListener {
@@ -53,5 +55,36 @@ if (password.length<6){
     }
 
 
+    }
+
+
+    private fun showTelegramJoinDialog() {
+
+        val builder = androidx.appcompat.app.AlertDialog.Builder(this)
+        builder.setTitle("Join Our Telegram Channel")
+        builder.setMessage("Please join our Telegram channel before continuing.")
+
+        // YES → Open Telegram
+        builder.setPositiveButton("Join Now") { _, _ ->
+
+            val telegramUrl = "https://t.me/Easy_Computers"
+
+            val intent = Intent(Intent.ACTION_VIEW)
+            intent.data = android.net.Uri.parse(telegramUrl)
+            startActivity(intent)
+
+            // After opening Telegram → Go to MainActivity
+            startActivity(Intent(this, MainActivity::class.java))
+            finish()
+        }
+
+        // NO → Direct Go
+        builder.setNegativeButton("Skip") { _, _ ->
+            startActivity(Intent(this, MainActivity::class.java))
+            finish()
+        }
+
+        builder.setCancelable(false) // User back press se close na kare
+        builder.show()
     }
 }
