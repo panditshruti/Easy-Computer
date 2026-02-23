@@ -7,7 +7,7 @@
     android:gravity="center"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
-    android:background="@color/white"
+    android:background="#F4F2F2"
     tools:context=".uiFragment.QuizFragment">
 
 
@@ -16,6 +16,7 @@
             android:layout_height="wrap_content"
             android:elevation="10dp"
             android:layout_margin="5dp"
+            android:padding="5dp"
            app:cardElevation="10dp"
             app:cardCornerRadius="10dp"
             >
@@ -24,7 +25,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:background="@color/white"
+                android:padding="5dp"
+                android:backgroundTint="@color/white"
+
                 android:gravity="center"
                 android:orientation="vertical">
 
@@ -36,7 +39,7 @@
                     android:gravity="center"
                     android:textSize="18sp"
                     android:layout_margin="10dp"
-                    android:textColor="#3A00A0"
+                    android:textColor="#65C805"
                     android:textStyle="bold" />
 
                 <ImageView
@@ -91,13 +94,17 @@
                         android:layout_height="wrap_content" />
                 </RadioGroup>
 
-                <Button
+                <TextView
                     android:id="@+id/submitButton"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:layout_margin="10dp"
-                    android:backgroundTint="#750089"
+                    android:textColor="@color/white"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    android:padding="5dp"
+                    android:background="@drawable/profiletheme"
                     android:text="Submit" />
 
             </LinearLayout>

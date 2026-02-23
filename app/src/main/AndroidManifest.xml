@@ -11,9 +11,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.EasyComputer">
-        <activity
-            android:name=".uiFragment.Payment"
-            android:exported="false" />
+
         <activity
             android:name=".Signup"
             android:exported="false" />

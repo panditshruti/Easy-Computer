@@ -5,11 +5,23 @@
     android:id="@+id/main"
     android:orientation="vertical"
     android:gravity="center"
+    android:background="@color/white"
     android:padding="24dp"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Login">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to Easy Compter"
+        android:gravity="start"
+        android:layout_gravity="start"
+        android:textColor="#000000"
+        android:textSize="30dp"
+        android:layout_margin="10dp"
+        android:textStyle="bold"
+        />
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -19,26 +31,27 @@
       android:padding="10dp"
         android:elevation="10dp"
         >
+
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="10dp"
+            android:background="#EFEFEF"
             android:orientation="vertical"
             >
-
 
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Login"
-                android:layout_gravity="center"
                 android:gravity="center"
-                android:textColor="#480055"
+                android:layout_gravity="center"
+                android:textColor="@color/black"
                 android:textSize="30dp"
                 android:layout_margin="10dp"
                 android:textStyle="bold"
-
                 />
 
             <EditText
@@ -48,6 +61,7 @@
             android:background="@drawable/edstrock"
             android:padding="10dp"
             android:layout_margin="5dp"
+            android:backgroundTint="@color/white"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
@@ -58,33 +72,44 @@
             android:background="@drawable/edstrock"
             android:layout_margin="5dp"
             android:padding="10dp"
+            android:backgroundTint="@color/white"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
-        <Button
+        <TextView
             android:id="@+id/loginBtn"
             android:text="Login"
-            android:backgroundTint="#00496A"
+            android:background="@drawable/profiletheme"
             android:textStyle="bold"
             android:layout_gravity="center"
-            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            android:padding="8dp"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content" />
-
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="SignUp"
-                android:id="@+id/signIn"
-                android:backgroundTint="#480055"
-                android:layout_gravity="end"
-                android:gravity="center"
-                android:textStyle="bold"
-
-                />
 
 
         </LinearLayout>
 
     </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SignUp"
+        android:id="@+id/signIn"
+        android:layout_gravity="end"
+        android:padding="5dp"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="17dp"
+        android:layout_marginTop="10dp"
+        android:textStyle="bold"
+
+        />
+
+
 
 </LinearLayout>

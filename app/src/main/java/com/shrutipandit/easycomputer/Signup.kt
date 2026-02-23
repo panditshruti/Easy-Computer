@@ -10,7 +10,6 @@ import com.shrutipandit.easycomputer.databinding.ActivitySignupBinding
 class Signup : AppCompatActivity() {
 
     private lateinit var binding: ActivitySignupBinding
-
     private lateinit var auth: FirebaseAuth
 
 

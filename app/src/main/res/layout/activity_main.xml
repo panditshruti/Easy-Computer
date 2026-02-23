@@ -4,8 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:backgroundTint="#F9EDFB"
-    android:background="@color/white"
     tools:context=".MainActivity">
 
 
@@ -14,7 +12,8 @@
         android:layout_height="wrap_content"
         android:background="@drawable/toolbar_bg"
         android:id="@+id/toolbar"
-        android:padding="10dp"
+        android:padding="5dp"
+        android:gravity="center"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -22,7 +21,6 @@
         app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
         app:layout_constraintBottom_toTopOf="@id/fragmentContainerView"
         app:menu="@menu/toolbar_menu"
-        android:elevation="10dp"
         tools:ignore="MissingConstraints" />
 
     <androidx.fragment.app.FragmentContainerView
