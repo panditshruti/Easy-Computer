@@ -19,10 +19,6 @@ private lateinit var binding: FragmentMcqQuestionBinding
         super.onViewCreated(view, savedInstanceState)
         binding = FragmentMcqQuestionBinding.bind(view)
 
-        requireActivity().window.setFlags(
-            WindowManager.LayoutParams.FLAG_SECURE,
-            WindowManager.LayoutParams.FLAG_SECURE
-        )
 
 
         val chapterName = arguments?.getString("chapterName")
